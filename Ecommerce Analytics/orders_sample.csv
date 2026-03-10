@@ -1,0 +1,2001 @@
+order_id,customer_id,order_date,category,state,city,revenue,items,payment_type
+ORD00001,C00556,2022-04-13,Food & Drink,PR,Curitiba,75.07,3,debit_card
+ORD00002,C00184,2022-11-27,Beauty,RS,Porto Alegre,70.0,3,boleto
+ORD00003,C00764,2022-11-05,Toys,RJ,Rio de Janeiro,85.0,1,credit_card
+ORD00004,C00334,2023-04-05,Automotive,SP,São Paulo,217.04,3,boleto
+ORD00005,C00769,2023-04-21,Home & Garden,BA,Salvador,393.54,1,debit_card
+ORD00006,C00330,2023-04-30,Beauty,ES,Vitória,40.04,4,credit_card
+ORD00007,C00276,2022-11-12,Health,ES,Vitória,21.15,2,voucher
+ORD00008,C00177,2022-04-02,Books,GO,Goiânia,28.24,2,credit_card
+ORD00009,C00125,2023-01-23,Toys,SC,Florianópolis,225.48,2,credit_card
+ORD00010,C00531,2023-02-06,Fashion,PE,Recife,359.51,2,debit_card
+ORD00011,C00036,2022-09-28,Books,ES,Vitória,385.05,1,voucher
+ORD00012,C00248,2022-12-04,Food & Drink,PE,Recife,386.62,4,voucher
+ORD00013,C00057,2023-05-08,Electronics,ES,Vitória,552.93,4,credit_card
+ORD00014,C00006,2023-04-17,Home & Garden,SP,São Paulo,288.87,3,credit_card
+ORD00015,C00030,2023-01-14,Books,PE,Recife,59.61,3,credit_card
+ORD00016,C00026,2022-02-02,Books,GO,Goiânia,271.38,4,voucher
+ORD00017,C00189,2023-07-01,Beauty,MG,Belo Horizonte,307.9,2,debit_card
+ORD00018,C00198,2023-02-02,Automotive,PE,Recife,24.79,1,debit_card
+ORD00019,C00126,2022-08-29,Sports,PR,Curitiba,110.98,1,debit_card
+ORD00020,C00082,2022-06-20,Books,MG,Belo Horizonte,77.07,2,boleto
+ORD00021,C00088,2022-01-28,Sports,PE,Recife,62.0,1,debit_card
+ORD00022,C00045,2022-07-09,Automotive,ES,Vitória,329.94,1,debit_card
+ORD00023,C00066,2022-12-25,Automotive,PR,Curitiba,281.59,2,voucher
+ORD00024,C00088,2023-01-09,Food & Drink,ES,Vitória,170.48,2,credit_card
+ORD00025,C00755,2023-03-18,Books,RJ,Rio de Janeiro,289.22,1,credit_card
+ORD00026,C00107,2022-03-22,Fashion,RJ,Rio de Janeiro,173.25,3,credit_card
+ORD00027,C00362,2022-08-13,Fashion,PR,Curitiba,203.44,4,boleto
+ORD00028,C00312,2023-02-20,Books,GO,Goiânia,106.49,3,boleto
+ORD00029,C00189,2022-10-07,Fashion,SC,Florianópolis,168.55,3,voucher
+ORD00030,C00603,2022-05-24,Toys,MG,Belo Horizonte,242.49,3,voucher
+ORD00031,C00454,2023-02-07,Home & Garden,RS,Porto Alegre,263.39,4,credit_card
+ORD00032,C00606,2022-12-04,Automotive,ES,Vitória,95.49,3,boleto
+ORD00033,C00104,2022-10-25,Health,ES,Vitória,213.9,1,boleto
+ORD00034,C00759,2022-10-31,Beauty,PR,Curitiba,354.81,3,credit_card
+ORD00035,C00140,2022-08-21,Home & Garden,RS,Porto Alegre,356.53,4,credit_card
+ORD00036,C00679,2023-02-24,Sports,MG,Belo Horizonte,158.33,1,debit_card
+ORD00037,C00003,2022-06-02,Fashion,RJ,Rio de Janeiro,281.38,4,credit_card
+ORD00038,C00008,2022-06-10,Beauty,RS,Porto Alegre,156.09,4,debit_card
+ORD00039,C00390,2022-07-14,Electronics,MG,Belo Horizonte,363.98,2,boleto
+ORD00040,C00775,2022-02-07,Home & Garden,SC,Florianópolis,363.85,3,boleto
+ORD00041,C00204,2022-10-04,Electronics,PR,Curitiba,145.07,4,debit_card
+ORD00042,C00010,2023-05-31,Electronics,SP,São Paulo,557.06,2,credit_card
+ORD00043,C00698,2022-02-15,Home & Garden,ES,Vitória,381.93,1,credit_card
+ORD00044,C00760,2022-10-29,Home & Garden,SP,São Paulo,44.01,1,credit_card
+ORD00045,C00127,2022-06-10,Fashion,ES,Vitória,166.96,2,boleto
+ORD00046,C00285,2022-11-19,Food & Drink,RJ,Rio de Janeiro,251.78,2,debit_card
+ORD00047,C00119,2022-06-04,Health,SP,São Paulo,341.74,1,debit_card
+ORD00048,C00144,2022-09-03,Health,BA,Salvador,176.62,2,credit_card
+ORD00049,C00696,2023-02-12,Health,BA,Salvador,208.08,1,voucher
+ORD00050,C00029,2022-11-17,Home & Garden,BA,Salvador,25.63,2,boleto
+ORD00051,C00187,2022-02-20,Toys,PE,Recife,346.26,1,voucher
+ORD00052,C00245,2022-02-23,Beauty,SP,São Paulo,333.73,4,voucher
+ORD00053,C00183,2022-01-05,Toys,RS,Porto Alegre,173.37,3,debit_card
+ORD00054,C00764,2022-09-26,Health,MG,Belo Horizonte,321.15,3,debit_card
+ORD00055,C00032,2022-02-27,Beauty,PE,Recife,385.62,3,debit_card
+ORD00056,C00427,2023-01-28,Electronics,PE,Recife,514.3,3,boleto
+ORD00057,C00260,2022-04-06,Automotive,GO,Goiânia,374.83,1,voucher
+ORD00058,C00486,2022-07-08,Beauty,SC,Florianópolis,296.07,3,voucher
+ORD00059,C00143,2022-06-03,Beauty,SC,Florianópolis,20.54,2,voucher
+ORD00060,C00038,2022-03-10,Sports,PR,Curitiba,197.56,2,boleto
+ORD00061,C00569,2023-03-08,Sports,SP,São Paulo,193.9,1,debit_card
+ORD00062,C00739,2023-06-06,Sports,RJ,Rio de Janeiro,115.44,2,boleto
+ORD00063,C00202,2023-03-18,Food & Drink,PR,Curitiba,278.33,4,voucher
+ORD00064,C00371,2022-12-02,Electronics,RS,Porto Alegre,331.18,2,debit_card
+ORD00065,C00052,2023-01-15,Home & Garden,PR,Curitiba,255.99,1,credit_card
+ORD00066,C00687,2022-06-17,Fashion,MG,Belo Horizonte,253.03,3,credit_card
+ORD00067,C00128,2022-03-31,Health,PE,Recife,23.96,2,debit_card
+ORD00068,C00432,2022-07-15,Fashion,GO,Goiânia,298.0,1,credit_card
+ORD00069,C00170,2023-01-29,Food & Drink,MG,Belo Horizonte,396.34,4,voucher
+ORD00070,C00137,2022-04-06,Beauty,SP,São Paulo,276.74,3,credit_card
+ORD00071,C00242,2022-09-30,Sports,ES,Vitória,138.22,3,debit_card
+ORD00072,C00022,2022-06-26,Automotive,MG,Belo Horizonte,50.15,3,voucher
+ORD00073,C00194,2023-01-19,Health,PR,Curitiba,50.31,4,credit_card
+ORD00074,C00503,2023-04-14,Books,ES,Vitória,58.68,1,boleto
+ORD00075,C00024,2022-07-05,Health,PR,Curitiba,298.76,1,debit_card
+ORD00076,C00514,2022-01-09,Electronics,SC,Florianópolis,66.33,1,voucher
+ORD00077,C00159,2022-06-19,Health,RJ,Rio de Janeiro,46.32,1,boleto
+ORD00078,C00298,2022-12-05,Electronics,SC,Florianópolis,459.1,3,debit_card
+ORD00079,C00311,2022-08-05,Sports,SC,Florianópolis,287.65,3,credit_card
+ORD00080,C00447,2022-07-01,Health,PE,Recife,142.15,2,debit_card
+ORD00081,C00005,2022-06-22,Health,RS,Porto Alegre,60.74,1,debit_card
+ORD00082,C00494,2022-12-27,Home & Garden,ES,Vitória,159.33,1,credit_card
+ORD00083,C00756,2022-04-27,Beauty,SC,Florianópolis,370.99,4,credit_card
+ORD00084,C00435,2022-08-15,Automotive,RJ,Rio de Janeiro,78.99,1,boleto
+ORD00085,C00182,2022-05-23,Beauty,SC,Florianópolis,239.96,4,debit_card
+ORD00086,C00751,2022-01-12,Food & Drink,SC,Florianópolis,190.43,4,credit_card
+ORD00087,C00068,2022-01-08,Sports,PE,Recife,164.48,4,boleto
+ORD00088,C00032,2023-06-24,Automotive,RS,Porto Alegre,394.69,2,debit_card
+ORD00089,C00112,2022-05-25,Beauty,RS,Porto Alegre,247.07,4,credit_card
+ORD00090,C00588,2023-07-01,Fashion,MG,Belo Horizonte,294.4,3,credit_card
+ORD00091,C00034,2023-03-26,Fashion,PR,Curitiba,25.15,1,boleto
+ORD00092,C00193,2022-03-06,Electronics,PR,Curitiba,425.02,1,boleto
+ORD00093,C00026,2023-04-06,Automotive,MG,Belo Horizonte,66.53,1,voucher
+ORD00094,C00431,2023-06-02,Beauty,PR,Curitiba,398.71,1,debit_card
+ORD00095,C00152,2023-04-03,Beauty,ES,Vitória,64.73,3,credit_card
+ORD00096,C00654,2023-03-22,Food & Drink,RJ,Rio de Janeiro,152.89,4,debit_card
+ORD00097,C00200,2022-06-03,Toys,SC,Florianópolis,335.08,2,voucher
+ORD00098,C00762,2022-02-23,Automotive,SP,São Paulo,66.6,3,debit_card
+ORD00099,C00542,2022-07-26,Fashion,MG,Belo Horizonte,362.71,4,voucher
+ORD00100,C00308,2022-11-02,Home & Garden,RJ,Rio de Janeiro,149.08,2,credit_card
+ORD00101,C00159,2022-12-01,Books,PE,Recife,347.01,1,credit_card
+ORD00102,C00712,2022-05-18,Health,SP,São Paulo,114.42,4,credit_card
+ORD00103,C00345,2023-06-30,Fashion,MG,Belo Horizonte,221.85,3,debit_card
+ORD00104,C00161,2022-04-05,Food & Drink,RS,Porto Alegre,85.02,4,credit_card
+ORD00105,C00650,2022-07-14,Fashion,PE,Recife,101.18,1,credit_card
+ORD00106,C00112,2023-04-11,Toys,PR,Curitiba,226.26,1,credit_card
+ORD00107,C00083,2023-06-08,Fashion,SP,São Paulo,208.82,1,debit_card
+ORD00108,C00037,2022-03-14,Automotive,SC,Florianópolis,46.48,2,debit_card
+ORD00109,C00025,2022-02-17,Health,RS,Porto Alegre,325.39,1,debit_card
+ORD00110,C00784,2022-09-10,Food & Drink,SC,Florianópolis,105.9,4,debit_card
+ORD00111,C00186,2022-03-19,Health,GO,Goiânia,66.25,3,debit_card
+ORD00112,C00239,2022-12-29,Fashion,PE,Recife,151.35,3,debit_card
+ORD00113,C00108,2022-07-11,Beauty,PE,Recife,232.13,1,debit_card
+ORD00114,C00131,2022-03-27,Automotive,SP,São Paulo,147.03,1,voucher
+ORD00115,C00548,2023-01-29,Fashion,RS,Porto Alegre,221.79,2,debit_card
+ORD00116,C00278,2023-01-04,Health,ES,Vitória,144.92,4,boleto
+ORD00117,C00285,2022-11-16,Food & Drink,SC,Florianópolis,248.22,1,credit_card
+ORD00118,C00062,2022-10-04,Books,RS,Porto Alegre,342.56,2,boleto
+ORD00119,C00070,2022-12-16,Books,ES,Vitória,45.89,3,debit_card
+ORD00120,C00437,2022-02-09,Food & Drink,SC,Florianópolis,168.17,4,debit_card
+ORD00121,C00003,2022-01-04,Toys,SP,São Paulo,203.94,2,debit_card
+ORD00122,C00463,2023-03-17,Food & Drink,PE,Recife,122.79,4,credit_card
+ORD00123,C00762,2022-11-22,Sports,MG,Belo Horizonte,91.81,4,credit_card
+ORD00124,C00046,2022-05-20,Health,SC,Florianópolis,238.78,3,debit_card
+ORD00125,C00021,2022-09-16,Fashion,GO,Goiânia,66.75,3,boleto
+ORD00126,C00081,2022-06-21,Food & Drink,RJ,Rio de Janeiro,48.83,3,credit_card
+ORD00127,C00513,2022-11-25,Food & Drink,SC,Florianópolis,173.56,2,debit_card
+ORD00128,C00496,2022-11-14,Fashion,PR,Curitiba,296.38,1,boleto
+ORD00129,C00712,2023-07-01,Toys,GO,Goiânia,333.76,1,boleto
+ORD00130,C00066,2022-10-18,Beauty,MG,Belo Horizonte,271.1,2,boleto
+ORD00131,C00127,2022-05-12,Health,ES,Vitória,277.95,4,debit_card
+ORD00132,C00680,2023-06-10,Toys,SP,São Paulo,302.83,3,credit_card
+ORD00133,C00680,2022-05-25,Books,RJ,Rio de Janeiro,224.27,4,voucher
+ORD00134,C00047,2022-02-08,Toys,MG,Belo Horizonte,256.67,4,boleto
+ORD00135,C00067,2023-03-24,Electronics,RS,Porto Alegre,420.65,3,voucher
+ORD00136,C00061,2022-06-06,Electronics,PR,Curitiba,440.65,1,boleto
+ORD00137,C00284,2022-07-15,Health,PR,Curitiba,352.55,1,boleto
+ORD00138,C00152,2022-06-08,Food & Drink,RS,Porto Alegre,167.96,1,voucher
+ORD00139,C00195,2022-09-18,Sports,RJ,Rio de Janeiro,19.7,3,debit_card
+ORD00140,C00460,2022-10-19,Beauty,RS,Porto Alegre,84.92,2,voucher
+ORD00141,C00161,2022-05-14,Health,PE,Recife,240.7,2,boleto
+ORD00142,C00041,2023-04-05,Sports,PR,Curitiba,370.16,4,debit_card
+ORD00143,C00526,2022-04-16,Health,ES,Vitória,178.29,1,boleto
+ORD00144,C00609,2022-10-23,Books,SP,São Paulo,58.6,1,boleto
+ORD00145,C00050,2023-02-24,Automotive,SP,São Paulo,349.91,3,debit_card
+ORD00146,C00022,2023-03-07,Automotive,PE,Recife,324.1,1,boleto
+ORD00147,C00245,2022-09-01,Toys,RJ,Rio de Janeiro,194.29,3,boleto
+ORD00148,C00181,2022-12-13,Home & Garden,SC,Florianópolis,82.91,3,voucher
+ORD00149,C00698,2023-05-16,Electronics,SC,Florianópolis,139.63,2,credit_card
+ORD00150,C00072,2022-02-18,Sports,ES,Vitória,72.24,2,boleto
+ORD00151,C00243,2023-04-21,Food & Drink,SP,São Paulo,130.34,4,credit_card
+ORD00152,C00171,2022-08-03,Food & Drink,MG,Belo Horizonte,149.51,2,credit_card
+ORD00153,C00015,2022-11-01,Food & Drink,MG,Belo Horizonte,40.3,2,debit_card
+ORD00154,C00234,2022-06-24,Toys,SP,São Paulo,169.29,2,debit_card
+ORD00155,C00635,2022-09-21,Books,MG,Belo Horizonte,158.72,2,debit_card
+ORD00156,C00164,2022-06-11,Books,BA,Salvador,75.12,2,debit_card
+ORD00157,C00164,2022-12-15,Automotive,BA,Salvador,112.75,3,debit_card
+ORD00158,C00042,2022-11-24,Beauty,MG,Belo Horizonte,356.67,4,debit_card
+ORD00159,C00040,2022-09-21,Food & Drink,GO,Goiânia,325.64,4,voucher
+ORD00160,C00402,2023-05-15,Beauty,BA,Salvador,360.09,3,boleto
+ORD00161,C00618,2022-05-31,Home & Garden,RS,Porto Alegre,262.53,2,boleto
+ORD00162,C00104,2023-06-07,Fashion,MG,Belo Horizonte,242.26,4,voucher
+ORD00163,C00139,2022-09-18,Automotive,RJ,Rio de Janeiro,346.51,3,voucher
+ORD00164,C00517,2023-05-21,Food & Drink,SP,São Paulo,349.36,4,debit_card
+ORD00165,C00073,2022-05-08,Fashion,MG,Belo Horizonte,212.3,1,voucher
+ORD00166,C00162,2022-08-25,Automotive,SC,Florianópolis,263.35,2,voucher
+ORD00167,C00681,2023-03-18,Fashion,BA,Salvador,278.03,2,boleto
+ORD00168,C00048,2022-05-08,Sports,ES,Vitória,120.51,1,credit_card
+ORD00169,C00199,2022-06-02,Books,PR,Curitiba,19.23,1,debit_card
+ORD00170,C00649,2022-10-14,Food & Drink,RJ,Rio de Janeiro,246.2,1,credit_card
+ORD00171,C00288,2023-03-31,Electronics,PE,Recife,238.96,2,boleto
+ORD00172,C00067,2022-05-10,Electronics,MG,Belo Horizonte,69.69,3,boleto
+ORD00173,C00156,2022-01-29,Food & Drink,RS,Porto Alegre,291.83,3,voucher
+ORD00174,C00740,2022-08-15,Books,GO,Goiânia,375.68,1,voucher
+ORD00175,C00108,2022-10-16,Sports,MG,Belo Horizonte,244.11,3,credit_card
+ORD00176,C00317,2023-05-22,Fashion,ES,Vitória,311.8,1,credit_card
+ORD00177,C00474,2022-10-23,Automotive,GO,Goiânia,182.41,3,debit_card
+ORD00178,C00032,2022-05-11,Home & Garden,SC,Florianópolis,242.24,3,credit_card
+ORD00179,C00569,2022-02-13,Electronics,SP,São Paulo,533.18,3,credit_card
+ORD00180,C00251,2022-01-12,Food & Drink,MG,Belo Horizonte,296.91,1,credit_card
+ORD00181,C00431,2023-04-30,Toys,GO,Goiânia,111.12,1,voucher
+ORD00182,C00733,2023-05-04,Health,BA,Salvador,399.75,2,credit_card
+ORD00183,C00699,2022-03-27,Beauty,BA,Salvador,129.48,4,voucher
+ORD00184,C00169,2023-05-13,Fashion,RS,Porto Alegre,340.15,2,debit_card
+ORD00185,C00374,2023-05-05,Food & Drink,MG,Belo Horizonte,230.86,1,boleto
+ORD00186,C00436,2022-05-11,Food & Drink,PE,Recife,294.04,4,debit_card
+ORD00187,C00565,2023-06-11,Sports,SC,Florianópolis,137.72,2,credit_card
+ORD00188,C00171,2022-01-16,Fashion,BA,Salvador,192.85,2,boleto
+ORD00189,C00650,2022-09-08,Fashion,MG,Belo Horizonte,41.96,2,voucher
+ORD00190,C00521,2022-01-29,Beauty,ES,Vitória,238.59,4,debit_card
+ORD00191,C00522,2023-01-12,Automotive,BA,Salvador,216.17,1,boleto
+ORD00192,C00187,2022-01-03,Food & Drink,RJ,Rio de Janeiro,129.08,2,credit_card
+ORD00193,C00008,2023-03-08,Automotive,SP,São Paulo,165.78,4,voucher
+ORD00194,C00740,2022-07-06,Beauty,SC,Florianópolis,393.2,3,boleto
+ORD00195,C00187,2022-12-10,Fashion,ES,Vitória,301.19,4,debit_card
+ORD00196,C00330,2022-11-06,Health,RJ,Rio de Janeiro,162.87,1,credit_card
+ORD00197,C00536,2023-05-21,Toys,PR,Curitiba,37.27,3,debit_card
+ORD00198,C00714,2023-06-05,Health,SP,São Paulo,81.95,2,debit_card
+ORD00199,C00796,2022-03-03,Home & Garden,MG,Belo Horizonte,101.41,4,credit_card
+ORD00200,C00312,2022-03-30,Beauty,RJ,Rio de Janeiro,191.11,4,debit_card
+ORD00201,C00667,2023-06-25,Automotive,RJ,Rio de Janeiro,346.92,1,debit_card
+ORD00202,C00718,2022-02-09,Fashion,GO,Goiânia,112.27,2,voucher
+ORD00203,C00469,2022-09-08,Health,RJ,Rio de Janeiro,46.2,4,voucher
+ORD00204,C00199,2022-04-24,Home & Garden,PE,Recife,234.96,4,boleto
+ORD00205,C00279,2022-02-09,Electronics,SC,Florianópolis,301.96,4,voucher
+ORD00206,C00621,2022-04-02,Automotive,ES,Vitória,373.08,4,debit_card
+ORD00207,C00076,2023-02-26,Beauty,PE,Recife,194.21,3,debit_card
+ORD00208,C00052,2023-03-02,Beauty,BA,Salvador,76.89,4,boleto
+ORD00209,C00003,2023-06-08,Electronics,ES,Vitória,361.55,3,boleto
+ORD00210,C00248,2023-03-24,Home & Garden,SC,Florianópolis,124.09,3,boleto
+ORD00211,C00756,2022-08-21,Beauty,SC,Florianópolis,375.83,4,voucher
+ORD00212,C00737,2022-08-30,Electronics,SC,Florianópolis,402.92,2,credit_card
+ORD00213,C00346,2022-01-22,Fashion,RJ,Rio de Janeiro,396.21,3,credit_card
+ORD00214,C00314,2022-08-15,Books,SP,São Paulo,139.59,3,voucher
+ORD00215,C00420,2023-04-04,Health,RJ,Rio de Janeiro,120.35,1,voucher
+ORD00216,C00181,2022-04-09,Books,BA,Salvador,332.98,3,voucher
+ORD00217,C00528,2022-05-10,Sports,SC,Florianópolis,65.56,3,credit_card
+ORD00218,C00061,2023-01-17,Beauty,PR,Curitiba,260.83,2,debit_card
+ORD00219,C00781,2023-03-29,Electronics,PE,Recife,502.92,3,boleto
+ORD00220,C00013,2022-06-12,Automotive,GO,Goiânia,156.88,3,voucher
+ORD00221,C00252,2022-07-27,Automotive,SP,São Paulo,50.1,4,debit_card
+ORD00222,C00614,2022-01-27,Sports,BA,Salvador,256.09,4,voucher
+ORD00223,C00706,2023-06-20,Home & Garden,RS,Porto Alegre,321.67,1,boleto
+ORD00224,C00318,2022-07-25,Sports,RS,Porto Alegre,229.99,4,credit_card
+ORD00225,C00108,2023-05-16,Food & Drink,GO,Goiânia,134.49,1,credit_card
+ORD00226,C00186,2022-03-13,Fashion,SC,Florianópolis,127.29,1,credit_card
+ORD00227,C00690,2022-04-12,Toys,MG,Belo Horizonte,55.4,1,voucher
+ORD00228,C00057,2022-02-15,Toys,SC,Florianópolis,95.98,1,boleto
+ORD00229,C00131,2022-08-30,Fashion,SP,São Paulo,48.83,1,boleto
+ORD00230,C00144,2022-04-26,Books,RJ,Rio de Janeiro,391.32,2,boleto
+ORD00231,C00561,2022-05-02,Fashion,PE,Recife,79.48,1,voucher
+ORD00232,C00448,2022-11-13,Toys,ES,Vitória,375.44,3,debit_card
+ORD00233,C00120,2023-02-20,Food & Drink,GO,Goiânia,289.92,2,voucher
+ORD00234,C00335,2022-11-14,Books,RS,Porto Alegre,227.91,2,boleto
+ORD00235,C00181,2022-01-22,Home & Garden,ES,Vitória,78.14,2,debit_card
+ORD00236,C00099,2022-01-12,Automotive,MG,Belo Horizonte,99.4,3,boleto
+ORD00237,C00494,2022-12-22,Books,PR,Curitiba,268.6,3,voucher
+ORD00238,C00251,2022-12-18,Home & Garden,PE,Recife,170.26,1,credit_card
+ORD00239,C00104,2022-07-26,Electronics,PR,Curitiba,412.94,1,voucher
+ORD00240,C00355,2023-02-08,Sports,GO,Goiânia,224.17,3,voucher
+ORD00241,C00012,2023-02-24,Fashion,RS,Porto Alegre,351.27,2,voucher
+ORD00242,C00111,2022-10-22,Home & Garden,PE,Recife,366.26,4,debit_card
+ORD00243,C00187,2022-08-25,Beauty,SP,São Paulo,65.65,4,voucher
+ORD00244,C00072,2023-04-23,Fashion,BA,Salvador,174.02,2,credit_card
+ORD00245,C00039,2022-11-14,Food & Drink,BA,Salvador,153.3,2,debit_card
+ORD00246,C00157,2022-05-25,Automotive,RJ,Rio de Janeiro,345.32,1,debit_card
+ORD00247,C00529,2023-03-25,Food & Drink,RS,Porto Alegre,388.38,3,debit_card
+ORD00248,C00661,2023-01-30,Toys,PE,Recife,187.78,4,boleto
+ORD00249,C00173,2022-12-27,Sports,GO,Goiânia,252.6,1,credit_card
+ORD00250,C00015,2022-10-11,Beauty,PR,Curitiba,220.4,1,credit_card
+ORD00251,C00638,2022-06-05,Toys,RS,Porto Alegre,118.85,2,credit_card
+ORD00252,C00093,2023-05-26,Health,SP,São Paulo,62.01,2,credit_card
+ORD00253,C00127,2022-02-28,Electronics,MG,Belo Horizonte,43.41,2,voucher
+ORD00254,C00759,2022-08-30,Fashion,ES,Vitória,261.06,1,debit_card
+ORD00255,C00102,2022-08-11,Fashion,BA,Salvador,271.74,4,debit_card
+ORD00256,C00054,2023-01-19,Sports,RJ,Rio de Janeiro,92.71,3,voucher
+ORD00257,C00038,2022-12-07,Food & Drink,SC,Florianópolis,349.23,2,debit_card
+ORD00258,C00606,2022-07-12,Health,PE,Recife,21.74,2,credit_card
+ORD00259,C00643,2023-06-22,Food & Drink,SP,São Paulo,26.7,4,credit_card
+ORD00260,C00087,2022-01-01,Beauty,PR,Curitiba,237.22,2,voucher
+ORD00261,C00163,2022-06-10,Automotive,PR,Curitiba,233.3,1,debit_card
+ORD00262,C00381,2022-11-20,Toys,RS,Porto Alegre,272.02,2,boleto
+ORD00263,C00558,2023-02-01,Home & Garden,SP,São Paulo,61.28,2,debit_card
+ORD00264,C00147,2022-03-06,Books,PR,Curitiba,161.46,1,credit_card
+ORD00265,C00096,2023-02-21,Electronics,MG,Belo Horizonte,143.5,2,debit_card
+ORD00266,C00251,2022-01-03,Food & Drink,RJ,Rio de Janeiro,199.49,1,credit_card
+ORD00267,C00044,2022-06-03,Beauty,RJ,Rio de Janeiro,217.75,3,voucher
+ORD00268,C00518,2022-02-12,Toys,RJ,Rio de Janeiro,290.46,3,credit_card
+ORD00269,C00079,2022-01-21,Books,PR,Curitiba,360.74,1,voucher
+ORD00270,C00025,2022-02-20,Beauty,SC,Florianópolis,89.9,2,credit_card
+ORD00271,C00114,2023-01-08,Home & Garden,GO,Goiânia,134.85,4,boleto
+ORD00272,C00110,2022-01-02,Sports,PE,Recife,61.93,3,debit_card
+ORD00273,C00632,2022-12-17,Books,BA,Salvador,128.68,1,boleto
+ORD00274,C00103,2023-03-21,Sports,RS,Porto Alegre,201.17,3,boleto
+ORD00275,C00150,2023-01-20,Health,BA,Salvador,260.62,1,boleto
+ORD00276,C00092,2022-08-08,Automotive,PE,Recife,82.29,1,credit_card
+ORD00277,C00142,2022-06-01,Health,PR,Curitiba,131.29,4,debit_card
+ORD00278,C00406,2022-03-01,Automotive,RJ,Rio de Janeiro,310.16,2,credit_card
+ORD00279,C00304,2023-03-15,Electronics,MG,Belo Horizonte,489.53,1,debit_card
+ORD00280,C00125,2023-03-08,Home & Garden,BA,Salvador,225.48,2,credit_card
+ORD00281,C00314,2022-03-18,Automotive,RJ,Rio de Janeiro,120.7,3,credit_card
+ORD00282,C00179,2023-01-09,Automotive,SP,São Paulo,21.09,4,voucher
+ORD00283,C00042,2022-10-29,Health,SC,Florianópolis,237.68,3,credit_card
+ORD00284,C00035,2022-02-05,Electronics,RS,Porto Alegre,124.42,4,credit_card
+ORD00285,C00142,2022-03-11,Sports,SP,São Paulo,335.27,4,credit_card
+ORD00286,C00094,2023-03-04,Beauty,GO,Goiânia,353.83,2,debit_card
+ORD00287,C00183,2023-01-16,Toys,SC,Florianópolis,35.15,4,boleto
+ORD00288,C00795,2022-07-28,Books,RS,Porto Alegre,38.15,4,boleto
+ORD00289,C00071,2023-03-29,Automotive,BA,Salvador,221.29,2,boleto
+ORD00290,C00508,2022-02-24,Electronics,GO,Goiânia,449.75,4,boleto
+ORD00291,C00048,2022-08-25,Home & Garden,GO,Goiânia,22.71,4,voucher
+ORD00292,C00248,2022-09-05,Automotive,PR,Curitiba,50.78,2,boleto
+ORD00293,C00507,2023-04-01,Electronics,PR,Curitiba,466.25,2,voucher
+ORD00294,C00015,2023-05-24,Electronics,BA,Salvador,162.82,2,credit_card
+ORD00295,C00139,2022-12-07,Automotive,ES,Vitória,211.24,3,voucher
+ORD00296,C00731,2023-02-11,Fashion,BA,Salvador,77.28,2,debit_card
+ORD00297,C00791,2022-05-23,Beauty,RS,Porto Alegre,95.28,3,credit_card
+ORD00298,C00248,2022-02-11,Home & Garden,GO,Goiânia,220.01,2,boleto
+ORD00299,C00549,2022-03-08,Sports,ES,Vitória,139.17,3,boleto
+ORD00300,C00090,2022-05-10,Sports,RJ,Rio de Janeiro,261.77,1,boleto
+ORD00301,C00635,2022-09-10,Sports,SP,São Paulo,248.41,2,boleto
+ORD00302,C00128,2023-01-16,Home & Garden,ES,Vitória,332.7,1,credit_card
+ORD00303,C00028,2023-04-27,Fashion,RS,Porto Alegre,67.04,4,credit_card
+ORD00304,C00759,2022-01-12,Sports,RJ,Rio de Janeiro,121.93,3,boleto
+ORD00305,C00344,2022-02-12,Books,MG,Belo Horizonte,163.79,1,debit_card
+ORD00306,C00024,2022-12-11,Fashion,GO,Goiânia,129.48,3,debit_card
+ORD00307,C00030,2022-04-09,Home & Garden,BA,Salvador,281.48,4,credit_card
+ORD00308,C00360,2022-09-17,Food & Drink,SP,São Paulo,104.57,4,voucher
+ORD00309,C00349,2022-08-09,Toys,BA,Salvador,293.86,1,voucher
+ORD00310,C00148,2023-04-28,Toys,BA,Salvador,297.44,2,credit_card
+ORD00311,C00100,2023-05-25,Beauty,SC,Florianópolis,319.28,1,boleto
+ORD00312,C00055,2023-04-16,Books,PR,Curitiba,97.85,1,boleto
+ORD00313,C00356,2022-08-30,Beauty,RJ,Rio de Janeiro,39.88,4,voucher
+ORD00314,C00044,2023-04-10,Beauty,RS,Porto Alegre,117.42,1,boleto
+ORD00315,C00061,2023-05-25,Sports,RJ,Rio de Janeiro,198.27,1,credit_card
+ORD00316,C00632,2023-03-12,Health,PR,Curitiba,383.15,1,credit_card
+ORD00317,C00545,2022-07-11,Automotive,ES,Vitória,279.93,4,voucher
+ORD00318,C00112,2022-01-29,Fashion,PE,Recife,112.43,4,credit_card
+ORD00319,C00365,2022-10-11,Fashion,GO,Goiânia,359.62,4,credit_card
+ORD00320,C00668,2022-03-20,Books,GO,Goiânia,354.75,1,voucher
+ORD00321,C00178,2023-03-25,Food & Drink,GO,Goiânia,47.64,3,credit_card
+ORD00322,C00029,2023-03-11,Food & Drink,SP,São Paulo,383.25,1,voucher
+ORD00323,C00790,2023-01-01,Sports,MG,Belo Horizonte,269.63,4,debit_card
+ORD00324,C00165,2023-05-06,Beauty,SC,Florianópolis,309.28,4,boleto
+ORD00325,C00762,2023-01-03,Food & Drink,GO,Goiânia,255.5,2,debit_card
+ORD00326,C00105,2023-01-17,Automotive,ES,Vitória,384.53,3,boleto
+ORD00327,C00129,2023-01-05,Sports,GO,Goiânia,58.87,1,credit_card
+ORD00328,C00498,2022-06-09,Fashion,PE,Recife,145.23,4,boleto
+ORD00329,C00039,2022-07-02,Food & Drink,PE,Recife,250.98,2,voucher
+ORD00330,C00714,2023-02-18,Home & Garden,SP,São Paulo,263.64,3,boleto
+ORD00331,C00127,2023-06-28,Books,SP,São Paulo,114.5,3,boleto
+ORD00332,C00507,2022-05-29,Beauty,GO,Goiânia,303.05,2,debit_card
+ORD00333,C00022,2022-08-24,Toys,SC,Florianópolis,394.1,2,voucher
+ORD00334,C00044,2023-04-11,Beauty,RS,Porto Alegre,329.85,3,debit_card
+ORD00335,C00609,2023-02-11,Toys,PR,Curitiba,242.28,4,debit_card
+ORD00336,C00061,2022-01-19,Books,ES,Vitória,308.03,3,voucher
+ORD00337,C00270,2022-12-28,Food & Drink,SP,São Paulo,300.56,3,credit_card
+ORD00338,C00078,2022-04-14,Health,RJ,Rio de Janeiro,93.55,2,credit_card
+ORD00339,C00340,2022-10-29,Fashion,ES,Vitória,159.48,1,voucher
+ORD00340,C00514,2022-08-22,Toys,SP,São Paulo,19.25,1,boleto
+ORD00341,C00148,2023-03-13,Home & Garden,BA,Salvador,196.07,3,credit_card
+ORD00342,C00155,2022-05-12,Sports,RS,Porto Alegre,315.45,2,debit_card
+ORD00343,C00157,2022-06-03,Beauty,SC,Florianópolis,282.81,1,boleto
+ORD00344,C00067,2022-02-07,Automotive,RS,Porto Alegre,169.9,3,voucher
+ORD00345,C00371,2022-08-09,Food & Drink,PR,Curitiba,238.29,3,voucher
+ORD00346,C00412,2023-06-20,Fashion,MG,Belo Horizonte,118.88,4,debit_card
+ORD00347,C00031,2022-11-15,Toys,GO,Goiânia,143.68,2,boleto
+ORD00348,C00547,2022-04-27,Home & Garden,RS,Porto Alegre,62.12,1,debit_card
+ORD00349,C00036,2023-04-26,Sports,SP,São Paulo,245.32,3,debit_card
+ORD00350,C00372,2022-04-28,Electronics,SC,Florianópolis,363.9,4,debit_card
+ORD00351,C00164,2023-02-03,Books,ES,Vitória,380.87,1,credit_card
+ORD00352,C00145,2023-05-15,Fashion,MG,Belo Horizonte,25.09,1,boleto
+ORD00353,C00304,2022-09-11,Toys,SP,São Paulo,372.9,3,credit_card
+ORD00354,C00624,2023-03-02,Health,MG,Belo Horizonte,160.11,4,credit_card
+ORD00355,C00175,2022-02-18,Beauty,RS,Porto Alegre,66.39,4,boleto
+ORD00356,C00199,2022-10-22,Electronics,GO,Goiânia,414.2,2,credit_card
+ORD00357,C00091,2022-07-01,Automotive,RS,Porto Alegre,267.93,4,credit_card
+ORD00358,C00023,2023-02-12,Toys,BA,Salvador,110.09,4,boleto
+ORD00359,C00512,2023-02-04,Health,ES,Vitória,314.03,4,credit_card
+ORD00360,C00014,2022-08-16,Sports,RJ,Rio de Janeiro,363.98,1,credit_card
+ORD00361,C00127,2022-07-15,Books,SC,Florianópolis,361.44,2,voucher
+ORD00362,C00757,2022-07-22,Books,PR,Curitiba,35.12,4,voucher
+ORD00363,C00477,2022-05-22,Health,PR,Curitiba,113.76,3,debit_card
+ORD00364,C00186,2022-11-01,Automotive,PR,Curitiba,249.28,1,credit_card
+ORD00365,C00009,2023-03-01,Beauty,RS,Porto Alegre,175.93,1,debit_card
+ORD00366,C00229,2022-10-16,Fashion,PE,Recife,223.88,3,boleto
+ORD00367,C00253,2022-06-26,Toys,SC,Florianópolis,341.06,2,credit_card
+ORD00368,C00735,2023-06-01,Automotive,RJ,Rio de Janeiro,52.56,4,voucher
+ORD00369,C00382,2023-03-11,Toys,GO,Goiânia,317.98,2,voucher
+ORD00370,C00544,2022-08-31,Books,PR,Curitiba,78.41,3,voucher
+ORD00371,C00008,2022-08-02,Food & Drink,PR,Curitiba,268.96,4,voucher
+ORD00372,C00181,2023-01-16,Health,PE,Recife,229.82,2,credit_card
+ORD00373,C00138,2022-09-11,Electronics,PE,Recife,289.32,2,debit_card
+ORD00374,C00181,2023-03-12,Fashion,MG,Belo Horizonte,184.81,3,voucher
+ORD00375,C00228,2022-09-25,Food & Drink,ES,Vitória,237.37,1,voucher
+ORD00376,C00240,2022-08-26,Health,RS,Porto Alegre,229.76,2,debit_card
+ORD00377,C00146,2023-01-22,Fashion,GO,Goiânia,210.21,4,credit_card
+ORD00378,C00673,2023-06-04,Beauty,RS,Porto Alegre,322.46,2,boleto
+ORD00379,C00048,2023-06-28,Books,SP,São Paulo,175.84,3,credit_card
+ORD00380,C00471,2023-06-17,Fashion,RS,Porto Alegre,398.88,2,debit_card
+ORD00381,C00052,2022-09-04,Beauty,ES,Vitória,50.82,4,credit_card
+ORD00382,C00152,2023-01-17,Home & Garden,ES,Vitória,330.34,2,boleto
+ORD00383,C00512,2022-07-30,Automotive,RJ,Rio de Janeiro,331.33,4,credit_card
+ORD00384,C00584,2022-08-14,Health,PR,Curitiba,58.48,2,boleto
+ORD00385,C00096,2023-02-21,Sports,RJ,Rio de Janeiro,148.96,3,boleto
+ORD00386,C00337,2022-11-10,Books,SC,Florianópolis,299.16,4,debit_card
+ORD00387,C00051,2022-10-16,Fashion,RJ,Rio de Janeiro,136.24,4,voucher
+ORD00388,C00070,2022-02-16,Automotive,RS,Porto Alegre,102.46,4,debit_card
+ORD00389,C00137,2022-07-10,Health,ES,Vitória,97.98,3,debit_card
+ORD00390,C00014,2023-06-17,Beauty,PR,Curitiba,266.47,2,voucher
+ORD00391,C00094,2023-04-05,Automotive,MG,Belo Horizonte,37.75,3,boleto
+ORD00392,C00689,2022-04-25,Books,RJ,Rio de Janeiro,187.12,2,boleto
+ORD00393,C00256,2023-05-16,Home & Garden,MG,Belo Horizonte,391.07,2,debit_card
+ORD00394,C00169,2022-10-08,Health,SC,Florianópolis,122.81,4,credit_card
+ORD00395,C00768,2022-03-24,Home & Garden,PE,Recife,284.24,4,voucher
+ORD00396,C00756,2022-06-22,Automotive,BA,Salvador,220.08,3,debit_card
+ORD00397,C00088,2023-02-02,Beauty,RS,Porto Alegre,52.17,2,credit_card
+ORD00398,C00281,2022-11-16,Sports,ES,Vitória,332.45,1,debit_card
+ORD00399,C00492,2022-11-30,Sports,RS,Porto Alegre,352.74,2,credit_card
+ORD00400,C00352,2022-05-07,Electronics,MG,Belo Horizonte,165.33,2,boleto
+ORD00401,C00226,2023-04-14,Beauty,RS,Porto Alegre,99.79,4,credit_card
+ORD00402,C00692,2022-07-20,Sports,MG,Belo Horizonte,334.28,4,voucher
+ORD00403,C00011,2022-03-06,Books,GO,Goiânia,137.02,4,boleto
+ORD00404,C00323,2023-06-11,Health,RS,Porto Alegre,185.7,4,credit_card
+ORD00405,C00444,2023-05-20,Sports,BA,Salvador,212.26,4,voucher
+ORD00406,C00545,2023-02-10,Home & Garden,SC,Florianópolis,116.13,4,boleto
+ORD00407,C00493,2022-12-13,Electronics,GO,Goiânia,362.78,2,boleto
+ORD00408,C00019,2022-09-19,Food & Drink,MG,Belo Horizonte,121.57,1,credit_card
+ORD00409,C00190,2022-04-03,Home & Garden,GO,Goiânia,195.85,4,credit_card
+ORD00410,C00004,2022-02-18,Food & Drink,RS,Porto Alegre,56.59,2,debit_card
+ORD00411,C00176,2022-12-07,Health,SC,Florianópolis,373.73,1,voucher
+ORD00412,C00046,2023-06-13,Home & Garden,BA,Salvador,236.29,3,credit_card
+ORD00413,C00792,2023-05-09,Electronics,GO,Goiânia,248.37,4,voucher
+ORD00414,C00406,2023-04-01,Electronics,PE,Recife,535.78,2,credit_card
+ORD00415,C00636,2023-06-04,Books,BA,Salvador,30.62,4,boleto
+ORD00416,C00154,2022-11-20,Sports,RJ,Rio de Janeiro,50.53,3,voucher
+ORD00417,C00681,2022-03-25,Health,MG,Belo Horizonte,151.59,3,boleto
+ORD00418,C00376,2022-04-15,Home & Garden,PE,Recife,208.33,3,boleto
+ORD00419,C00062,2023-01-12,Home & Garden,RS,Porto Alegre,260.58,1,boleto
+ORD00420,C00241,2023-01-22,Food & Drink,RJ,Rio de Janeiro,19.51,2,voucher
+ORD00421,C00180,2023-02-23,Books,PE,Recife,365.4,2,credit_card
+ORD00422,C00138,2022-05-07,Books,GO,Goiânia,266.13,4,credit_card
+ORD00423,C00623,2023-03-14,Sports,MG,Belo Horizonte,44.88,1,credit_card
+ORD00424,C00179,2022-01-30,Fashion,MG,Belo Horizonte,188.3,4,debit_card
+ORD00425,C00173,2022-02-10,Food & Drink,PE,Recife,157.47,2,voucher
+ORD00426,C00427,2023-01-15,Books,RJ,Rio de Janeiro,79.24,1,debit_card
+ORD00427,C00018,2022-07-15,Electronics,SP,São Paulo,531.24,3,credit_card
+ORD00428,C00375,2022-07-21,Home & Garden,SP,São Paulo,53.99,4,credit_card
+ORD00429,C00146,2023-01-27,Sports,GO,Goiânia,395.39,1,debit_card
+ORD00430,C00067,2023-01-23,Fashion,PR,Curitiba,102.97,4,debit_card
+ORD00431,C00055,2022-03-16,Health,SC,Florianópolis,371.37,3,boleto
+ORD00432,C00508,2022-09-19,Beauty,PE,Recife,361.53,1,credit_card
+ORD00433,C00150,2022-06-19,Home & Garden,BA,Salvador,185.99,2,voucher
+ORD00434,C00781,2022-07-20,Sports,SP,São Paulo,163.42,4,boleto
+ORD00435,C00777,2022-03-09,Automotive,SP,São Paulo,219.92,1,boleto
+ORD00436,C00607,2023-01-14,Home & Garden,PE,Recife,333.32,1,debit_card
+ORD00437,C00209,2023-05-12,Beauty,BA,Salvador,224.76,1,voucher
+ORD00438,C00800,2022-10-07,Fashion,RS,Porto Alegre,169.68,1,debit_card
+ORD00439,C00131,2022-04-14,Food & Drink,PE,Recife,192.66,3,credit_card
+ORD00440,C00016,2023-06-04,Electronics,PR,Curitiba,313.69,3,debit_card
+ORD00441,C00312,2022-03-05,Fashion,SC,Florianópolis,220.35,4,boleto
+ORD00442,C00260,2023-01-30,Beauty,SP,São Paulo,277.09,1,boleto
+ORD00443,C00764,2023-06-08,Home & Garden,MG,Belo Horizonte,212.47,4,voucher
+ORD00444,C00115,2022-08-16,Electronics,GO,Goiânia,258.82,3,debit_card
+ORD00445,C00293,2023-05-14,Home & Garden,PR,Curitiba,392.58,2,voucher
+ORD00446,C00191,2022-12-31,Automotive,GO,Goiânia,343.78,1,credit_card
+ORD00447,C00125,2022-05-27,Home & Garden,PR,Curitiba,211.52,2,credit_card
+ORD00448,C00481,2022-10-14,Fashion,SC,Florianópolis,279.77,3,debit_card
+ORD00449,C00120,2022-11-16,Fashion,ES,Vitória,122.32,4,boleto
+ORD00450,C00553,2022-02-26,Home & Garden,MG,Belo Horizonte,92.25,2,credit_card
+ORD00451,C00118,2023-05-03,Books,MG,Belo Horizonte,299.08,1,credit_card
+ORD00452,C00028,2022-01-01,Food & Drink,GO,Goiânia,311.04,4,credit_card
+ORD00453,C00662,2022-05-07,Home & Garden,RJ,Rio de Janeiro,55.2,3,credit_card
+ORD00454,C00425,2023-01-19,Toys,MG,Belo Horizonte,226.42,2,voucher
+ORD00455,C00003,2022-10-17,Home & Garden,SC,Florianópolis,130.33,4,credit_card
+ORD00456,C00611,2023-01-10,Toys,RJ,Rio de Janeiro,43.07,1,voucher
+ORD00457,C00085,2022-04-21,Fashion,BA,Salvador,169.5,3,boleto
+ORD00458,C00009,2022-01-27,Books,PR,Curitiba,339.26,1,credit_card
+ORD00459,C00014,2023-03-13,Home & Garden,PR,Curitiba,175.21,1,boleto
+ORD00460,C00667,2022-01-31,Books,PE,Recife,240.56,4,boleto
+ORD00461,C00232,2022-06-09,Fashion,RS,Porto Alegre,131.73,3,boleto
+ORD00462,C00225,2022-01-30,Books,GO,Goiânia,119.49,3,debit_card
+ORD00463,C00054,2022-10-17,Fashion,ES,Vitória,303.23,3,credit_card
+ORD00464,C00214,2022-08-29,Health,RJ,Rio de Janeiro,121.33,2,credit_card
+ORD00465,C00300,2022-12-09,Food & Drink,ES,Vitória,146.04,4,credit_card
+ORD00466,C00718,2022-06-06,Automotive,SP,São Paulo,65.02,1,debit_card
+ORD00467,C00287,2023-03-04,Fashion,MG,Belo Horizonte,182.02,1,boleto
+ORD00468,C00047,2023-02-25,Books,PE,Recife,232.38,4,debit_card
+ORD00469,C00067,2022-06-24,Beauty,PR,Curitiba,386.93,4,debit_card
+ORD00470,C00444,2023-03-28,Automotive,PR,Curitiba,198.03,3,voucher
+ORD00471,C00020,2022-10-20,Beauty,SC,Florianópolis,383.37,4,voucher
+ORD00472,C00184,2022-12-21,Fashion,MG,Belo Horizonte,157.38,4,debit_card
+ORD00473,C00167,2022-01-13,Sports,RJ,Rio de Janeiro,96.62,1,boleto
+ORD00474,C00477,2023-04-04,Toys,SP,São Paulo,321.55,3,credit_card
+ORD00475,C00158,2022-06-11,Food & Drink,BA,Salvador,63.4,3,voucher
+ORD00476,C00374,2022-11-22,Beauty,GO,Goiânia,195.24,1,voucher
+ORD00477,C00115,2023-06-17,Home & Garden,ES,Vitória,331.97,2,boleto
+ORD00478,C00040,2022-02-13,Health,PR,Curitiba,365.76,2,boleto
+ORD00479,C00166,2023-02-02,Automotive,MG,Belo Horizonte,170.65,1,voucher
+ORD00480,C00107,2022-07-01,Automotive,RS,Porto Alegre,31.04,2,boleto
+ORD00481,C00529,2022-04-29,Electronics,GO,Goiânia,91.89,4,debit_card
+ORD00482,C00007,2023-05-17,Automotive,RJ,Rio de Janeiro,84.97,3,voucher
+ORD00483,C00137,2023-05-16,Books,PE,Recife,100.96,1,boleto
+ORD00484,C00001,2022-01-12,Beauty,RS,Porto Alegre,226.13,4,debit_card
+ORD00485,C00010,2022-11-03,Food & Drink,SP,São Paulo,248.37,4,voucher
+ORD00486,C00160,2022-02-14,Sports,GO,Goiânia,40.29,1,credit_card
+ORD00487,C00194,2022-08-14,Books,PE,Recife,239.15,4,credit_card
+ORD00488,C00374,2023-03-10,Toys,ES,Vitória,93.92,2,voucher
+ORD00489,C00057,2022-07-18,Health,ES,Vitória,315.81,1,debit_card
+ORD00490,C00778,2022-09-24,Food & Drink,GO,Goiânia,363.97,3,voucher
+ORD00491,C00572,2023-05-06,Sports,SC,Florianópolis,126.84,4,credit_card
+ORD00492,C00450,2022-06-08,Fashion,PE,Recife,71.71,1,voucher
+ORD00493,C00180,2022-12-27,Toys,SP,São Paulo,383.8,3,boleto
+ORD00494,C00142,2022-01-15,Health,PR,Curitiba,385.49,2,boleto
+ORD00495,C00184,2023-03-22,Health,MG,Belo Horizonte,78.81,1,voucher
+ORD00496,C00678,2023-03-04,Electronics,SP,São Paulo,549.86,1,boleto
+ORD00497,C00157,2023-06-07,Toys,ES,Vitória,90.82,3,voucher
+ORD00498,C00228,2022-03-31,Beauty,ES,Vitória,368.96,3,debit_card
+ORD00499,C00006,2022-06-03,Home & Garden,RJ,Rio de Janeiro,283.85,3,credit_card
+ORD00500,C00761,2023-03-26,Food & Drink,PE,Recife,198.61,4,voucher
+ORD00501,C00093,2023-05-10,Books,SP,São Paulo,77.64,4,boleto
+ORD00502,C00200,2022-04-03,Automotive,PR,Curitiba,18.48,1,voucher
+ORD00503,C00263,2023-05-27,Beauty,GO,Goiânia,326.11,4,boleto
+ORD00504,C00570,2023-04-01,Toys,PR,Curitiba,109.64,1,debit_card
+ORD00505,C00048,2022-06-22,Automotive,SC,Florianópolis,168.17,3,boleto
+ORD00506,C00198,2023-05-14,Automotive,BA,Salvador,158.11,4,voucher
+ORD00507,C00293,2022-12-25,Electronics,RJ,Rio de Janeiro,555.93,1,voucher
+ORD00508,C00167,2022-04-01,Electronics,RJ,Rio de Janeiro,507.31,2,credit_card
+ORD00509,C00041,2023-02-08,Health,ES,Vitória,29.99,2,credit_card
+ORD00510,C00060,2023-02-05,Food & Drink,ES,Vitória,380.93,1,voucher
+ORD00511,C00131,2022-04-09,Home & Garden,MG,Belo Horizonte,70.37,3,debit_card
+ORD00512,C00616,2022-11-23,Beauty,PR,Curitiba,308.8,3,boleto
+ORD00513,C00200,2022-03-25,Sports,GO,Goiânia,86.66,3,voucher
+ORD00514,C00029,2023-05-09,Sports,PE,Recife,377.2,1,credit_card
+ORD00515,C00574,2023-01-02,Food & Drink,RS,Porto Alegre,282.04,4,voucher
+ORD00516,C00061,2022-01-04,Automotive,SP,São Paulo,222.55,4,voucher
+ORD00517,C00718,2022-10-06,Beauty,ES,Vitória,15.0,1,voucher
+ORD00518,C00022,2022-11-22,Health,GO,Goiânia,102.06,2,credit_card
+ORD00519,C00175,2022-11-13,Home & Garden,SC,Florianópolis,295.8,4,voucher
+ORD00520,C00479,2022-02-07,Sports,ES,Vitória,341.64,3,boleto
+ORD00521,C00676,2022-11-02,Beauty,ES,Vitória,112.33,3,boleto
+ORD00522,C00149,2022-07-04,Toys,RS,Porto Alegre,394.17,4,boleto
+ORD00523,C00251,2022-08-01,Food & Drink,SP,São Paulo,161.57,3,debit_card
+ORD00524,C00009,2022-07-21,Fashion,ES,Vitória,118.51,4,boleto
+ORD00525,C00145,2023-05-20,Sports,ES,Vitória,65.03,1,boleto
+ORD00526,C00211,2022-07-10,Sports,SP,São Paulo,374.18,4,boleto
+ORD00527,C00073,2022-04-14,Books,SC,Florianópolis,369.58,3,boleto
+ORD00528,C00621,2022-06-16,Automotive,SP,São Paulo,26.88,1,credit_card
+ORD00529,C00139,2022-03-14,Toys,RS,Porto Alegre,391.73,3,credit_card
+ORD00530,C00406,2022-03-17,Books,SP,São Paulo,135.11,2,debit_card
+ORD00531,C00544,2022-04-10,Sports,RJ,Rio de Janeiro,21.18,3,voucher
+ORD00532,C00005,2023-02-23,Health,SP,São Paulo,388.55,1,debit_card
+ORD00533,C00202,2022-11-11,Toys,ES,Vitória,220.7,4,debit_card
+ORD00534,C00124,2022-07-12,Toys,GO,Goiânia,84.01,4,boleto
+ORD00535,C00743,2023-04-28,Health,ES,Vitória,75.55,4,voucher
+ORD00536,C00127,2022-05-31,Toys,MG,Belo Horizonte,208.08,4,debit_card
+ORD00537,C00350,2022-07-25,Home & Garden,RJ,Rio de Janeiro,335.64,3,debit_card
+ORD00538,C00100,2022-07-29,Food & Drink,SP,São Paulo,226.31,2,credit_card
+ORD00539,C00077,2022-11-27,Electronics,SC,Florianópolis,201.05,1,voucher
+ORD00540,C00028,2022-03-10,Electronics,RJ,Rio de Janeiro,254.26,3,boleto
+ORD00541,C00029,2022-07-16,Books,RS,Porto Alegre,393.09,4,boleto
+ORD00542,C00359,2023-01-26,Books,MG,Belo Horizonte,317.33,1,voucher
+ORD00543,C00112,2023-02-08,Fashion,PE,Recife,367.17,4,boleto
+ORD00544,C00072,2022-07-21,Toys,PE,Recife,58.62,2,credit_card
+ORD00545,C00446,2022-03-23,Automotive,SP,São Paulo,148.41,4,debit_card
+ORD00546,C00083,2023-01-22,Automotive,MG,Belo Horizonte,118.39,4,voucher
+ORD00547,C00763,2022-06-15,Books,BA,Salvador,81.26,3,boleto
+ORD00548,C00119,2022-01-20,Toys,RS,Porto Alegre,245.63,4,debit_card
+ORD00549,C00265,2023-01-02,Beauty,RJ,Rio de Janeiro,285.96,2,debit_card
+ORD00550,C00412,2022-10-10,Electronics,SC,Florianópolis,189.66,4,debit_card
+ORD00551,C00001,2023-05-23,Sports,SP,São Paulo,60.07,1,boleto
+ORD00552,C00086,2022-03-20,Home & Garden,PR,Curitiba,93.01,2,voucher
+ORD00553,C00417,2023-02-18,Electronics,SP,São Paulo,228.85,3,credit_card
+ORD00554,C00181,2022-05-17,Electronics,PE,Recife,236.08,1,boleto
+ORD00555,C00773,2022-09-19,Electronics,PE,Recife,25.48,2,boleto
+ORD00556,C00669,2023-02-23,Beauty,ES,Vitória,182.1,3,voucher
+ORD00557,C00469,2023-01-14,Health,MG,Belo Horizonte,241.94,1,debit_card
+ORD00558,C00405,2023-01-12,Fashion,RS,Porto Alegre,93.55,3,credit_card
+ORD00559,C00021,2022-05-31,Sports,SP,São Paulo,97.55,1,debit_card
+ORD00560,C00142,2022-10-23,Fashion,MG,Belo Horizonte,97.91,1,debit_card
+ORD00561,C00033,2023-06-12,Books,PE,Recife,355.71,3,debit_card
+ORD00562,C00720,2022-06-13,Food & Drink,MG,Belo Horizonte,252.46,1,debit_card
+ORD00563,C00149,2023-05-09,Automotive,SC,Florianópolis,322.89,3,credit_card
+ORD00564,C00182,2022-07-06,Health,SC,Florianópolis,179.63,4,boleto
+ORD00565,C00058,2022-09-09,Fashion,RJ,Rio de Janeiro,207.53,4,debit_card
+ORD00566,C00081,2022-07-04,Toys,BA,Salvador,36.63,2,voucher
+ORD00567,C00113,2022-07-26,Home & Garden,SC,Florianópolis,267.24,1,boleto
+ORD00568,C00045,2022-02-07,Beauty,SP,São Paulo,86.47,1,boleto
+ORD00569,C00465,2023-03-31,Sports,MG,Belo Horizonte,57.52,1,credit_card
+ORD00570,C00710,2022-07-15,Food & Drink,PE,Recife,221.19,1,credit_card
+ORD00571,C00031,2022-11-15,Food & Drink,ES,Vitória,333.82,2,voucher
+ORD00572,C00131,2023-01-24,Health,SP,São Paulo,209.67,3,voucher
+ORD00573,C00128,2022-04-07,Automotive,SC,Florianópolis,228.05,3,debit_card
+ORD00574,C00631,2023-03-01,Health,BA,Salvador,337.59,3,voucher
+ORD00575,C00176,2023-02-18,Toys,ES,Vitória,76.74,1,debit_card
+ORD00576,C00092,2023-01-07,Books,SP,São Paulo,300.14,1,boleto
+ORD00577,C00479,2023-04-30,Fashion,SC,Florianópolis,223.43,2,credit_card
+ORD00578,C00479,2022-08-23,Home & Garden,PE,Recife,151.39,4,debit_card
+ORD00579,C00330,2022-08-22,Books,BA,Salvador,108.84,3,debit_card
+ORD00580,C00088,2022-04-28,Food & Drink,GO,Goiânia,394.7,1,debit_card
+ORD00581,C00172,2022-10-16,Home & Garden,MG,Belo Horizonte,283.13,3,boleto
+ORD00582,C00082,2023-03-25,Fashion,MG,Belo Horizonte,225.47,1,boleto
+ORD00583,C00240,2022-04-03,Electronics,PR,Curitiba,84.17,1,debit_card
+ORD00584,C00215,2022-10-09,Beauty,PE,Recife,359.83,3,boleto
+ORD00585,C00168,2022-04-13,Electronics,SP,São Paulo,483.09,3,credit_card
+ORD00586,C00273,2023-01-22,Beauty,PE,Recife,112.51,1,boleto
+ORD00587,C00243,2022-03-14,Electronics,ES,Vitória,492.18,1,debit_card
+ORD00588,C00134,2022-12-30,Automotive,BA,Salvador,188.75,3,debit_card
+ORD00589,C00194,2023-03-05,Beauty,ES,Vitória,324.36,3,voucher
+ORD00590,C00027,2022-07-13,Toys,SC,Florianópolis,164.92,1,voucher
+ORD00591,C00618,2022-10-19,Sports,ES,Vitória,392.96,2,boleto
+ORD00592,C00565,2022-11-29,Sports,PE,Recife,138.65,3,debit_card
+ORD00593,C00150,2022-07-25,Books,RS,Porto Alegre,193.73,4,debit_card
+ORD00594,C00140,2022-05-02,Fashion,SP,São Paulo,158.7,3,voucher
+ORD00595,C00528,2023-04-27,Automotive,RS,Porto Alegre,310.11,2,boleto
+ORD00596,C00503,2023-01-03,Books,PE,Recife,307.02,3,credit_card
+ORD00597,C00345,2022-07-30,Books,ES,Vitória,148.58,2,credit_card
+ORD00598,C00690,2023-03-18,Books,MG,Belo Horizonte,181.77,2,voucher
+ORD00599,C00295,2023-05-05,Toys,PE,Recife,133.16,1,credit_card
+ORD00600,C00109,2022-09-24,Food & Drink,GO,Goiânia,135.82,4,credit_card
+ORD00601,C00170,2023-01-21,Health,SP,São Paulo,240.1,2,voucher
+ORD00602,C00587,2023-01-06,Fashion,SP,São Paulo,119.7,2,credit_card
+ORD00603,C00365,2022-08-27,Home & Garden,SP,São Paulo,218.56,4,voucher
+ORD00604,C00112,2023-01-13,Sports,BA,Salvador,116.88,3,credit_card
+ORD00605,C00534,2022-07-26,Books,BA,Salvador,87.27,4,boleto
+ORD00606,C00148,2022-12-06,Food & Drink,SP,São Paulo,193.64,2,boleto
+ORD00607,C00667,2023-02-09,Beauty,GO,Goiânia,345.38,4,boleto
+ORD00608,C00678,2022-08-05,Food & Drink,GO,Goiânia,298.45,3,voucher
+ORD00609,C00591,2022-03-18,Fashion,GO,Goiânia,110.87,2,credit_card
+ORD00610,C00799,2022-01-27,Health,MG,Belo Horizonte,399.09,3,debit_card
+ORD00611,C00165,2023-02-04,Electronics,MG,Belo Horizonte,33.09,3,credit_card
+ORD00612,C00163,2023-05-14,Beauty,MG,Belo Horizonte,21.06,3,boleto
+ORD00613,C00448,2022-04-24,Sports,BA,Salvador,337.29,3,boleto
+ORD00614,C00727,2022-12-21,Beauty,PR,Curitiba,169.9,3,credit_card
+ORD00615,C00789,2022-03-09,Home & Garden,RJ,Rio de Janeiro,287.35,3,credit_card
+ORD00616,C00284,2022-10-03,Books,GO,Goiânia,160.96,2,debit_card
+ORD00617,C00234,2023-06-24,Beauty,MG,Belo Horizonte,185.58,2,voucher
+ORD00618,C00185,2022-04-23,Toys,ES,Vitória,209.04,4,debit_card
+ORD00619,C00410,2022-07-08,Books,SC,Florianópolis,158.65,3,debit_card
+ORD00620,C00358,2022-10-04,Books,ES,Vitória,263.04,1,credit_card
+ORD00621,C00111,2022-07-01,Home & Garden,SP,São Paulo,259.84,4,credit_card
+ORD00622,C00183,2023-02-10,Electronics,RJ,Rio de Janeiro,31.32,4,credit_card
+ORD00623,C00069,2023-01-10,Food & Drink,SC,Florianópolis,278.99,2,debit_card
+ORD00624,C00196,2022-06-05,Fashion,PR,Curitiba,336.01,2,voucher
+ORD00625,C00300,2023-03-14,Food & Drink,GO,Goiânia,243.72,4,voucher
+ORD00626,C00170,2022-01-29,Electronics,RS,Porto Alegre,495.84,4,boleto
+ORD00627,C00202,2023-06-03,Food & Drink,PR,Curitiba,323.03,4,debit_card
+ORD00628,C00797,2022-03-14,Sports,PR,Curitiba,360.49,3,debit_card
+ORD00629,C00729,2022-09-21,Beauty,RS,Porto Alegre,148.79,1,debit_card
+ORD00630,C00581,2022-09-25,Health,MG,Belo Horizonte,227.47,2,boleto
+ORD00631,C00085,2022-03-12,Fashion,RS,Porto Alegre,36.26,4,boleto
+ORD00632,C00236,2023-04-30,Beauty,ES,Vitória,387.59,4,voucher
+ORD00633,C00063,2022-02-25,Food & Drink,GO,Goiânia,64.93,3,voucher
+ORD00634,C00142,2022-02-18,Sports,PR,Curitiba,80.49,4,debit_card
+ORD00635,C00138,2022-12-04,Food & Drink,GO,Goiânia,46.85,2,debit_card
+ORD00636,C00449,2023-01-10,Beauty,SC,Florianópolis,315.51,4,boleto
+ORD00637,C00002,2022-12-21,Books,SP,São Paulo,185.07,3,debit_card
+ORD00638,C00587,2023-05-05,Health,PR,Curitiba,176.16,1,boleto
+ORD00639,C00290,2022-03-30,Home & Garden,GO,Goiânia,270.72,2,debit_card
+ORD00640,C00609,2023-05-18,Electronics,ES,Vitória,527.89,2,debit_card
+ORD00641,C00189,2022-03-23,Automotive,SC,Florianópolis,337.72,3,credit_card
+ORD00642,C00560,2022-08-15,Books,BA,Salvador,189.79,1,voucher
+ORD00643,C00079,2023-05-03,Electronics,SP,São Paulo,115.59,3,credit_card
+ORD00644,C00196,2022-07-07,Toys,RS,Porto Alegre,388.54,4,credit_card
+ORD00645,C00057,2022-07-06,Toys,GO,Goiânia,86.33,2,debit_card
+ORD00646,C00197,2023-02-16,Toys,RJ,Rio de Janeiro,362.73,4,credit_card
+ORD00647,C00764,2023-02-26,Food & Drink,ES,Vitória,317.47,4,debit_card
+ORD00648,C00673,2023-01-22,Electronics,PR,Curitiba,115.39,1,debit_card
+ORD00649,C00088,2022-10-14,Health,RS,Porto Alegre,111.12,2,voucher
+ORD00650,C00349,2023-06-09,Health,RJ,Rio de Janeiro,35.6,4,credit_card
+ORD00651,C00061,2022-12-03,Electronics,SP,São Paulo,210.31,1,voucher
+ORD00652,C00095,2022-02-27,Books,GO,Goiânia,94.9,2,debit_card
+ORD00653,C00187,2022-08-17,Automotive,BA,Salvador,202.6,2,debit_card
+ORD00654,C00800,2022-10-13,Fashion,RJ,Rio de Janeiro,80.72,1,boleto
+ORD00655,C00339,2023-04-12,Automotive,RS,Porto Alegre,211.29,3,credit_card
+ORD00656,C00352,2023-04-16,Electronics,ES,Vitória,257.18,2,debit_card
+ORD00657,C00556,2022-01-01,Fashion,ES,Vitória,144.36,4,credit_card
+ORD00658,C00045,2022-08-25,Automotive,GO,Goiânia,123.2,2,voucher
+ORD00659,C00333,2022-11-17,Health,MG,Belo Horizonte,304.05,3,debit_card
+ORD00660,C00085,2022-09-30,Health,PR,Curitiba,232.83,3,voucher
+ORD00661,C00147,2023-01-25,Toys,PR,Curitiba,303.53,3,boleto
+ORD00662,C00114,2022-08-21,Home & Garden,GO,Goiânia,26.59,3,boleto
+ORD00663,C00017,2022-03-04,Books,SP,São Paulo,266.55,4,boleto
+ORD00664,C00618,2022-01-28,Books,PR,Curitiba,355.67,4,boleto
+ORD00665,C00696,2022-08-06,Sports,PE,Recife,190.41,2,voucher
+ORD00666,C00139,2022-04-15,Home & Garden,PE,Recife,122.08,2,voucher
+ORD00667,C00791,2022-07-29,Electronics,GO,Goiânia,527.12,2,voucher
+ORD00668,C00066,2023-05-07,Food & Drink,GO,Goiânia,146.45,1,credit_card
+ORD00669,C00202,2023-05-26,Health,GO,Goiânia,196.32,2,credit_card
+ORD00670,C00378,2022-10-09,Food & Drink,PE,Recife,83.22,4,credit_card
+ORD00671,C00509,2022-07-14,Electronics,MG,Belo Horizonte,135.51,1,voucher
+ORD00672,C00461,2022-10-09,Books,RJ,Rio de Janeiro,359.79,3,voucher
+ORD00673,C00120,2022-03-28,Electronics,SC,Florianópolis,123.74,2,debit_card
+ORD00674,C00325,2023-01-13,Sports,SP,São Paulo,331.66,1,boleto
+ORD00675,C00047,2023-04-26,Health,PE,Recife,67.78,3,boleto
+ORD00676,C00066,2022-01-25,Automotive,PE,Recife,225.48,1,debit_card
+ORD00677,C00088,2022-04-22,Books,RS,Porto Alegre,238.85,1,voucher
+ORD00678,C00679,2022-07-11,Fashion,PE,Recife,140.82,1,voucher
+ORD00679,C00102,2023-05-18,Beauty,PE,Recife,237.09,3,credit_card
+ORD00680,C00037,2022-02-25,Toys,PR,Curitiba,40.89,4,boleto
+ORD00681,C00440,2023-03-25,Home & Garden,BA,Salvador,81.42,3,voucher
+ORD00682,C00099,2023-03-21,Health,ES,Vitória,27.23,2,credit_card
+ORD00683,C00058,2023-05-10,Sports,ES,Vitória,281.42,3,boleto
+ORD00684,C00290,2022-04-21,Automotive,PE,Recife,153.3,1,debit_card
+ORD00685,C00031,2022-07-28,Home & Garden,GO,Goiânia,75.95,1,credit_card
+ORD00686,C00187,2022-06-15,Toys,MG,Belo Horizonte,100.18,3,voucher
+ORD00687,C00292,2023-03-21,Electronics,PR,Curitiba,131.09,4,boleto
+ORD00688,C00238,2023-02-11,Health,PR,Curitiba,135.04,2,boleto
+ORD00689,C00344,2023-03-24,Sports,SP,São Paulo,372.32,2,credit_card
+ORD00690,C00096,2023-01-19,Home & Garden,MG,Belo Horizonte,44.57,3,voucher
+ORD00691,C00601,2022-05-02,Food & Drink,GO,Goiânia,250.55,1,debit_card
+ORD00692,C00755,2022-12-29,Home & Garden,RS,Porto Alegre,174.07,2,voucher
+ORD00693,C00112,2023-02-02,Sports,GO,Goiânia,75.37,4,voucher
+ORD00694,C00063,2022-07-09,Health,RJ,Rio de Janeiro,229.46,2,voucher
+ORD00695,C00105,2022-06-20,Books,RJ,Rio de Janeiro,356.18,4,voucher
+ORD00696,C00152,2023-01-06,Automotive,MG,Belo Horizonte,50.18,2,boleto
+ORD00697,C00538,2022-07-16,Books,RJ,Rio de Janeiro,332.42,1,debit_card
+ORD00698,C00004,2023-03-29,Food & Drink,PE,Recife,106.3,4,voucher
+ORD00699,C00699,2022-04-03,Health,RJ,Rio de Janeiro,111.06,2,voucher
+ORD00700,C00124,2023-04-02,Sports,SC,Florianópolis,140.21,3,debit_card
+ORD00701,C00003,2022-04-16,Electronics,RS,Porto Alegre,195.82,1,credit_card
+ORD00702,C00406,2023-02-20,Toys,MG,Belo Horizonte,379.5,4,boleto
+ORD00703,C00798,2023-05-30,Books,SP,São Paulo,180.93,3,credit_card
+ORD00704,C00665,2022-03-24,Beauty,RS,Porto Alegre,225.39,2,credit_card
+ORD00705,C00279,2022-08-25,Automotive,PE,Recife,360.72,1,boleto
+ORD00706,C00137,2022-11-10,Automotive,ES,Vitória,269.76,4,voucher
+ORD00707,C00094,2022-04-09,Beauty,PR,Curitiba,380.08,3,debit_card
+ORD00708,C00112,2023-03-24,Fashion,ES,Vitória,176.56,2,debit_card
+ORD00709,C00169,2022-11-27,Home & Garden,RJ,Rio de Janeiro,345.31,3,boleto
+ORD00710,C00538,2022-09-19,Health,RS,Porto Alegre,389.91,2,boleto
+ORD00711,C00280,2022-10-10,Food & Drink,BA,Salvador,65.81,3,boleto
+ORD00712,C00165,2022-01-12,Electronics,SP,São Paulo,142.86,1,voucher
+ORD00713,C00039,2022-03-31,Toys,PR,Curitiba,47.16,4,boleto
+ORD00714,C00021,2022-03-12,Beauty,MG,Belo Horizonte,201.49,3,boleto
+ORD00715,C00065,2023-03-12,Health,PR,Curitiba,325.09,3,debit_card
+ORD00716,C00060,2022-10-12,Toys,RS,Porto Alegre,171.97,4,voucher
+ORD00717,C00023,2022-05-26,Sports,MG,Belo Horizonte,283.41,1,debit_card
+ORD00718,C00138,2022-08-09,Sports,RS,Porto Alegre,135.09,1,debit_card
+ORD00719,C00407,2022-04-26,Automotive,RS,Porto Alegre,274.14,4,boleto
+ORD00720,C00063,2023-06-01,Beauty,SC,Florianópolis,273.44,1,voucher
+ORD00721,C00047,2022-05-15,Health,MG,Belo Horizonte,237.46,1,debit_card
+ORD00722,C00783,2022-12-05,Fashion,RS,Porto Alegre,186.88,2,voucher
+ORD00723,C00374,2022-05-24,Books,PR,Curitiba,180.4,4,credit_card
+ORD00724,C00536,2022-12-07,Health,RJ,Rio de Janeiro,112.63,1,credit_card
+ORD00725,C00079,2022-12-14,Beauty,PE,Recife,319.71,2,voucher
+ORD00726,C00025,2022-04-18,Food & Drink,RJ,Rio de Janeiro,274.43,1,debit_card
+ORD00727,C00061,2022-01-12,Electronics,SC,Florianópolis,346.1,4,boleto
+ORD00728,C00001,2022-11-12,Sports,SC,Florianópolis,70.21,4,credit_card
+ORD00729,C00732,2023-03-20,Electronics,GO,Goiânia,423.68,2,debit_card
+ORD00730,C00381,2023-02-25,Toys,ES,Vitória,342.04,3,debit_card
+ORD00731,C00137,2022-12-02,Health,ES,Vitória,372.61,4,credit_card
+ORD00732,C00348,2022-07-20,Automotive,RJ,Rio de Janeiro,339.18,3,voucher
+ORD00733,C00408,2022-11-17,Sports,GO,Goiânia,204.65,2,debit_card
+ORD00734,C00160,2022-03-19,Beauty,RS,Porto Alegre,232.11,4,credit_card
+ORD00735,C00636,2022-05-08,Toys,GO,Goiânia,342.86,1,voucher
+ORD00736,C00231,2022-01-22,Sports,GO,Goiânia,319.99,1,credit_card
+ORD00737,C00338,2022-06-13,Toys,MG,Belo Horizonte,112.65,1,debit_card
+ORD00738,C00088,2023-02-04,Sports,PR,Curitiba,258.98,2,debit_card
+ORD00739,C00130,2023-01-31,Books,BA,Salvador,63.61,3,voucher
+ORD00740,C00598,2023-02-05,Fashion,PR,Curitiba,54.82,4,debit_card
+ORD00741,C00048,2022-07-25,Electronics,PR,Curitiba,404.84,1,voucher
+ORD00742,C00060,2022-03-24,Books,GO,Goiânia,359.35,4,debit_card
+ORD00743,C00264,2022-07-20,Automotive,SC,Florianópolis,271.51,1,voucher
+ORD00744,C00038,2022-03-13,Sports,BA,Salvador,46.2,3,debit_card
+ORD00745,C00162,2022-12-10,Toys,PE,Recife,40.34,4,boleto
+ORD00746,C00129,2022-07-12,Beauty,SP,São Paulo,170.04,1,voucher
+ORD00747,C00311,2022-11-22,Home & Garden,SP,São Paulo,258.47,3,credit_card
+ORD00748,C00048,2023-04-20,Sports,RS,Porto Alegre,305.09,4,debit_card
+ORD00749,C00038,2022-04-12,Automotive,SC,Florianópolis,133.4,3,credit_card
+ORD00750,C00079,2022-02-12,Sports,GO,Goiânia,385.94,4,debit_card
+ORD00751,C00120,2022-01-26,Automotive,RS,Porto Alegre,265.98,4,debit_card
+ORD00752,C00303,2023-03-11,Books,PE,Recife,128.83,3,boleto
+ORD00753,C00109,2023-03-03,Toys,RS,Porto Alegre,133.49,2,voucher
+ORD00754,C00254,2022-08-20,Sports,SC,Florianópolis,359.05,3,debit_card
+ORD00755,C00187,2022-12-25,Automotive,PE,Recife,311.62,4,debit_card
+ORD00756,C00009,2023-02-25,Food & Drink,ES,Vitória,390.44,1,boleto
+ORD00757,C00411,2022-04-26,Electronics,BA,Salvador,265.8,3,voucher
+ORD00758,C00261,2023-03-14,Books,RJ,Rio de Janeiro,240.05,3,credit_card
+ORD00759,C00579,2023-06-22,Home & Garden,SP,São Paulo,209.78,2,debit_card
+ORD00760,C00798,2022-12-14,Sports,GO,Goiânia,394.54,2,boleto
+ORD00761,C00392,2023-05-22,Toys,RS,Porto Alegre,167.82,4,debit_card
+ORD00762,C00729,2022-08-05,Toys,SP,São Paulo,382.51,1,boleto
+ORD00763,C00323,2023-03-17,Fashion,SC,Florianópolis,349.25,1,credit_card
+ORD00764,C00066,2022-07-07,Electronics,RS,Porto Alegre,133.56,2,voucher
+ORD00765,C00017,2023-05-28,Fashion,ES,Vitória,52.96,4,credit_card
+ORD00766,C00249,2022-10-19,Automotive,RJ,Rio de Janeiro,81.25,1,voucher
+ORD00767,C00061,2022-12-21,Sports,PR,Curitiba,46.04,4,boleto
+ORD00768,C00203,2022-02-08,Toys,RJ,Rio de Janeiro,257.59,2,voucher
+ORD00769,C00123,2023-06-14,Books,SP,São Paulo,139.39,2,debit_card
+ORD00770,C00071,2022-03-31,Toys,GO,Goiânia,323.65,3,credit_card
+ORD00771,C00005,2022-12-23,Health,SP,São Paulo,72.42,4,boleto
+ORD00772,C00137,2022-06-04,Toys,PR,Curitiba,19.97,1,credit_card
+ORD00773,C00176,2022-04-27,Sports,BA,Salvador,161.67,2,boleto
+ORD00774,C00076,2022-09-16,Fashion,SC,Florianópolis,98.29,1,voucher
+ORD00775,C00177,2023-01-13,Fashion,RS,Porto Alegre,150.94,1,voucher
+ORD00776,C00088,2022-01-22,Toys,PE,Recife,317.0,1,credit_card
+ORD00777,C00640,2022-05-24,Books,MG,Belo Horizonte,255.88,1,boleto
+ORD00778,C00584,2023-03-05,Beauty,BA,Salvador,318.28,1,voucher
+ORD00779,C00091,2023-03-19,Books,PE,Recife,45.84,1,debit_card
+ORD00780,C00074,2023-01-22,Home & Garden,SC,Florianópolis,163.26,2,credit_card
+ORD00781,C00194,2022-12-15,Food & Drink,GO,Goiânia,338.07,4,debit_card
+ORD00782,C00029,2023-03-27,Books,MG,Belo Horizonte,353.04,4,boleto
+ORD00783,C00046,2022-11-29,Books,BA,Salvador,31.97,1,boleto
+ORD00784,C00230,2023-02-12,Electronics,PE,Recife,530.88,2,voucher
+ORD00785,C00031,2023-01-04,Automotive,SP,São Paulo,321.65,2,voucher
+ORD00786,C00144,2023-02-24,Toys,PR,Curitiba,380.36,2,boleto
+ORD00787,C00037,2022-05-21,Fashion,ES,Vitória,36.34,4,debit_card
+ORD00788,C00166,2022-04-21,Sports,SP,São Paulo,23.55,1,boleto
+ORD00789,C00762,2022-11-19,Toys,GO,Goiânia,136.42,2,credit_card
+ORD00790,C00068,2022-09-26,Sports,SC,Florianópolis,252.75,2,boleto
+ORD00791,C00133,2023-01-05,Fashion,ES,Vitória,264.27,3,debit_card
+ORD00792,C00425,2022-11-05,Toys,GO,Goiânia,168.74,3,debit_card
+ORD00793,C00559,2023-03-16,Fashion,BA,Salvador,119.97,4,debit_card
+ORD00794,C00600,2022-10-16,Sports,SP,São Paulo,383.52,3,boleto
+ORD00795,C00167,2022-05-07,Toys,BA,Salvador,233.89,2,voucher
+ORD00796,C00411,2023-06-24,Food & Drink,BA,Salvador,380.47,1,boleto
+ORD00797,C00790,2022-03-26,Electronics,SC,Florianópolis,212.58,4,debit_card
+ORD00798,C00144,2022-12-18,Fashion,BA,Salvador,108.86,1,credit_card
+ORD00799,C00028,2023-04-11,Food & Drink,MG,Belo Horizonte,151.61,2,voucher
+ORD00800,C00440,2022-12-06,Automotive,PR,Curitiba,233.45,3,credit_card
+ORD00801,C00216,2022-03-31,Electronics,BA,Salvador,192.03,2,credit_card
+ORD00802,C00433,2023-02-05,Fashion,ES,Vitória,137.83,1,boleto
+ORD00803,C00115,2022-11-27,Toys,SC,Florianópolis,24.22,2,boleto
+ORD00804,C00052,2022-06-17,Beauty,MG,Belo Horizonte,38.45,3,boleto
+ORD00805,C00145,2022-08-29,Food & Drink,MG,Belo Horizonte,360.18,4,credit_card
+ORD00806,C00198,2023-03-05,Fashion,ES,Vitória,136.69,1,debit_card
+ORD00807,C00500,2022-01-25,Home & Garden,ES,Vitória,235.27,3,credit_card
+ORD00808,C00154,2023-03-15,Automotive,SC,Florianópolis,242.02,2,voucher
+ORD00809,C00071,2022-02-17,Health,PE,Recife,214.46,4,boleto
+ORD00810,C00575,2023-01-16,Sports,GO,Goiânia,272.52,1,boleto
+ORD00811,C00107,2023-01-23,Home & Garden,ES,Vitória,356.18,3,credit_card
+ORD00812,C00396,2022-03-20,Fashion,RS,Porto Alegre,398.83,2,credit_card
+ORD00813,C00054,2022-04-05,Home & Garden,ES,Vitória,67.99,3,debit_card
+ORD00814,C00056,2023-04-30,Sports,GO,Goiânia,175.26,1,boleto
+ORD00815,C00510,2023-05-23,Sports,BA,Salvador,135.35,4,voucher
+ORD00816,C00034,2023-05-02,Health,MG,Belo Horizonte,356.22,3,credit_card
+ORD00817,C00132,2023-03-10,Books,SP,São Paulo,85.25,1,credit_card
+ORD00818,C00472,2022-04-16,Home & Garden,PE,Recife,71.68,3,boleto
+ORD00819,C00364,2022-07-11,Toys,MG,Belo Horizonte,216.51,2,voucher
+ORD00820,C00692,2023-01-19,Sports,ES,Vitória,139.64,3,debit_card
+ORD00821,C00074,2022-09-27,Toys,RS,Porto Alegre,160.02,3,credit_card
+ORD00822,C00195,2022-05-24,Food & Drink,MG,Belo Horizonte,110.69,4,voucher
+ORD00823,C00195,2023-05-15,Electronics,BA,Salvador,483.05,2,voucher
+ORD00824,C00429,2023-06-02,Books,SC,Florianópolis,277.78,1,debit_card
+ORD00825,C00093,2022-06-01,Home & Garden,RJ,Rio de Janeiro,39.52,3,boleto
+ORD00826,C00055,2022-07-08,Health,PR,Curitiba,277.82,3,boleto
+ORD00827,C00646,2022-11-24,Toys,BA,Salvador,65.7,1,credit_card
+ORD00828,C00033,2022-07-10,Toys,RS,Porto Alegre,255.62,3,boleto
+ORD00829,C00022,2022-08-25,Electronics,SC,Florianópolis,68.51,3,credit_card
+ORD00830,C00604,2022-05-03,Beauty,SP,São Paulo,87.84,4,credit_card
+ORD00831,C00191,2023-01-18,Beauty,MG,Belo Horizonte,288.11,2,debit_card
+ORD00832,C00188,2022-04-26,Electronics,GO,Goiânia,96.05,2,boleto
+ORD00833,C00664,2023-05-17,Toys,RJ,Rio de Janeiro,258.08,4,debit_card
+ORD00834,C00356,2023-01-22,Automotive,RJ,Rio de Janeiro,313.57,4,credit_card
+ORD00835,C00005,2022-09-13,Electronics,SP,São Paulo,51.27,3,voucher
+ORD00836,C00138,2022-11-30,Fashion,RJ,Rio de Janeiro,184.66,1,debit_card
+ORD00837,C00780,2022-01-14,Toys,RJ,Rio de Janeiro,43.25,2,credit_card
+ORD00838,C00167,2022-04-04,Beauty,PR,Curitiba,329.79,1,voucher
+ORD00839,C00379,2022-11-02,Electronics,SP,São Paulo,170.23,3,boleto
+ORD00840,C00216,2022-05-12,Fashion,SC,Florianópolis,134.96,1,credit_card
+ORD00841,C00705,2022-03-10,Home & Garden,ES,Vitória,234.74,1,credit_card
+ORD00842,C00088,2023-03-02,Automotive,RS,Porto Alegre,212.5,2,boleto
+ORD00843,C00504,2023-03-15,Electronics,RJ,Rio de Janeiro,410.58,3,credit_card
+ORD00844,C00048,2023-05-28,Sports,RJ,Rio de Janeiro,43.11,3,voucher
+ORD00845,C00463,2022-06-10,Automotive,BA,Salvador,28.7,2,boleto
+ORD00846,C00094,2023-04-09,Fashion,PE,Recife,120.69,1,credit_card
+ORD00847,C00563,2023-03-16,Electronics,PR,Curitiba,391.03,1,boleto
+ORD00848,C00528,2022-03-20,Toys,MG,Belo Horizonte,27.21,2,boleto
+ORD00849,C00194,2022-03-12,Health,BA,Salvador,305.51,2,boleto
+ORD00850,C00664,2022-07-12,Electronics,RS,Porto Alegre,486.12,1,credit_card
+ORD00851,C00139,2023-04-19,Health,MG,Belo Horizonte,61.92,2,voucher
+ORD00852,C00594,2023-06-16,Toys,GO,Goiânia,133.51,1,credit_card
+ORD00853,C00246,2023-06-20,Books,MG,Belo Horizonte,179.84,1,debit_card
+ORD00854,C00176,2022-10-13,Sports,MG,Belo Horizonte,142.11,2,credit_card
+ORD00855,C00136,2023-06-27,Fashion,BA,Salvador,397.61,2,boleto
+ORD00856,C00066,2023-04-16,Food & Drink,SC,Florianópolis,291.4,3,debit_card
+ORD00857,C00692,2023-04-27,Electronics,RS,Porto Alegre,487.05,2,credit_card
+ORD00858,C00747,2022-11-17,Beauty,PR,Curitiba,68.52,3,credit_card
+ORD00859,C00006,2022-02-23,Electronics,RS,Porto Alegre,524.85,3,credit_card
+ORD00860,C00777,2023-06-19,Beauty,BA,Salvador,208.93,2,boleto
+ORD00861,C00506,2023-03-28,Books,MG,Belo Horizonte,284.86,2,credit_card
+ORD00862,C00205,2022-03-22,Toys,SC,Florianópolis,299.7,4,credit_card
+ORD00863,C00048,2023-03-14,Health,SC,Florianópolis,320.35,2,credit_card
+ORD00864,C00016,2022-04-07,Health,BA,Salvador,115.45,3,boleto
+ORD00865,C00018,2022-04-07,Books,ES,Vitória,286.79,2,debit_card
+ORD00866,C00192,2022-11-30,Home & Garden,MG,Belo Horizonte,88.93,2,credit_card
+ORD00867,C00238,2022-06-18,Books,MG,Belo Horizonte,332.99,3,boleto
+ORD00868,C00028,2022-02-12,Electronics,RS,Porto Alegre,363.61,3,boleto
+ORD00869,C00316,2022-03-31,Sports,PR,Curitiba,162.12,1,credit_card
+ORD00870,C00762,2022-03-15,Health,MG,Belo Horizonte,262.48,4,voucher
+ORD00871,C00146,2022-02-01,Electronics,RJ,Rio de Janeiro,275.69,3,voucher
+ORD00872,C00661,2022-04-24,Automotive,BA,Salvador,173.76,4,debit_card
+ORD00873,C00471,2022-03-15,Beauty,SC,Florianópolis,92.83,4,voucher
+ORD00874,C00120,2023-01-01,Electronics,GO,Goiânia,511.94,2,voucher
+ORD00875,C00575,2022-11-14,Sports,SP,São Paulo,57.92,2,voucher
+ORD00876,C00083,2022-04-04,Beauty,PR,Curitiba,185.85,1,voucher
+ORD00877,C00475,2022-10-01,Sports,PR,Curitiba,245.76,1,credit_card
+ORD00878,C00512,2022-01-14,Sports,RJ,Rio de Janeiro,208.27,4,voucher
+ORD00879,C00022,2022-04-17,Beauty,BA,Salvador,301.4,4,boleto
+ORD00880,C00137,2022-06-03,Electronics,RJ,Rio de Janeiro,468.04,3,boleto
+ORD00881,C00120,2022-09-30,Electronics,GO,Goiânia,205.26,3,credit_card
+ORD00882,C00783,2022-12-21,Sports,PR,Curitiba,246.53,2,boleto
+ORD00883,C00615,2023-02-12,Electronics,SP,São Paulo,31.79,2,voucher
+ORD00884,C00181,2022-05-24,Books,SC,Florianópolis,259.38,4,debit_card
+ORD00885,C00088,2022-08-21,Health,PE,Recife,244.63,1,boleto
+ORD00886,C00194,2022-05-01,Home & Garden,RS,Porto Alegre,219.57,2,debit_card
+ORD00887,C00171,2023-05-29,Electronics,PE,Recife,304.0,1,boleto
+ORD00888,C00214,2022-10-09,Sports,GO,Goiânia,30.12,1,debit_card
+ORD00889,C00134,2022-03-20,Electronics,RJ,Rio de Janeiro,103.54,3,boleto
+ORD00890,C00478,2022-07-02,Fashion,RS,Porto Alegre,176.04,3,boleto
+ORD00891,C00219,2023-05-24,Sports,SC,Florianópolis,56.64,4,debit_card
+ORD00892,C00317,2022-09-03,Home & Garden,GO,Goiânia,197.27,4,debit_card
+ORD00893,C00644,2022-03-25,Beauty,BA,Salvador,341.31,3,debit_card
+ORD00894,C00594,2022-07-11,Beauty,BA,Salvador,318.77,1,debit_card
+ORD00895,C00079,2023-01-22,Electronics,PE,Recife,43.37,1,credit_card
+ORD00896,C00446,2022-09-24,Health,GO,Goiânia,299.42,3,boleto
+ORD00897,C00464,2023-05-18,Toys,BA,Salvador,114.68,1,boleto
+ORD00898,C00070,2023-05-31,Fashion,PE,Recife,289.03,1,voucher
+ORD00899,C00050,2022-07-16,Electronics,PE,Recife,339.94,4,credit_card
+ORD00900,C00195,2022-11-03,Automotive,ES,Vitória,172.04,2,debit_card
+ORD00901,C00474,2022-11-05,Beauty,RS,Porto Alegre,114.13,4,credit_card
+ORD00902,C00209,2023-04-05,Toys,RJ,Rio de Janeiro,121.55,1,voucher
+ORD00903,C00028,2022-11-02,Sports,GO,Goiânia,164.32,1,credit_card
+ORD00904,C00485,2023-02-14,Toys,SC,Florianópolis,144.48,3,boleto
+ORD00905,C00020,2023-01-13,Home & Garden,RJ,Rio de Janeiro,39.3,3,boleto
+ORD00906,C00767,2022-04-30,Food & Drink,SC,Florianópolis,251.46,2,debit_card
+ORD00907,C00540,2023-03-19,Automotive,RS,Porto Alegre,337.43,4,boleto
+ORD00908,C00103,2022-10-10,Automotive,RS,Porto Alegre,160.53,2,boleto
+ORD00909,C00048,2022-01-25,Fashion,ES,Vitória,35.31,2,debit_card
+ORD00910,C00463,2023-04-22,Books,GO,Goiânia,378.35,2,boleto
+ORD00911,C00016,2022-08-17,Home & Garden,MG,Belo Horizonte,237.38,2,boleto
+ORD00912,C00341,2022-03-29,Beauty,PE,Recife,170.63,1,debit_card
+ORD00913,C00765,2022-07-13,Sports,SP,São Paulo,246.3,4,credit_card
+ORD00914,C00357,2022-02-11,Beauty,MG,Belo Horizonte,92.56,3,boleto
+ORD00915,C00710,2022-05-20,Beauty,ES,Vitória,201.97,1,voucher
+ORD00916,C00066,2022-01-05,Toys,MG,Belo Horizonte,147.16,2,voucher
+ORD00917,C00503,2022-09-07,Fashion,RJ,Rio de Janeiro,160.14,2,voucher
+ORD00918,C00005,2022-09-15,Books,PE,Recife,342.62,4,voucher
+ORD00919,C00299,2022-05-31,Automotive,PR,Curitiba,221.88,3,boleto
+ORD00920,C00053,2022-06-18,Fashion,PE,Recife,198.38,3,voucher
+ORD00921,C00120,2023-02-20,Sports,PR,Curitiba,158.6,4,debit_card
+ORD00922,C00734,2022-01-26,Books,PR,Curitiba,195.39,1,credit_card
+ORD00923,C00617,2022-08-07,Books,RS,Porto Alegre,337.86,3,credit_card
+ORD00924,C00004,2023-02-13,Health,PR,Curitiba,131.2,1,voucher
+ORD00925,C00247,2023-06-05,Toys,RS,Porto Alegre,164.37,4,debit_card
+ORD00926,C00773,2022-07-16,Fashion,BA,Salvador,377.41,4,boleto
+ORD00927,C00726,2022-03-16,Sports,PR,Curitiba,142.89,4,credit_card
+ORD00928,C00709,2022-07-19,Home & Garden,PE,Recife,27.49,3,boleto
+ORD00929,C00026,2023-02-03,Home & Garden,SC,Florianópolis,123.86,4,boleto
+ORD00930,C00703,2022-01-04,Food & Drink,RS,Porto Alegre,391.0,4,boleto
+ORD00931,C00355,2023-02-24,Automotive,PR,Curitiba,84.55,3,boleto
+ORD00932,C00385,2022-03-04,Fashion,ES,Vitória,243.33,1,credit_card
+ORD00933,C00178,2022-09-12,Health,RS,Porto Alegre,130.47,2,credit_card
+ORD00934,C00397,2022-06-16,Electronics,GO,Goiânia,335.4,2,boleto
+ORD00935,C00318,2022-03-31,Toys,BA,Salvador,176.44,1,debit_card
+ORD00936,C00103,2022-07-18,Electronics,GO,Goiânia,91.64,2,debit_card
+ORD00937,C00148,2022-08-27,Food & Drink,MG,Belo Horizonte,213.08,3,voucher
+ORD00938,C00144,2023-01-15,Automotive,RS,Porto Alegre,376.47,2,voucher
+ORD00939,C00509,2023-02-24,Electronics,SC,Florianópolis,486.5,2,debit_card
+ORD00940,C00013,2022-11-07,Sports,PE,Recife,333.19,1,voucher
+ORD00941,C00588,2022-07-26,Beauty,PR,Curitiba,126.99,2,credit_card
+ORD00942,C00381,2022-11-29,Fashion,RS,Porto Alegre,129.68,4,debit_card
+ORD00943,C00081,2022-12-31,Automotive,PR,Curitiba,143.1,2,boleto
+ORD00944,C00003,2022-11-21,Health,ES,Vitória,83.98,1,boleto
+ORD00945,C00102,2023-01-29,Home & Garden,PR,Curitiba,52.23,4,credit_card
+ORD00946,C00074,2022-03-19,Beauty,SP,São Paulo,23.41,1,boleto
+ORD00947,C00166,2023-04-24,Food & Drink,SC,Florianópolis,190.97,3,voucher
+ORD00948,C00005,2022-11-02,Food & Drink,SP,São Paulo,233.85,3,credit_card
+ORD00949,C00101,2023-01-13,Toys,ES,Vitória,359.16,2,debit_card
+ORD00950,C00735,2023-06-17,Food & Drink,BA,Salvador,34.45,2,boleto
+ORD00951,C00751,2022-01-25,Food & Drink,PR,Curitiba,238.23,2,credit_card
+ORD00952,C00162,2022-01-19,Electronics,MG,Belo Horizonte,463.3,3,credit_card
+ORD00953,C00477,2022-11-19,Toys,BA,Salvador,43.62,4,credit_card
+ORD00954,C00760,2022-07-03,Books,SC,Florianópolis,143.93,1,credit_card
+ORD00955,C00003,2022-07-20,Fashion,MG,Belo Horizonte,380.12,3,boleto
+ORD00956,C00731,2022-02-11,Automotive,SP,São Paulo,24.26,2,debit_card
+ORD00957,C00480,2022-01-19,Books,RJ,Rio de Janeiro,125.69,3,debit_card
+ORD00958,C00660,2022-03-22,Food & Drink,RS,Porto Alegre,391.32,1,boleto
+ORD00959,C00615,2022-07-23,Automotive,RS,Porto Alegre,224.36,2,credit_card
+ORD00960,C00037,2022-05-26,Home & Garden,RJ,Rio de Janeiro,157.82,4,debit_card
+ORD00961,C00154,2022-10-06,Automotive,GO,Goiânia,144.3,3,boleto
+ORD00962,C00136,2022-07-30,Sports,SP,São Paulo,87.19,1,credit_card
+ORD00963,C00105,2023-06-06,Books,SC,Florianópolis,186.52,2,voucher
+ORD00964,C00449,2022-01-27,Books,SP,São Paulo,234.14,4,voucher
+ORD00965,C00462,2023-04-24,Books,RS,Porto Alegre,50.59,2,debit_card
+ORD00966,C00298,2023-05-26,Automotive,GO,Goiânia,387.19,3,boleto
+ORD00967,C00217,2023-01-24,Sports,BA,Salvador,387.15,1,voucher
+ORD00968,C00065,2022-07-23,Toys,BA,Salvador,61.02,1,boleto
+ORD00969,C00020,2022-11-07,Food & Drink,ES,Vitória,151.09,1,debit_card
+ORD00970,C00739,2022-05-20,Fashion,PE,Recife,134.15,4,debit_card
+ORD00971,C00178,2023-03-26,Health,SP,São Paulo,108.02,2,credit_card
+ORD00972,C00620,2023-04-24,Books,BA,Salvador,275.6,2,boleto
+ORD00973,C00784,2023-05-01,Home & Garden,RJ,Rio de Janeiro,339.02,2,boleto
+ORD00974,C00185,2022-12-23,Home & Garden,MG,Belo Horizonte,66.5,2,debit_card
+ORD00975,C00080,2023-05-24,Electronics,BA,Salvador,157.9,2,voucher
+ORD00976,C00116,2022-05-18,Electronics,RS,Porto Alegre,136.1,1,voucher
+ORD00977,C00157,2022-10-04,Sports,GO,Goiânia,382.55,3,voucher
+ORD00978,C00460,2022-06-17,Home & Garden,GO,Goiânia,209.78,4,credit_card
+ORD00979,C00496,2022-11-20,Toys,SP,São Paulo,85.4,1,debit_card
+ORD00980,C00091,2022-06-29,Health,SC,Florianópolis,132.08,3,debit_card
+ORD00981,C00580,2022-08-15,Food & Drink,PR,Curitiba,281.77,3,credit_card
+ORD00982,C00332,2023-05-08,Food & Drink,PE,Recife,75.2,4,boleto
+ORD00983,C00284,2022-12-02,Home & Garden,MG,Belo Horizonte,115.37,2,debit_card
+ORD00984,C00284,2022-04-27,Health,RS,Porto Alegre,214.72,4,debit_card
+ORD00985,C00197,2022-08-25,Fashion,SC,Florianópolis,84.98,4,voucher
+ORD00986,C00022,2023-03-17,Automotive,BA,Salvador,129.71,1,debit_card
+ORD00987,C00450,2022-11-22,Toys,SC,Florianópolis,326.06,2,voucher
+ORD00988,C00373,2022-12-01,Food & Drink,PR,Curitiba,309.44,1,boleto
+ORD00989,C00101,2022-08-27,Fashion,SC,Florianópolis,47.83,1,boleto
+ORD00990,C00119,2023-04-24,Health,RJ,Rio de Janeiro,99.83,4,boleto
+ORD00991,C00059,2022-12-24,Fashion,ES,Vitória,117.85,1,debit_card
+ORD00992,C00642,2022-04-02,Sports,GO,Goiânia,262.6,2,boleto
+ORD00993,C00020,2023-05-08,Books,PE,Recife,361.27,3,boleto
+ORD00994,C00732,2023-03-29,Fashion,PR,Curitiba,336.46,2,voucher
+ORD00995,C00287,2022-12-17,Toys,PE,Recife,146.27,4,boleto
+ORD00996,C00547,2022-01-03,Sports,SP,São Paulo,399.31,3,debit_card
+ORD00997,C00164,2022-01-21,Toys,RJ,Rio de Janeiro,40.13,3,debit_card
+ORD00998,C00656,2022-12-04,Home & Garden,MG,Belo Horizonte,265.32,3,credit_card
+ORD00999,C00503,2022-10-08,Sports,MG,Belo Horizonte,96.88,2,boleto
+ORD01000,C00442,2022-05-06,Health,PR,Curitiba,345.46,2,voucher
+ORD01001,C00715,2022-08-18,Health,RJ,Rio de Janeiro,134.99,2,credit_card
+ORD01002,C00136,2022-02-18,Electronics,MG,Belo Horizonte,278.57,2,boleto
+ORD01003,C00459,2022-12-12,Health,GO,Goiânia,147.07,3,debit_card
+ORD01004,C00005,2022-09-14,Home & Garden,RS,Porto Alegre,290.56,1,voucher
+ORD01005,C00184,2022-07-27,Beauty,RJ,Rio de Janeiro,273.24,2,boleto
+ORD01006,C00607,2022-12-24,Food & Drink,GO,Goiânia,186.77,3,voucher
+ORD01007,C00041,2023-05-01,Home & Garden,SC,Florianópolis,330.9,4,voucher
+ORD01008,C00613,2022-09-21,Fashion,ES,Vitória,217.91,1,debit_card
+ORD01009,C00299,2023-01-29,Sports,RS,Porto Alegre,87.94,1,boleto
+ORD01010,C00159,2023-02-11,Toys,SC,Florianópolis,93.1,1,credit_card
+ORD01011,C00140,2023-05-20,Food & Drink,PE,Recife,184.68,1,debit_card
+ORD01012,C00459,2022-08-08,Beauty,PE,Recife,94.26,4,credit_card
+ORD01013,C00433,2022-10-10,Fashion,ES,Vitória,307.31,3,credit_card
+ORD01014,C00074,2023-03-02,Toys,MG,Belo Horizonte,246.87,2,boleto
+ORD01015,C00393,2023-05-21,Fashion,SC,Florianópolis,302.8,3,voucher
+ORD01016,C00120,2023-01-03,Electronics,SP,São Paulo,253.84,1,voucher
+ORD01017,C00084,2023-04-23,Home & Garden,BA,Salvador,82.72,2,voucher
+ORD01018,C00020,2023-05-07,Electronics,GO,Goiânia,98.75,3,voucher
+ORD01019,C00089,2023-06-24,Food & Drink,SP,São Paulo,112.55,3,voucher
+ORD01020,C00421,2022-09-28,Electronics,PE,Recife,187.8,3,credit_card
+ORD01021,C00067,2023-04-28,Fashion,RJ,Rio de Janeiro,128.5,2,boleto
+ORD01022,C00600,2022-08-03,Books,MG,Belo Horizonte,114.7,1,boleto
+ORD01023,C00042,2022-06-10,Fashion,ES,Vitória,251.27,4,voucher
+ORD01024,C00182,2022-10-03,Sports,SP,São Paulo,195.59,3,voucher
+ORD01025,C00135,2022-11-06,Books,ES,Vitória,213.19,3,credit_card
+ORD01026,C00057,2022-11-21,Toys,GO,Goiânia,262.72,4,credit_card
+ORD01027,C00254,2022-06-30,Sports,RS,Porto Alegre,106.19,2,boleto
+ORD01028,C00387,2023-04-09,Toys,RJ,Rio de Janeiro,275.69,4,voucher
+ORD01029,C00042,2022-02-08,Health,PR,Curitiba,180.93,4,debit_card
+ORD01030,C00599,2022-08-31,Electronics,PR,Curitiba,119.87,4,boleto
+ORD01031,C00423,2022-02-28,Health,BA,Salvador,65.75,3,voucher
+ORD01032,C00043,2023-05-29,Home & Garden,PR,Curitiba,329.59,4,voucher
+ORD01033,C00173,2023-06-25,Books,MG,Belo Horizonte,235.77,2,boleto
+ORD01034,C00729,2022-02-01,Electronics,PR,Curitiba,492.49,1,credit_card
+ORD01035,C00651,2022-04-10,Automotive,RJ,Rio de Janeiro,292.61,3,boleto
+ORD01036,C00417,2022-06-06,Sports,RJ,Rio de Janeiro,191.23,1,voucher
+ORD01037,C00095,2022-08-19,Home & Garden,MG,Belo Horizonte,349.39,2,voucher
+ORD01038,C00007,2022-04-12,Fashion,PE,Recife,118.81,2,voucher
+ORD01039,C00085,2022-11-09,Sports,BA,Salvador,270.2,4,voucher
+ORD01040,C00204,2023-06-04,Beauty,SC,Florianópolis,395.57,1,credit_card
+ORD01041,C00066,2022-08-22,Home & Garden,RJ,Rio de Janeiro,119.61,3,boleto
+ORD01042,C00036,2022-09-10,Health,RJ,Rio de Janeiro,392.83,2,voucher
+ORD01043,C00451,2023-06-21,Books,MG,Belo Horizonte,331.03,1,boleto
+ORD01044,C00058,2023-03-21,Fashion,RJ,Rio de Janeiro,132.77,1,boleto
+ORD01045,C00451,2022-04-16,Food & Drink,ES,Vitória,304.85,2,debit_card
+ORD01046,C00299,2023-03-30,Home & Garden,MG,Belo Horizonte,197.7,2,voucher
+ORD01047,C00556,2022-07-17,Health,SP,São Paulo,356.34,1,voucher
+ORD01048,C00100,2023-03-26,Fashion,PE,Recife,74.45,4,voucher
+ORD01049,C00111,2022-10-05,Fashion,GO,Goiânia,354.56,3,credit_card
+ORD01050,C00622,2022-04-25,Automotive,MG,Belo Horizonte,171.61,3,voucher
+ORD01051,C00428,2022-11-24,Food & Drink,PE,Recife,182.59,3,voucher
+ORD01052,C00170,2023-02-17,Automotive,SP,São Paulo,185.44,3,credit_card
+ORD01053,C00779,2023-01-02,Books,PE,Recife,83.49,4,credit_card
+ORD01054,C00354,2022-04-16,Beauty,SP,São Paulo,175.02,2,debit_card
+ORD01055,C00012,2022-09-26,Books,SP,São Paulo,202.84,2,credit_card
+ORD01056,C00443,2022-05-24,Electronics,PE,Recife,258.97,1,boleto
+ORD01057,C00643,2023-01-04,Fashion,SC,Florianópolis,15.29,2,debit_card
+ORD01058,C00197,2023-03-01,Health,SP,São Paulo,193.62,1,boleto
+ORD01059,C00599,2022-03-11,Toys,SC,Florianópolis,202.43,4,debit_card
+ORD01060,C00679,2022-10-05,Books,GO,Goiânia,53.17,1,credit_card
+ORD01061,C00073,2022-08-21,Books,ES,Vitória,78.36,2,credit_card
+ORD01062,C00453,2022-08-14,Fashion,MG,Belo Horizonte,214.15,3,boleto
+ORD01063,C00400,2023-03-19,Electronics,MG,Belo Horizonte,80.01,3,credit_card
+ORD01064,C00755,2023-01-07,Home & Garden,ES,Vitória,291.26,1,credit_card
+ORD01065,C00002,2022-04-01,Fashion,ES,Vitória,142.4,1,voucher
+ORD01066,C00156,2022-01-24,Sports,BA,Salvador,323.21,1,debit_card
+ORD01067,C00113,2023-05-11,Health,ES,Vitória,22.57,2,credit_card
+ORD01068,C00443,2022-07-11,Home & Garden,RJ,Rio de Janeiro,118.51,2,boleto
+ORD01069,C00591,2023-06-27,Health,MG,Belo Horizonte,265.29,4,credit_card
+ORD01070,C00018,2022-10-31,Home & Garden,SC,Florianópolis,133.93,1,boleto
+ORD01071,C00574,2022-05-29,Beauty,PE,Recife,68.63,3,voucher
+ORD01072,C00033,2022-12-22,Electronics,GO,Goiânia,205.05,3,voucher
+ORD01073,C00550,2022-08-19,Food & Drink,SC,Florianópolis,387.76,1,credit_card
+ORD01074,C00743,2022-03-26,Home & Garden,SP,São Paulo,160.15,3,credit_card
+ORD01075,C00375,2023-02-27,Beauty,MG,Belo Horizonte,384.74,3,debit_card
+ORD01076,C00104,2022-12-09,Food & Drink,ES,Vitória,20.53,2,debit_card
+ORD01077,C00588,2022-04-11,Beauty,RS,Porto Alegre,223.68,1,voucher
+ORD01078,C00582,2022-09-12,Sports,RJ,Rio de Janeiro,63.35,1,voucher
+ORD01079,C00195,2022-01-26,Automotive,MG,Belo Horizonte,264.58,3,credit_card
+ORD01080,C00086,2022-01-13,Automotive,ES,Vitória,385.5,4,boleto
+ORD01081,C00302,2022-09-18,Books,ES,Vitória,324.42,3,voucher
+ORD01082,C00203,2023-04-13,Food & Drink,GO,Goiânia,305.09,4,voucher
+ORD01083,C00256,2022-07-31,Fashion,RS,Porto Alegre,175.92,1,boleto
+ORD01084,C00037,2022-09-13,Food & Drink,ES,Vitória,54.23,3,voucher
+ORD01085,C00684,2023-05-22,Sports,SP,São Paulo,261.09,2,voucher
+ORD01086,C00516,2022-06-18,Fashion,SP,São Paulo,163.27,4,boleto
+ORD01087,C00051,2023-03-29,Home & Garden,PE,Recife,284.63,3,credit_card
+ORD01088,C00208,2022-03-20,Automotive,PR,Curitiba,375.42,1,debit_card
+ORD01089,C00243,2022-07-05,Sports,MG,Belo Horizonte,321.79,4,credit_card
+ORD01090,C00197,2023-04-11,Electronics,BA,Salvador,319.71,1,credit_card
+ORD01091,C00702,2022-01-17,Toys,MG,Belo Horizonte,247.76,2,voucher
+ORD01092,C00528,2022-07-21,Health,SP,São Paulo,28.54,4,debit_card
+ORD01093,C00263,2022-01-16,Home & Garden,SP,São Paulo,273.86,3,voucher
+ORD01094,C00098,2022-10-15,Food & Drink,RS,Porto Alegre,296.44,1,voucher
+ORD01095,C00009,2023-03-13,Home & Garden,RS,Porto Alegre,313.71,1,debit_card
+ORD01096,C00082,2022-04-11,Fashion,PE,Recife,330.05,2,boleto
+ORD01097,C00128,2023-06-27,Health,SP,São Paulo,214.89,4,voucher
+ORD01098,C00079,2023-03-18,Toys,ES,Vitória,138.79,4,boleto
+ORD01099,C00443,2022-02-06,Home & Garden,GO,Goiânia,117.04,2,boleto
+ORD01100,C00081,2023-04-12,Home & Garden,SP,São Paulo,317.89,4,boleto
+ORD01101,C00061,2023-02-07,Beauty,PR,Curitiba,306.18,2,debit_card
+ORD01102,C00008,2022-12-30,Sports,RS,Porto Alegre,284.26,2,debit_card
+ORD01103,C00563,2022-02-28,Food & Drink,RJ,Rio de Janeiro,56.73,1,debit_card
+ORD01104,C00508,2022-08-17,Fashion,SC,Florianópolis,170.4,1,debit_card
+ORD01105,C00296,2023-01-30,Home & Garden,PR,Curitiba,294.04,4,voucher
+ORD01106,C00013,2022-03-16,Beauty,PE,Recife,293.48,3,voucher
+ORD01107,C00198,2022-03-27,Sports,RJ,Rio de Janeiro,296.02,1,voucher
+ORD01108,C00082,2023-06-05,Home & Garden,PR,Curitiba,265.07,2,credit_card
+ORD01109,C00112,2022-08-31,Electronics,RJ,Rio de Janeiro,498.32,2,debit_card
+ORD01110,C00069,2023-01-31,Fashion,RJ,Rio de Janeiro,293.38,1,credit_card
+ORD01111,C00047,2023-04-25,Electronics,SC,Florianópolis,181.2,2,debit_card
+ORD01112,C00041,2022-08-17,Toys,RJ,Rio de Janeiro,399.94,3,debit_card
+ORD01113,C00063,2022-08-02,Electronics,RJ,Rio de Janeiro,474.94,1,debit_card
+ORD01114,C00001,2023-01-15,Beauty,RJ,Rio de Janeiro,215.86,2,debit_card
+ORD01115,C00738,2022-04-26,Fashion,RJ,Rio de Janeiro,318.74,4,boleto
+ORD01116,C00050,2022-04-28,Food & Drink,RS,Porto Alegre,150.02,1,credit_card
+ORD01117,C00108,2022-11-01,Food & Drink,BA,Salvador,232.81,2,credit_card
+ORD01118,C00559,2022-10-20,Food & Drink,BA,Salvador,156.19,4,debit_card
+ORD01119,C00071,2023-04-07,Toys,RS,Porto Alegre,42.11,4,voucher
+ORD01120,C00295,2023-02-13,Beauty,MG,Belo Horizonte,207.95,3,boleto
+ORD01121,C00612,2022-09-07,Food & Drink,MG,Belo Horizonte,165.42,3,credit_card
+ORD01122,C00038,2023-03-31,Health,MG,Belo Horizonte,300.1,4,debit_card
+ORD01123,C00068,2022-07-29,Health,ES,Vitória,292.24,4,credit_card
+ORD01124,C00671,2023-02-07,Food & Drink,PE,Recife,169.13,3,debit_card
+ORD01125,C00397,2022-10-11,Electronics,PE,Recife,275.94,2,debit_card
+ORD01126,C00185,2022-04-15,Fashion,SC,Florianópolis,347.47,3,voucher
+ORD01127,C00730,2022-08-09,Fashion,ES,Vitória,270.8,1,credit_card
+ORD01128,C00384,2022-08-24,Beauty,SC,Florianópolis,155.36,3,boleto
+ORD01129,C00250,2022-08-24,Home & Garden,SP,São Paulo,289.74,1,boleto
+ORD01130,C00181,2022-10-25,Food & Drink,BA,Salvador,164.93,3,debit_card
+ORD01131,C00792,2023-03-13,Fashion,ES,Vitória,128.11,2,debit_card
+ORD01132,C00149,2022-06-01,Toys,GO,Goiânia,23.35,3,credit_card
+ORD01133,C00153,2022-10-29,Toys,PR,Curitiba,159.83,4,boleto
+ORD01134,C00571,2022-03-20,Electronics,SP,São Paulo,303.57,4,boleto
+ORD01135,C00137,2022-01-09,Electronics,PR,Curitiba,190.55,1,boleto
+ORD01136,C00212,2022-04-25,Electronics,RS,Porto Alegre,214.73,2,voucher
+ORD01137,C00403,2023-06-06,Automotive,MG,Belo Horizonte,277.8,2,credit_card
+ORD01138,C00775,2022-06-26,Toys,RS,Porto Alegre,210.85,2,boleto
+ORD01139,C00166,2022-12-26,Toys,RS,Porto Alegre,361.62,4,voucher
+ORD01140,C00382,2022-06-29,Books,RS,Porto Alegre,332.72,3,boleto
+ORD01141,C00777,2023-04-22,Electronics,PE,Recife,403.55,3,debit_card
+ORD01142,C00005,2023-01-31,Books,BA,Salvador,369.5,4,boleto
+ORD01143,C00747,2022-08-20,Fashion,BA,Salvador,95.49,1,voucher
+ORD01144,C00097,2023-03-04,Fashion,GO,Goiânia,208.93,4,boleto
+ORD01145,C00339,2022-05-20,Books,GO,Goiânia,248.46,2,debit_card
+ORD01146,C00462,2022-11-29,Beauty,PE,Recife,357.59,1,credit_card
+ORD01147,C00012,2022-10-26,Home & Garden,BA,Salvador,297.16,4,debit_card
+ORD01148,C00492,2022-03-03,Beauty,BA,Salvador,232.51,2,voucher
+ORD01149,C00501,2022-02-21,Electronics,PE,Recife,259.75,2,boleto
+ORD01150,C00177,2022-05-16,Health,SP,São Paulo,226.28,2,credit_card
+ORD01151,C00649,2022-04-24,Electronics,MG,Belo Horizonte,302.74,4,boleto
+ORD01152,C00120,2022-06-30,Sports,PE,Recife,95.19,4,voucher
+ORD01153,C00159,2023-05-18,Automotive,BA,Salvador,178.55,4,voucher
+ORD01154,C00515,2022-04-13,Toys,PE,Recife,356.67,4,debit_card
+ORD01155,C00105,2022-08-14,Toys,ES,Vitória,75.41,2,voucher
+ORD01156,C00542,2023-01-27,Health,RS,Porto Alegre,292.76,3,boleto
+ORD01157,C00530,2023-05-16,Sports,PR,Curitiba,160.79,2,debit_card
+ORD01158,C00236,2022-08-09,Toys,GO,Goiânia,293.29,3,boleto
+ORD01159,C00058,2022-02-08,Fashion,SC,Florianópolis,201.42,3,debit_card
+ORD01160,C00325,2022-02-23,Fashion,BA,Salvador,51.45,2,boleto
+ORD01161,C00688,2022-01-23,Books,SC,Florianópolis,251.94,3,debit_card
+ORD01162,C00139,2022-07-31,Electronics,PE,Recife,283.36,4,boleto
+ORD01163,C00246,2022-02-14,Electronics,RS,Porto Alegre,412.48,4,boleto
+ORD01164,C00378,2022-09-24,Automotive,RJ,Rio de Janeiro,305.2,1,voucher
+ORD01165,C00051,2022-07-23,Home & Garden,MG,Belo Horizonte,200.76,3,voucher
+ORD01166,C00765,2022-03-24,Food & Drink,RJ,Rio de Janeiro,204.57,3,debit_card
+ORD01167,C00458,2023-05-27,Health,BA,Salvador,173.16,1,credit_card
+ORD01168,C00670,2022-10-20,Books,ES,Vitória,70.91,2,credit_card
+ORD01169,C00330,2022-04-04,Books,PE,Recife,338.83,1,voucher
+ORD01170,C00570,2022-02-04,Sports,ES,Vitória,122.55,3,boleto
+ORD01171,C00021,2022-08-17,Electronics,RJ,Rio de Janeiro,451.71,3,credit_card
+ORD01172,C00357,2022-05-08,Fashion,BA,Salvador,392.59,3,boleto
+ORD01173,C00085,2022-07-15,Fashion,BA,Salvador,40.66,1,credit_card
+ORD01174,C00033,2023-06-15,Food & Drink,PR,Curitiba,228.53,2,debit_card
+ORD01175,C00031,2023-06-22,Books,MG,Belo Horizonte,272.69,1,debit_card
+ORD01176,C00458,2022-12-25,Sports,PE,Recife,388.66,1,credit_card
+ORD01177,C00776,2023-03-31,Electronics,SP,São Paulo,292.0,2,boleto
+ORD01178,C00501,2022-04-02,Electronics,PR,Curitiba,336.67,4,debit_card
+ORD01179,C00011,2023-04-11,Electronics,BA,Salvador,21.86,4,credit_card
+ORD01180,C00074,2023-05-24,Books,SC,Florianópolis,74.61,4,boleto
+ORD01181,C00047,2023-05-15,Toys,PR,Curitiba,146.34,2,debit_card
+ORD01182,C00181,2023-04-13,Food & Drink,RS,Porto Alegre,260.18,2,voucher
+ORD01183,C00151,2022-12-06,Food & Drink,GO,Goiânia,208.67,3,credit_card
+ORD01184,C00488,2022-03-07,Health,RJ,Rio de Janeiro,183.49,1,debit_card
+ORD01185,C00020,2022-05-21,Health,ES,Vitória,189.77,4,debit_card
+ORD01186,C00194,2022-11-15,Home & Garden,SP,São Paulo,186.85,1,credit_card
+ORD01187,C00569,2023-03-24,Automotive,RJ,Rio de Janeiro,59.95,3,voucher
+ORD01188,C00680,2023-03-30,Books,BA,Salvador,48.4,1,credit_card
+ORD01189,C00408,2022-05-14,Fashion,SC,Florianópolis,270.17,1,credit_card
+ORD01190,C00203,2022-03-20,Home & Garden,GO,Goiânia,58.59,1,boleto
+ORD01191,C00536,2022-09-03,Electronics,RS,Porto Alegre,175.07,2,debit_card
+ORD01192,C00268,2022-09-25,Books,BA,Salvador,173.63,4,debit_card
+ORD01193,C00230,2022-05-21,Health,GO,Goiânia,145.13,4,debit_card
+ORD01194,C00035,2022-09-10,Fashion,SC,Florianópolis,102.29,3,debit_card
+ORD01195,C00674,2022-07-17,Sports,PE,Recife,87.98,1,boleto
+ORD01196,C00080,2022-03-12,Fashion,RS,Porto Alegre,172.37,2,voucher
+ORD01197,C00168,2022-03-25,Health,BA,Salvador,138.42,2,credit_card
+ORD01198,C00272,2023-01-30,Food & Drink,SP,São Paulo,326.22,1,voucher
+ORD01199,C00123,2023-04-16,Sports,SC,Florianópolis,166.9,1,boleto
+ORD01200,C00139,2023-01-17,Sports,PR,Curitiba,31.03,4,debit_card
+ORD01201,C00631,2022-11-07,Food & Drink,GO,Goiânia,351.67,2,voucher
+ORD01202,C00387,2023-02-26,Electronics,MG,Belo Horizonte,30.51,1,credit_card
+ORD01203,C00119,2022-10-22,Home & Garden,RS,Porto Alegre,322.6,2,boleto
+ORD01204,C00114,2023-03-07,Health,PE,Recife,269.82,4,credit_card
+ORD01205,C00118,2022-04-16,Food & Drink,BA,Salvador,16.51,3,credit_card
+ORD01206,C00184,2023-06-18,Electronics,SP,São Paulo,522.23,1,debit_card
+ORD01207,C00091,2022-12-22,Sports,ES,Vitória,104.35,2,boleto
+ORD01208,C00006,2022-10-26,Toys,MG,Belo Horizonte,286.56,3,debit_card
+ORD01209,C00117,2023-04-09,Electronics,MG,Belo Horizonte,61.71,3,boleto
+ORD01210,C00015,2022-06-14,Health,SC,Florianópolis,144.88,1,credit_card
+ORD01211,C00184,2022-08-27,Fashion,ES,Vitória,175.4,4,voucher
+ORD01212,C00276,2022-02-06,Automotive,RJ,Rio de Janeiro,357.09,4,boleto
+ORD01213,C00069,2022-06-25,Home & Garden,ES,Vitória,234.52,1,debit_card
+ORD01214,C00794,2023-01-29,Beauty,ES,Vitória,43.52,3,debit_card
+ORD01215,C00470,2023-03-17,Health,SC,Florianópolis,214.55,3,debit_card
+ORD01216,C00180,2022-08-24,Automotive,SC,Florianópolis,235.34,3,credit_card
+ORD01217,C00026,2022-03-01,Electronics,MG,Belo Horizonte,345.38,1,debit_card
+ORD01218,C00253,2022-06-18,Health,RS,Porto Alegre,104.43,3,voucher
+ORD01219,C00569,2022-01-28,Toys,MG,Belo Horizonte,125.59,2,credit_card
+ORD01220,C00126,2023-06-25,Health,PE,Recife,68.24,1,debit_card
+ORD01221,C00204,2022-10-04,Sports,RS,Porto Alegre,351.78,1,boleto
+ORD01222,C00635,2023-01-15,Electronics,RJ,Rio de Janeiro,242.15,2,boleto
+ORD01223,C00043,2022-03-06,Beauty,SP,São Paulo,113.04,3,voucher
+ORD01224,C00040,2023-01-04,Health,MG,Belo Horizonte,221.13,4,debit_card
+ORD01225,C00750,2023-05-10,Food & Drink,PR,Curitiba,232.46,2,credit_card
+ORD01226,C00022,2023-06-26,Sports,ES,Vitória,210.84,1,voucher
+ORD01227,C00720,2022-12-22,Automotive,MG,Belo Horizonte,288.27,3,voucher
+ORD01228,C00719,2023-04-03,Health,SC,Florianópolis,97.88,2,boleto
+ORD01229,C00086,2023-06-28,Electronics,PR,Curitiba,177.27,2,credit_card
+ORD01230,C00214,2023-06-11,Food & Drink,PE,Recife,363.08,2,debit_card
+ORD01231,C00343,2022-06-15,Beauty,RS,Porto Alegre,240.46,2,credit_card
+ORD01232,C00049,2022-06-27,Health,ES,Vitória,142.43,3,boleto
+ORD01233,C00210,2022-03-09,Toys,RS,Porto Alegre,102.3,4,debit_card
+ORD01234,C00428,2022-05-25,Home & Garden,SP,São Paulo,56.29,1,debit_card
+ORD01235,C00791,2023-02-18,Books,PE,Recife,102.07,1,debit_card
+ORD01236,C00032,2022-06-08,Automotive,RS,Porto Alegre,131.8,1,credit_card
+ORD01237,C00061,2022-05-24,Home & Garden,ES,Vitória,46.92,1,voucher
+ORD01238,C00628,2023-04-27,Automotive,RJ,Rio de Janeiro,84.55,2,voucher
+ORD01239,C00107,2023-01-13,Automotive,SP,São Paulo,94.27,3,voucher
+ORD01240,C00732,2023-01-17,Toys,SP,São Paulo,72.52,2,debit_card
+ORD01241,C00213,2022-09-10,Fashion,RS,Porto Alegre,162.67,2,credit_card
+ORD01242,C00045,2022-11-06,Food & Drink,PE,Recife,323.59,2,boleto
+ORD01243,C00092,2022-10-08,Home & Garden,GO,Goiânia,29.55,3,debit_card
+ORD01244,C00021,2022-08-24,Electronics,RS,Porto Alegre,453.23,3,credit_card
+ORD01245,C00713,2022-05-19,Beauty,RS,Porto Alegre,161.06,3,voucher
+ORD01246,C00575,2022-02-16,Beauty,RS,Porto Alegre,232.87,4,debit_card
+ORD01247,C00388,2022-07-24,Sports,ES,Vitória,283.76,4,boleto
+ORD01248,C00038,2022-04-16,Health,MG,Belo Horizonte,35.58,1,credit_card
+ORD01249,C00127,2022-03-18,Beauty,RJ,Rio de Janeiro,206.71,2,credit_card
+ORD01250,C00408,2022-05-22,Sports,SP,São Paulo,308.87,2,boleto
+ORD01251,C00009,2022-10-30,Fashion,SP,São Paulo,197.4,4,voucher
+ORD01252,C00188,2022-01-03,Sports,PR,Curitiba,127.73,2,debit_card
+ORD01253,C00128,2022-11-03,Fashion,BA,Salvador,339.38,1,credit_card
+ORD01254,C00189,2023-04-08,Sports,PE,Recife,246.65,2,boleto
+ORD01255,C00256,2022-09-06,Automotive,RS,Porto Alegre,311.93,1,debit_card
+ORD01256,C00211,2022-03-07,Electronics,GO,Goiânia,211.1,1,boleto
+ORD01257,C00653,2022-12-09,Automotive,GO,Goiânia,75.59,4,credit_card
+ORD01258,C00097,2022-11-13,Toys,MG,Belo Horizonte,47.1,2,voucher
+ORD01259,C00401,2023-05-10,Home & Garden,PE,Recife,148.06,3,credit_card
+ORD01260,C00521,2022-05-13,Automotive,GO,Goiânia,160.07,3,debit_card
+ORD01261,C00412,2022-03-17,Beauty,MG,Belo Horizonte,20.97,1,debit_card
+ORD01262,C00206,2022-01-23,Beauty,ES,Vitória,362.48,3,debit_card
+ORD01263,C00092,2022-02-21,Sports,SP,São Paulo,134.25,3,credit_card
+ORD01264,C00782,2022-10-27,Electronics,GO,Goiânia,103.05,4,credit_card
+ORD01265,C00104,2023-06-06,Automotive,RJ,Rio de Janeiro,398.77,4,credit_card
+ORD01266,C00541,2023-06-21,Automotive,ES,Vitória,72.99,2,debit_card
+ORD01267,C00426,2022-03-30,Electronics,SP,São Paulo,94.03,3,voucher
+ORD01268,C00122,2023-01-24,Home & Garden,BA,Salvador,120.03,2,boleto
+ORD01269,C00564,2022-05-24,Electronics,PE,Recife,511.93,4,debit_card
+ORD01270,C00175,2022-06-21,Food & Drink,BA,Salvador,145.06,4,boleto
+ORD01271,C00710,2022-10-10,Books,SP,São Paulo,20.16,3,voucher
+ORD01272,C00089,2023-03-23,Electronics,RS,Porto Alegre,330.37,4,credit_card
+ORD01273,C00486,2022-12-12,Books,RS,Porto Alegre,181.62,4,boleto
+ORD01274,C00014,2023-01-15,Food & Drink,SC,Florianópolis,134.29,1,debit_card
+ORD01275,C00508,2022-02-21,Electronics,SP,São Paulo,44.27,2,debit_card
+ORD01276,C00603,2022-08-17,Fashion,SC,Florianópolis,121.04,2,voucher
+ORD01277,C00081,2022-07-23,Books,PE,Recife,88.62,3,debit_card
+ORD01278,C00012,2022-05-15,Health,PE,Recife,354.37,3,voucher
+ORD01279,C00085,2022-06-07,Home & Garden,RJ,Rio de Janeiro,280.03,1,voucher
+ORD01280,C00690,2022-04-11,Sports,ES,Vitória,19.16,1,voucher
+ORD01281,C00528,2023-03-23,Food & Drink,SC,Florianópolis,353.59,2,boleto
+ORD01282,C00519,2022-08-10,Toys,SP,São Paulo,199.3,2,debit_card
+ORD01283,C00114,2023-04-11,Health,GO,Goiânia,273.45,3,debit_card
+ORD01284,C00003,2022-10-15,Automotive,ES,Vitória,393.89,1,credit_card
+ORD01285,C00388,2022-05-11,Beauty,RS,Porto Alegre,32.87,1,debit_card
+ORD01286,C00088,2022-04-06,Beauty,SP,São Paulo,132.89,3,credit_card
+ORD01287,C00755,2023-02-16,Toys,RJ,Rio de Janeiro,119.08,2,debit_card
+ORD01288,C00128,2022-04-17,Toys,RS,Porto Alegre,125.77,4,boleto
+ORD01289,C00638,2023-06-22,Books,MG,Belo Horizonte,288.78,3,credit_card
+ORD01290,C00097,2022-07-05,Home & Garden,MG,Belo Horizonte,325.98,2,debit_card
+ORD01291,C00191,2022-10-07,Food & Drink,RJ,Rio de Janeiro,96.05,2,credit_card
+ORD01292,C00778,2022-09-30,Sports,PE,Recife,199.03,3,debit_card
+ORD01293,C00203,2022-03-30,Health,GO,Goiânia,230.56,1,boleto
+ORD01294,C00071,2022-09-14,Books,MG,Belo Horizonte,223.58,1,credit_card
+ORD01295,C00719,2022-09-28,Fashion,MG,Belo Horizonte,157.07,2,debit_card
+ORD01296,C00699,2022-11-30,Home & Garden,PR,Curitiba,112.31,3,debit_card
+ORD01297,C00169,2022-10-14,Books,GO,Goiânia,362.48,3,voucher
+ORD01298,C00211,2022-04-19,Toys,ES,Vitória,250.49,3,credit_card
+ORD01299,C00005,2022-09-01,Automotive,PE,Recife,359.61,4,credit_card
+ORD01300,C00256,2022-03-14,Electronics,GO,Goiânia,249.19,4,credit_card
+ORD01301,C00114,2022-05-04,Automotive,MG,Belo Horizonte,282.91,2,boleto
+ORD01302,C00174,2022-08-05,Food & Drink,BA,Salvador,245.96,4,debit_card
+ORD01303,C00019,2022-06-14,Books,PE,Recife,80.11,4,credit_card
+ORD01304,C00716,2022-11-02,Health,SP,São Paulo,34.45,3,boleto
+ORD01305,C00710,2022-08-28,Automotive,SC,Florianópolis,329.55,2,credit_card
+ORD01306,C00675,2023-03-07,Health,RS,Porto Alegre,62.46,4,debit_card
+ORD01307,C00392,2023-05-13,Beauty,SP,São Paulo,397.15,1,boleto
+ORD01308,C00022,2022-01-25,Electronics,PR,Curitiba,133.02,2,credit_card
+ORD01309,C00714,2023-03-09,Electronics,GO,Goiânia,475.09,1,voucher
+ORD01310,C00198,2023-03-25,Health,PE,Recife,359.88,3,voucher
+ORD01311,C00760,2023-02-17,Automotive,GO,Goiânia,257.71,2,voucher
+ORD01312,C00697,2023-03-20,Home & Garden,ES,Vitória,199.81,1,boleto
+ORD01313,C00761,2022-10-20,Electronics,BA,Salvador,23.91,4,credit_card
+ORD01314,C00329,2023-01-09,Fashion,SP,São Paulo,138.48,1,boleto
+ORD01315,C00239,2022-07-23,Automotive,MG,Belo Horizonte,89.61,2,credit_card
+ORD01316,C00076,2023-06-27,Automotive,MG,Belo Horizonte,214.62,2,credit_card
+ORD01317,C00541,2023-04-03,Sports,RS,Porto Alegre,266.88,3,debit_card
+ORD01318,C00211,2022-04-22,Toys,SC,Florianópolis,149.67,1,credit_card
+ORD01319,C00108,2022-11-27,Automotive,SC,Florianópolis,196.25,3,voucher
+ORD01320,C00269,2022-04-25,Electronics,MG,Belo Horizonte,288.5,4,credit_card
+ORD01321,C00782,2022-05-27,Health,SC,Florianópolis,286.81,3,voucher
+ORD01322,C00386,2023-03-25,Beauty,RJ,Rio de Janeiro,199.85,2,credit_card
+ORD01323,C00218,2023-04-06,Fashion,PE,Recife,258.81,3,boleto
+ORD01324,C00120,2022-06-19,Electronics,BA,Salvador,109.18,2,voucher
+ORD01325,C00421,2022-10-02,Home & Garden,SC,Florianópolis,82.29,2,credit_card
+ORD01326,C00343,2022-06-27,Electronics,SP,São Paulo,208.9,3,voucher
+ORD01327,C00308,2022-05-06,Beauty,MG,Belo Horizonte,64.5,2,boleto
+ORD01328,C00188,2022-01-23,Beauty,RS,Porto Alegre,212.57,3,boleto
+ORD01329,C00071,2022-08-04,Electronics,BA,Salvador,249.64,3,credit_card
+ORD01330,C00591,2022-09-14,Beauty,RS,Porto Alegre,224.21,4,debit_card
+ORD01331,C00047,2022-10-27,Food & Drink,PR,Curitiba,87.39,4,credit_card
+ORD01332,C00266,2022-02-20,Electronics,MG,Belo Horizonte,50.7,2,voucher
+ORD01333,C00115,2022-01-23,Home & Garden,PR,Curitiba,181.19,3,voucher
+ORD01334,C00677,2023-05-28,Beauty,MG,Belo Horizonte,102.6,1,voucher
+ORD01335,C00695,2022-07-08,Health,RS,Porto Alegre,188.52,2,debit_card
+ORD01336,C00136,2023-02-21,Home & Garden,BA,Salvador,229.61,3,voucher
+ORD01337,C00601,2022-10-04,Beauty,PE,Recife,183.3,3,boleto
+ORD01338,C00646,2022-09-24,Books,MG,Belo Horizonte,170.81,1,boleto
+ORD01339,C00796,2022-05-27,Toys,SP,São Paulo,366.82,2,voucher
+ORD01340,C00269,2022-05-24,Toys,SP,São Paulo,336.26,3,boleto
+ORD01341,C00134,2023-02-27,Beauty,SC,Florianópolis,133.76,3,credit_card
+ORD01342,C00160,2022-04-22,Sports,PE,Recife,68.96,1,debit_card
+ORD01343,C00039,2023-01-22,Sports,RJ,Rio de Janeiro,294.31,3,debit_card
+ORD01344,C00754,2022-09-05,Home & Garden,BA,Salvador,57.1,2,credit_card
+ORD01345,C00109,2022-10-13,Food & Drink,PR,Curitiba,42.94,1,credit_card
+ORD01346,C00162,2023-04-01,Sports,RJ,Rio de Janeiro,389.03,1,credit_card
+ORD01347,C00091,2023-04-27,Electronics,RS,Porto Alegre,157.7,4,boleto
+ORD01348,C00717,2022-06-10,Sports,PR,Curitiba,205.13,4,debit_card
+ORD01349,C00332,2022-08-06,Sports,PE,Recife,107.1,2,credit_card
+ORD01350,C00466,2022-04-25,Health,MG,Belo Horizonte,384.26,2,boleto
+ORD01351,C00469,2023-01-22,Fashion,GO,Goiânia,340.7,2,debit_card
+ORD01352,C00048,2022-01-21,Toys,SP,São Paulo,338.57,4,credit_card
+ORD01353,C00079,2022-06-16,Food & Drink,PE,Recife,334.85,1,credit_card
+ORD01354,C00527,2022-09-15,Sports,PE,Recife,303.14,1,boleto
+ORD01355,C00536,2023-06-13,Toys,RS,Porto Alegre,334.41,3,debit_card
+ORD01356,C00288,2022-11-03,Food & Drink,RS,Porto Alegre,344.4,1,debit_card
+ORD01357,C00180,2023-02-25,Electronics,RS,Porto Alegre,305.91,2,voucher
+ORD01358,C00012,2023-04-17,Beauty,BA,Salvador,292.44,3,credit_card
+ORD01359,C00137,2022-09-25,Food & Drink,ES,Vitória,330.95,2,boleto
+ORD01360,C00742,2022-01-19,Food & Drink,SP,São Paulo,302.33,4,voucher
+ORD01361,C00720,2023-04-20,Sports,SP,São Paulo,273.64,1,boleto
+ORD01362,C00412,2022-09-22,Electronics,ES,Vitória,227.4,4,boleto
+ORD01363,C00331,2022-05-03,Toys,ES,Vitória,338.4,3,voucher
+ORD01364,C00573,2022-12-05,Food & Drink,MG,Belo Horizonte,104.06,2,credit_card
+ORD01365,C00544,2022-12-04,Electronics,RJ,Rio de Janeiro,474.1,3,voucher
+ORD01366,C00135,2023-05-10,Books,PR,Curitiba,83.85,1,voucher
+ORD01367,C00129,2023-06-25,Electronics,PR,Curitiba,544.49,1,credit_card
+ORD01368,C00063,2022-09-25,Home & Garden,SP,São Paulo,212.67,2,voucher
+ORD01369,C00059,2023-05-07,Fashion,RJ,Rio de Janeiro,58.38,3,voucher
+ORD01370,C00324,2022-06-22,Fashion,MG,Belo Horizonte,337.58,3,debit_card
+ORD01371,C00052,2022-08-25,Toys,PE,Recife,188.26,4,credit_card
+ORD01372,C00066,2022-08-17,Electronics,BA,Salvador,85.62,1,credit_card
+ORD01373,C00535,2022-09-15,Fashion,PR,Curitiba,357.83,3,credit_card
+ORD01374,C00570,2022-02-28,Sports,PR,Curitiba,272.71,1,credit_card
+ORD01375,C00016,2022-09-11,Food & Drink,PR,Curitiba,130.12,2,credit_card
+ORD01376,C00111,2022-09-19,Beauty,RJ,Rio de Janeiro,336.78,1,debit_card
+ORD01377,C00524,2022-11-29,Food & Drink,RJ,Rio de Janeiro,214.29,2,boleto
+ORD01378,C00228,2023-02-19,Beauty,SP,São Paulo,35.57,3,debit_card
+ORD01379,C00296,2023-03-31,Food & Drink,MG,Belo Horizonte,51.06,3,boleto
+ORD01380,C00068,2022-11-27,Toys,GO,Goiânia,337.57,2,voucher
+ORD01381,C00659,2022-05-27,Electronics,ES,Vitória,269.98,1,boleto
+ORD01382,C00106,2022-06-13,Electronics,PR,Curitiba,425.68,3,debit_card
+ORD01383,C00020,2022-04-14,Sports,MG,Belo Horizonte,228.36,4,boleto
+ORD01384,C00037,2022-08-11,Books,SC,Florianópolis,239.02,3,credit_card
+ORD01385,C00090,2022-10-06,Health,RJ,Rio de Janeiro,178.97,1,debit_card
+ORD01386,C00163,2022-11-02,Electronics,GO,Goiânia,80.09,4,credit_card
+ORD01387,C00056,2023-03-26,Books,SP,São Paulo,374.47,3,voucher
+ORD01388,C00057,2022-03-27,Food & Drink,ES,Vitória,326.9,4,debit_card
+ORD01389,C00220,2023-04-14,Home & Garden,GO,Goiânia,45.3,4,voucher
+ORD01390,C00054,2023-04-30,Food & Drink,MG,Belo Horizonte,193.41,1,boleto
+ORD01391,C00006,2023-05-07,Health,SP,São Paulo,64.52,4,credit_card
+ORD01392,C00052,2022-06-13,Toys,SP,São Paulo,232.54,2,boleto
+ORD01393,C00659,2022-12-11,Toys,RJ,Rio de Janeiro,90.63,3,voucher
+ORD01394,C00293,2023-04-01,Automotive,BA,Salvador,255.51,4,boleto
+ORD01395,C00042,2023-05-14,Books,SC,Florianópolis,287.87,1,credit_card
+ORD01396,C00134,2023-06-01,Books,PE,Recife,146.3,3,boleto
+ORD01397,C00720,2022-05-21,Toys,GO,Goiânia,125.99,4,voucher
+ORD01398,C00734,2023-03-07,Books,MG,Belo Horizonte,343.19,1,credit_card
+ORD01399,C00298,2023-06-17,Home & Garden,SP,São Paulo,180.12,3,debit_card
+ORD01400,C00082,2022-11-04,Toys,SC,Florianópolis,78.34,4,debit_card
+ORD01401,C00016,2023-04-26,Food & Drink,PR,Curitiba,394.74,1,debit_card
+ORD01402,C00043,2022-11-21,Fashion,MG,Belo Horizonte,107.1,3,credit_card
+ORD01403,C00173,2023-02-06,Food & Drink,PR,Curitiba,240.86,2,credit_card
+ORD01404,C00029,2023-03-21,Fashion,SP,São Paulo,223.28,3,boleto
+ORD01405,C00626,2022-09-02,Home & Garden,ES,Vitória,166.07,4,voucher
+ORD01406,C00577,2022-04-24,Toys,SC,Florianópolis,218.37,3,credit_card
+ORD01407,C00431,2022-03-27,Electronics,ES,Vitória,327.32,2,credit_card
+ORD01408,C00599,2022-09-13,Fashion,BA,Salvador,366.42,1,boleto
+ORD01409,C00438,2022-10-25,Food & Drink,MG,Belo Horizonte,205.83,2,boleto
+ORD01410,C00164,2023-01-03,Food & Drink,ES,Vitória,354.53,3,boleto
+ORD01411,C00290,2023-01-16,Automotive,SC,Florianópolis,159.24,4,boleto
+ORD01412,C00782,2022-05-26,Automotive,BA,Salvador,245.89,4,debit_card
+ORD01413,C00132,2022-02-10,Electronics,RJ,Rio de Janeiro,490.61,1,boleto
+ORD01414,C00155,2023-01-03,Sports,ES,Vitória,32.24,2,boleto
+ORD01415,C00038,2023-01-30,Food & Drink,MG,Belo Horizonte,55.29,2,debit_card
+ORD01416,C00154,2023-02-04,Fashion,PR,Curitiba,169.06,4,credit_card
+ORD01417,C00177,2022-06-12,Toys,MG,Belo Horizonte,341.78,1,boleto
+ORD01418,C00662,2023-06-17,Health,SP,São Paulo,100.14,3,debit_card
+ORD01419,C00192,2022-11-29,Electronics,MG,Belo Horizonte,187.85,4,credit_card
+ORD01420,C00158,2023-05-18,Food & Drink,SC,Florianópolis,296.99,3,credit_card
+ORD01421,C00331,2022-01-01,Automotive,PE,Recife,61.69,3,credit_card
+ORD01422,C00175,2023-04-26,Toys,RS,Porto Alegre,136.66,1,voucher
+ORD01423,C00625,2022-03-08,Beauty,GO,Goiânia,80.0,2,voucher
+ORD01424,C00317,2023-04-16,Food & Drink,SC,Florianópolis,186.37,3,debit_card
+ORD01425,C00303,2022-07-24,Toys,GO,Goiânia,154.95,2,boleto
+ORD01426,C00084,2022-04-15,Electronics,SP,São Paulo,508.46,1,boleto
+ORD01427,C00475,2022-06-21,Books,MG,Belo Horizonte,122.37,4,debit_card
+ORD01428,C00432,2023-04-08,Toys,MG,Belo Horizonte,333.18,4,boleto
+ORD01429,C00598,2022-04-05,Health,BA,Salvador,240.79,4,voucher
+ORD01430,C00188,2023-02-27,Beauty,BA,Salvador,120.83,2,credit_card
+ORD01431,C00723,2023-02-14,Beauty,MG,Belo Horizonte,114.8,3,debit_card
+ORD01432,C00220,2022-05-02,Electronics,ES,Vitória,242.43,1,boleto
+ORD01433,C00566,2023-04-08,Beauty,MG,Belo Horizonte,279.99,4,voucher
+ORD01434,C00194,2023-04-13,Home & Garden,SC,Florianópolis,269.01,3,credit_card
+ORD01435,C00696,2023-04-15,Fashion,RJ,Rio de Janeiro,59.97,2,debit_card
+ORD01436,C00104,2022-12-02,Books,ES,Vitória,286.54,1,boleto
+ORD01437,C00425,2023-04-11,Electronics,PE,Recife,75.95,3,voucher
+ORD01438,C00103,2022-10-03,Food & Drink,RJ,Rio de Janeiro,338.17,4,credit_card
+ORD01439,C00413,2022-08-24,Books,GO,Goiânia,197.19,3,boleto
+ORD01440,C00673,2023-05-07,Health,BA,Salvador,339.1,4,boleto
+ORD01441,C00182,2022-01-29,Home & Garden,RJ,Rio de Janeiro,333.09,1,credit_card
+ORD01442,C00586,2023-04-01,Fashion,MG,Belo Horizonte,109.57,1,credit_card
+ORD01443,C00040,2023-06-17,Fashion,GO,Goiânia,344.22,2,debit_card
+ORD01444,C00022,2022-01-12,Electronics,PE,Recife,43.09,3,debit_card
+ORD01445,C00493,2023-05-23,Beauty,MG,Belo Horizonte,196.57,4,debit_card
+ORD01446,C00051,2023-05-17,Automotive,ES,Vitória,384.7,4,debit_card
+ORD01447,C00144,2022-01-01,Food & Drink,RS,Porto Alegre,262.47,2,voucher
+ORD01448,C00103,2022-11-20,Beauty,PR,Curitiba,73.96,2,debit_card
+ORD01449,C00585,2022-02-18,Sports,PE,Recife,107.74,3,boleto
+ORD01450,C00600,2022-11-15,Toys,PE,Recife,249.67,3,boleto
+ORD01451,C00195,2022-02-11,Books,SP,São Paulo,314.41,2,voucher
+ORD01452,C00180,2023-04-09,Home & Garden,SP,São Paulo,175.07,2,boleto
+ORD01453,C00662,2022-12-02,Toys,RS,Porto Alegre,240.56,2,boleto
+ORD01454,C00129,2022-11-27,Home & Garden,RS,Porto Alegre,172.55,4,boleto
+ORD01455,C00156,2022-11-28,Food & Drink,RS,Porto Alegre,365.6,2,debit_card
+ORD01456,C00198,2022-11-09,Fashion,PE,Recife,311.61,2,boleto
+ORD01457,C00544,2023-06-12,Health,SP,São Paulo,200.85,4,debit_card
+ORD01458,C00478,2022-03-07,Home & Garden,SC,Florianópolis,218.99,2,debit_card
+ORD01459,C00415,2023-01-08,Books,ES,Vitória,26.1,3,voucher
+ORD01460,C00051,2023-02-18,Health,ES,Vitória,348.93,3,boleto
+ORD01461,C00281,2023-01-28,Toys,PR,Curitiba,197.99,4,voucher
+ORD01462,C00026,2022-12-08,Sports,ES,Vitória,281.02,3,boleto
+ORD01463,C00049,2022-07-27,Health,MG,Belo Horizonte,28.94,2,credit_card
+ORD01464,C00046,2023-01-13,Food & Drink,ES,Vitória,108.02,2,credit_card
+ORD01465,C00042,2022-05-12,Food & Drink,MG,Belo Horizonte,84.78,2,boleto
+ORD01466,C00414,2022-06-20,Beauty,MG,Belo Horizonte,63.76,3,credit_card
+ORD01467,C00726,2022-10-24,Books,SC,Florianópolis,35.12,3,boleto
+ORD01468,C00078,2022-12-15,Sports,RJ,Rio de Janeiro,91.57,3,debit_card
+ORD01469,C00080,2022-01-08,Beauty,GO,Goiânia,51.49,3,voucher
+ORD01470,C00001,2022-09-06,Beauty,PE,Recife,126.19,1,voucher
+ORD01471,C00724,2023-06-13,Health,PE,Recife,22.59,2,credit_card
+ORD01472,C00135,2022-11-02,Health,SP,São Paulo,150.03,4,voucher
+ORD01473,C00293,2023-02-20,Toys,MG,Belo Horizonte,373.4,1,credit_card
+ORD01474,C00397,2022-07-21,Electronics,SP,São Paulo,52.55,2,debit_card
+ORD01475,C00573,2022-09-23,Books,GO,Goiânia,371.72,1,voucher
+ORD01476,C00152,2022-01-12,Sports,PE,Recife,231.69,2,debit_card
+ORD01477,C00472,2022-09-25,Health,SC,Florianópolis,77.8,1,debit_card
+ORD01478,C00140,2022-09-28,Home & Garden,ES,Vitória,153.42,3,debit_card
+ORD01479,C00170,2022-03-27,Sports,GO,Goiânia,188.97,1,credit_card
+ORD01480,C00039,2022-09-13,Beauty,PR,Curitiba,54.18,2,boleto
+ORD01481,C00453,2022-08-15,Fashion,GO,Goiânia,24.4,1,boleto
+ORD01482,C00404,2023-02-03,Beauty,PR,Curitiba,242.49,3,debit_card
+ORD01483,C00775,2023-02-16,Fashion,PE,Recife,254.76,1,voucher
+ORD01484,C00042,2022-06-03,Electronics,GO,Goiânia,91.08,4,voucher
+ORD01485,C00035,2023-01-08,Health,MG,Belo Horizonte,20.37,3,voucher
+ORD01486,C00334,2022-12-23,Books,RS,Porto Alegre,146.85,2,debit_card
+ORD01487,C00307,2022-01-29,Automotive,RS,Porto Alegre,300.75,3,voucher
+ORD01488,C00057,2022-04-05,Electronics,RJ,Rio de Janeiro,201.87,1,debit_card
+ORD01489,C00132,2022-01-19,Fashion,MG,Belo Horizonte,341.21,4,credit_card
+ORD01490,C00678,2023-06-09,Beauty,PE,Recife,183.23,4,voucher
+ORD01491,C00226,2022-03-10,Health,MG,Belo Horizonte,383.11,2,boleto
+ORD01492,C00595,2022-06-27,Books,PE,Recife,114.73,4,boleto
+ORD01493,C00017,2022-01-05,Toys,SC,Florianópolis,397.36,4,debit_card
+ORD01494,C00191,2022-12-09,Fashion,PE,Recife,26.23,2,debit_card
+ORD01495,C00716,2022-05-02,Home & Garden,BA,Salvador,45.28,2,voucher
+ORD01496,C00043,2022-12-13,Automotive,GO,Goiânia,94.34,2,credit_card
+ORD01497,C00085,2022-04-04,Beauty,GO,Goiânia,362.69,4,voucher
+ORD01498,C00045,2022-12-25,Toys,PR,Curitiba,324.18,1,boleto
+ORD01499,C00114,2023-05-26,Food & Drink,SP,São Paulo,193.11,1,boleto
+ORD01500,C00188,2023-04-09,Beauty,SP,São Paulo,304.9,3,boleto
+ORD01501,C00647,2022-04-18,Fashion,PR,Curitiba,334.56,3,voucher
+ORD01502,C00516,2022-09-13,Toys,MG,Belo Horizonte,123.54,1,credit_card
+ORD01503,C00234,2023-03-30,Automotive,GO,Goiânia,66.05,4,voucher
+ORD01504,C00352,2022-05-14,Sports,RJ,Rio de Janeiro,265.56,1,voucher
+ORD01505,C00180,2023-02-02,Home & Garden,SP,São Paulo,198.28,3,boleto
+ORD01506,C00297,2023-04-11,Fashion,PE,Recife,121.78,4,debit_card
+ORD01507,C00170,2023-02-27,Fashion,GO,Goiânia,270.22,4,credit_card
+ORD01508,C00405,2022-04-02,Automotive,MG,Belo Horizonte,383.15,1,boleto
+ORD01509,C00752,2022-10-07,Sports,MG,Belo Horizonte,318.44,3,voucher
+ORD01510,C00631,2022-08-09,Beauty,PR,Curitiba,137.05,3,credit_card
+ORD01511,C00247,2023-01-16,Books,RS,Porto Alegre,342.55,1,credit_card
+ORD01512,C00212,2023-06-14,Toys,SP,São Paulo,147.47,4,debit_card
+ORD01513,C00181,2023-07-01,Health,RS,Porto Alegre,356.77,4,voucher
+ORD01514,C00496,2022-07-27,Beauty,RS,Porto Alegre,112.65,4,boleto
+ORD01515,C00053,2023-03-30,Sports,GO,Goiânia,60.0,1,credit_card
+ORD01516,C00646,2022-06-09,Toys,PR,Curitiba,39.66,4,voucher
+ORD01517,C00099,2023-06-24,Home & Garden,RS,Porto Alegre,23.52,3,voucher
+ORD01518,C00109,2022-07-26,Beauty,ES,Vitória,224.03,2,credit_card
+ORD01519,C00427,2022-02-13,Food & Drink,SP,São Paulo,317.48,3,debit_card
+ORD01520,C00434,2022-06-26,Books,ES,Vitória,366.07,3,credit_card
+ORD01521,C00613,2023-02-23,Food & Drink,BA,Salvador,278.96,4,credit_card
+ORD01522,C00367,2023-05-18,Beauty,PR,Curitiba,183.16,3,debit_card
+ORD01523,C00007,2022-04-25,Electronics,RJ,Rio de Janeiro,51.05,4,credit_card
+ORD01524,C00466,2022-08-20,Health,SC,Florianópolis,265.29,1,debit_card
+ORD01525,C00157,2022-10-30,Automotive,GO,Goiânia,373.87,1,debit_card
+ORD01526,C00055,2022-06-21,Food & Drink,PR,Curitiba,21.94,2,voucher
+ORD01527,C00573,2022-06-13,Food & Drink,SP,São Paulo,195.43,1,boleto
+ORD01528,C00116,2022-06-04,Fashion,RS,Porto Alegre,179.22,1,debit_card
+ORD01529,C00127,2023-03-25,Home & Garden,SC,Florianópolis,371.89,2,credit_card
+ORD01530,C00545,2022-07-06,Electronics,PR,Curitiba,215.13,4,credit_card
+ORD01531,C00075,2022-12-03,Fashion,GO,Goiânia,345.02,3,credit_card
+ORD01532,C00101,2022-08-24,Automotive,PR,Curitiba,370.47,4,debit_card
+ORD01533,C00066,2022-11-21,Books,PR,Curitiba,269.62,3,boleto
+ORD01534,C00010,2023-05-05,Automotive,RS,Porto Alegre,165.8,1,voucher
+ORD01535,C00692,2022-01-25,Beauty,MG,Belo Horizonte,229.46,1,credit_card
+ORD01536,C00061,2022-07-04,Sports,PR,Curitiba,196.24,4,credit_card
+ORD01537,C00566,2023-05-01,Food & Drink,BA,Salvador,144.1,4,voucher
+ORD01538,C00047,2023-01-31,Electronics,PR,Curitiba,111.04,2,voucher
+ORD01539,C00027,2023-04-09,Sports,BA,Salvador,333.86,1,voucher
+ORD01540,C00759,2022-11-15,Automotive,GO,Goiânia,319.94,3,debit_card
+ORD01541,C00680,2022-09-17,Automotive,ES,Vitória,164.29,4,debit_card
+ORD01542,C00113,2023-05-29,Fashion,PR,Curitiba,118.18,1,boleto
+ORD01543,C00118,2023-03-29,Health,RJ,Rio de Janeiro,310.84,1,voucher
+ORD01544,C00008,2022-09-13,Electronics,BA,Salvador,491.86,1,credit_card
+ORD01545,C00405,2022-01-15,Home & Garden,MG,Belo Horizonte,298.67,4,debit_card
+ORD01546,C00489,2022-02-14,Beauty,SP,São Paulo,148.89,2,credit_card
+ORD01547,C00001,2023-01-22,Beauty,PE,Recife,346.57,2,voucher
+ORD01548,C00196,2023-05-07,Toys,ES,Vitória,202.89,2,voucher
+ORD01549,C00132,2022-02-16,Beauty,SP,São Paulo,235.08,3,boleto
+ORD01550,C00741,2023-04-07,Health,PR,Curitiba,54.36,4,debit_card
+ORD01551,C00204,2022-08-08,Home & Garden,RJ,Rio de Janeiro,22.85,2,voucher
+ORD01552,C00635,2022-03-30,Books,GO,Goiânia,279.4,3,boleto
+ORD01553,C00674,2022-10-05,Toys,MG,Belo Horizonte,326.46,3,debit_card
+ORD01554,C00206,2023-01-29,Health,GO,Goiânia,178.63,1,voucher
+ORD01555,C00265,2022-01-13,Electronics,RJ,Rio de Janeiro,185.93,4,debit_card
+ORD01556,C00463,2022-01-01,Beauty,MG,Belo Horizonte,384.88,4,boleto
+ORD01557,C00149,2022-08-14,Sports,RS,Porto Alegre,93.36,4,boleto
+ORD01558,C00195,2022-04-19,Home & Garden,SC,Florianópolis,18.16,1,voucher
+ORD01559,C00266,2022-08-31,Health,MG,Belo Horizonte,287.21,3,debit_card
+ORD01560,C00011,2023-06-19,Home & Garden,PE,Recife,67.33,4,debit_card
+ORD01561,C00014,2022-11-18,Books,PE,Recife,243.67,1,voucher
+ORD01562,C00058,2022-05-27,Sports,SP,São Paulo,144.71,4,debit_card
+ORD01563,C00379,2022-09-17,Books,PR,Curitiba,248.39,1,voucher
+ORD01564,C00549,2022-10-23,Fashion,PE,Recife,17.28,2,debit_card
+ORD01565,C00308,2023-03-31,Sports,MG,Belo Horizonte,191.91,1,boleto
+ORD01566,C00095,2022-04-12,Toys,PR,Curitiba,363.8,4,debit_card
+ORD01567,C00028,2022-03-27,Food & Drink,PR,Curitiba,325.3,4,boleto
+ORD01568,C00600,2022-09-07,Home & Garden,PE,Recife,340.93,3,credit_card
+ORD01569,C00430,2022-02-13,Beauty,ES,Vitória,332.11,4,credit_card
+ORD01570,C00639,2022-10-13,Home & Garden,ES,Vitória,271.3,4,voucher
+ORD01571,C00170,2022-07-07,Food & Drink,PE,Recife,112.05,4,voucher
+ORD01572,C00193,2022-03-12,Fashion,ES,Vitória,61.5,1,credit_card
+ORD01573,C00113,2023-06-19,Fashion,MG,Belo Horizonte,26.85,1,voucher
+ORD01574,C00050,2022-11-21,Home & Garden,RJ,Rio de Janeiro,302.95,4,boleto
+ORD01575,C00599,2022-11-30,Toys,PE,Recife,97.14,2,voucher
+ORD01576,C00168,2023-02-13,Books,PR,Curitiba,325.31,3,credit_card
+ORD01577,C00565,2022-08-23,Electronics,PR,Curitiba,89.55,2,credit_card
+ORD01578,C00102,2022-02-16,Books,SC,Florianópolis,29.27,4,debit_card
+ORD01579,C00051,2022-01-06,Health,PR,Curitiba,103.8,4,boleto
+ORD01580,C00058,2023-03-23,Sports,RS,Porto Alegre,133.91,1,credit_card
+ORD01581,C00181,2022-01-19,Books,PR,Curitiba,60.06,3,credit_card
+ORD01582,C00675,2022-07-05,Electronics,SC,Florianópolis,359.25,4,voucher
+ORD01583,C00162,2022-01-20,Fashion,RS,Porto Alegre,210.11,1,boleto
+ORD01584,C00518,2022-04-03,Food & Drink,SC,Florianópolis,200.1,2,boleto
+ORD01585,C00610,2023-04-01,Toys,PR,Curitiba,215.94,2,voucher
+ORD01586,C00082,2022-07-27,Books,SP,São Paulo,128.3,4,credit_card
+ORD01587,C00126,2023-02-24,Home & Garden,BA,Salvador,47.29,2,boleto
+ORD01588,C00029,2022-08-04,Toys,SC,Florianópolis,131.21,3,voucher
+ORD01589,C00242,2022-02-14,Food & Drink,SP,São Paulo,239.62,3,voucher
+ORD01590,C00004,2022-01-27,Fashion,BA,Salvador,133.88,1,credit_card
+ORD01591,C00020,2022-09-02,Sports,RJ,Rio de Janeiro,230.53,1,credit_card
+ORD01592,C00075,2023-02-06,Health,RJ,Rio de Janeiro,397.01,4,credit_card
+ORD01593,C00231,2022-02-06,Books,SP,São Paulo,280.58,4,boleto
+ORD01594,C00794,2022-02-15,Beauty,MG,Belo Horizonte,249.06,2,credit_card
+ORD01595,C00339,2022-02-15,Beauty,GO,Goiânia,232.74,1,credit_card
+ORD01596,C00054,2023-05-26,Fashion,PR,Curitiba,367.97,2,debit_card
+ORD01597,C00553,2022-11-11,Electronics,PE,Recife,526.78,1,boleto
+ORD01598,C00143,2022-01-16,Food & Drink,SC,Florianópolis,38.45,1,debit_card
+ORD01599,C00040,2022-09-17,Sports,RJ,Rio de Janeiro,82.24,4,voucher
+ORD01600,C00319,2022-08-19,Automotive,GO,Goiânia,237.76,3,credit_card
+ORD01601,C00131,2022-11-07,Fashion,RS,Porto Alegre,305.84,3,voucher
+ORD01602,C00366,2022-03-19,Food & Drink,ES,Vitória,71.88,2,boleto
+ORD01603,C00012,2022-12-26,Toys,PE,Recife,22.52,2,debit_card
+ORD01604,C00325,2023-04-25,Home & Garden,ES,Vitória,29.71,1,credit_card
+ORD01605,C00203,2022-09-29,Electronics,PE,Recife,340.96,2,credit_card
+ORD01606,C00158,2023-05-06,Sports,BA,Salvador,80.96,3,boleto
+ORD01607,C00373,2022-11-02,Food & Drink,GO,Goiânia,359.01,4,credit_card
+ORD01608,C00507,2023-06-30,Sports,ES,Vitória,347.48,2,debit_card
+ORD01609,C00107,2022-02-09,Home & Garden,SC,Florianópolis,332.77,1,voucher
+ORD01610,C00293,2023-05-21,Books,GO,Goiânia,308.33,2,credit_card
+ORD01611,C00130,2023-05-24,Health,SC,Florianópolis,342.82,2,boleto
+ORD01612,C00106,2023-05-17,Automotive,PE,Recife,382.33,1,credit_card
+ORD01613,C00311,2022-04-23,Books,SC,Florianópolis,178.84,3,credit_card
+ORD01614,C00158,2022-11-17,Sports,SP,São Paulo,228.41,4,voucher
+ORD01615,C00373,2022-03-18,Automotive,ES,Vitória,312.85,2,debit_card
+ORD01616,C00436,2022-01-12,Home & Garden,RJ,Rio de Janeiro,212.34,3,credit_card
+ORD01617,C00271,2023-05-24,Beauty,PR,Curitiba,319.45,4,credit_card
+ORD01618,C00719,2022-06-29,Beauty,RJ,Rio de Janeiro,217.26,1,credit_card
+ORD01619,C00623,2022-05-01,Toys,SP,São Paulo,219.87,1,voucher
+ORD01620,C00048,2022-11-11,Electronics,SC,Florianópolis,520.92,1,credit_card
+ORD01621,C00102,2023-01-20,Toys,SC,Florianópolis,327.98,2,debit_card
+ORD01622,C00421,2023-02-11,Home & Garden,MG,Belo Horizonte,58.45,4,voucher
+ORD01623,C00648,2022-02-11,Fashion,RS,Porto Alegre,326.07,2,debit_card
+ORD01624,C00171,2022-04-22,Fashion,RS,Porto Alegre,288.43,2,debit_card
+ORD01625,C00182,2022-11-13,Fashion,SC,Florianópolis,340.76,1,voucher
+ORD01626,C00782,2023-06-06,Food & Drink,PR,Curitiba,390.79,2,voucher
+ORD01627,C00397,2022-06-21,Toys,PE,Recife,214.21,4,voucher
+ORD01628,C00221,2022-01-26,Health,BA,Salvador,57.96,2,boleto
+ORD01629,C00291,2022-06-17,Electronics,PR,Curitiba,484.07,2,debit_card
+ORD01630,C00081,2022-02-15,Books,PR,Curitiba,327.55,3,voucher
+ORD01631,C00072,2022-01-16,Toys,RJ,Rio de Janeiro,121.31,4,debit_card
+ORD01632,C00664,2023-03-23,Beauty,SC,Florianópolis,269.15,4,debit_card
+ORD01633,C00542,2022-10-17,Books,SP,São Paulo,93.73,3,boleto
+ORD01634,C00498,2023-01-05,Health,PR,Curitiba,255.64,2,credit_card
+ORD01635,C00091,2023-03-20,Beauty,GO,Goiânia,181.69,2,credit_card
+ORD01636,C00443,2023-01-29,Beauty,ES,Vitória,188.67,1,debit_card
+ORD01637,C00152,2022-05-30,Food & Drink,SC,Florianópolis,319.92,3,debit_card
+ORD01638,C00717,2023-05-29,Electronics,SC,Florianópolis,141.01,1,voucher
+ORD01639,C00446,2022-09-04,Books,MG,Belo Horizonte,31.1,3,voucher
+ORD01640,C00161,2022-03-03,Food & Drink,BA,Salvador,346.93,2,credit_card
+ORD01641,C00389,2023-04-23,Electronics,SC,Florianópolis,539.39,2,voucher
+ORD01642,C00428,2023-03-19,Books,RS,Porto Alegre,111.25,4,credit_card
+ORD01643,C00108,2023-03-06,Electronics,PE,Recife,277.07,4,credit_card
+ORD01644,C00341,2022-01-27,Health,PE,Recife,244.44,2,boleto
+ORD01645,C00481,2023-06-17,Home & Garden,GO,Goiânia,151.73,1,credit_card
+ORD01646,C00601,2022-05-05,Books,SP,São Paulo,86.36,2,boleto
+ORD01647,C00370,2022-12-19,Health,PR,Curitiba,137.53,4,credit_card
+ORD01648,C00691,2022-06-11,Fashion,MG,Belo Horizonte,143.4,1,voucher
+ORD01649,C00111,2022-04-03,Food & Drink,SP,São Paulo,65.85,4,debit_card
+ORD01650,C00013,2022-01-24,Electronics,PR,Curitiba,345.13,1,boleto
+ORD01651,C00722,2022-11-03,Home & Garden,SP,São Paulo,88.72,1,boleto
+ORD01652,C00407,2022-07-28,Automotive,GO,Goiânia,295.46,1,credit_card
+ORD01653,C00599,2022-03-30,Sports,RS,Porto Alegre,228.52,2,voucher
+ORD01654,C00605,2023-01-12,Food & Drink,RS,Porto Alegre,73.92,2,credit_card
+ORD01655,C00653,2022-12-17,Sports,GO,Goiânia,198.39,3,credit_card
+ORD01656,C00065,2023-05-16,Home & Garden,SC,Florianópolis,319.88,4,boleto
+ORD01657,C00266,2022-11-21,Electronics,MG,Belo Horizonte,361.31,3,voucher
+ORD01658,C00181,2023-06-20,Toys,GO,Goiânia,319.11,4,boleto
+ORD01659,C00308,2023-05-05,Electronics,GO,Goiânia,464.45,3,debit_card
+ORD01660,C00669,2022-01-11,Automotive,ES,Vitória,198.24,3,voucher
+ORD01661,C00090,2022-06-05,Home & Garden,PE,Recife,322.04,4,boleto
+ORD01662,C00051,2023-01-15,Fashion,SC,Florianópolis,283.97,2,voucher
+ORD01663,C00095,2023-02-09,Beauty,PR,Curitiba,220.74,3,voucher
+ORD01664,C00100,2022-10-06,Home & Garden,PE,Recife,108.25,3,debit_card
+ORD01665,C00052,2022-12-26,Books,MG,Belo Horizonte,142.36,4,voucher
+ORD01666,C00544,2022-05-08,Beauty,PR,Curitiba,71.22,2,boleto
+ORD01667,C00511,2022-03-10,Books,PR,Curitiba,327.05,4,voucher
+ORD01668,C00112,2022-09-05,Sports,SC,Florianópolis,358.91,4,boleto
+ORD01669,C00466,2022-12-23,Automotive,PE,Recife,338.76,1,boleto
+ORD01670,C00585,2022-01-04,Health,RS,Porto Alegre,321.16,1,boleto
+ORD01671,C00246,2022-09-12,Beauty,SC,Florianópolis,362.36,1,boleto
+ORD01672,C00733,2022-03-08,Sports,SP,São Paulo,117.07,3,credit_card
+ORD01673,C00137,2022-01-27,Food & Drink,PR,Curitiba,84.11,4,boleto
+ORD01674,C00479,2022-11-18,Electronics,BA,Salvador,210.38,4,credit_card
+ORD01675,C00456,2022-10-21,Electronics,ES,Vitória,508.36,4,credit_card
+ORD01676,C00567,2022-08-23,Electronics,GO,Goiânia,370.56,3,voucher
+ORD01677,C00662,2022-04-01,Fashion,PR,Curitiba,180.06,3,boleto
+ORD01678,C00084,2022-04-25,Toys,GO,Goiânia,146.16,3,voucher
+ORD01679,C00177,2023-02-21,Automotive,PR,Curitiba,96.34,4,voucher
+ORD01680,C00309,2022-04-27,Toys,RS,Porto Alegre,282.14,3,credit_card
+ORD01681,C00515,2022-05-17,Health,RS,Porto Alegre,353.74,1,credit_card
+ORD01682,C00628,2022-09-03,Health,GO,Goiânia,352.42,1,boleto
+ORD01683,C00447,2022-06-05,Automotive,SC,Florianópolis,343.92,1,boleto
+ORD01684,C00168,2022-01-25,Food & Drink,GO,Goiânia,124.67,3,boleto
+ORD01685,C00567,2022-03-07,Health,BA,Salvador,88.83,3,voucher
+ORD01686,C00031,2022-07-23,Health,MG,Belo Horizonte,172.64,2,credit_card
+ORD01687,C00072,2022-02-18,Automotive,BA,Salvador,290.3,3,boleto
+ORD01688,C00652,2022-03-12,Food & Drink,MG,Belo Horizonte,270.95,2,debit_card
+ORD01689,C00739,2022-08-01,Beauty,BA,Salvador,51.28,4,boleto
+ORD01690,C00004,2022-12-25,Toys,SP,São Paulo,64.68,3,voucher
+ORD01691,C00073,2023-03-02,Home & Garden,SP,São Paulo,135.17,1,boleto
+ORD01692,C00093,2022-12-16,Beauty,RS,Porto Alegre,91.55,2,voucher
+ORD01693,C00443,2022-12-11,Sports,SP,São Paulo,37.83,3,credit_card
+ORD01694,C00370,2023-04-22,Fashion,SC,Florianópolis,336.14,3,credit_card
+ORD01695,C00259,2022-11-08,Electronics,ES,Vitória,439.9,3,credit_card
+ORD01696,C00595,2022-10-03,Fashion,BA,Salvador,151.38,1,debit_card
+ORD01697,C00119,2023-01-03,Beauty,RS,Porto Alegre,103.48,2,boleto
+ORD01698,C00069,2022-04-22,Fashion,BA,Salvador,389.28,1,debit_card
+ORD01699,C00460,2022-06-09,Beauty,RS,Porto Alegre,320.18,4,voucher
+ORD01700,C00059,2022-08-02,Food & Drink,PE,Recife,161.38,1,debit_card
+ORD01701,C00137,2022-10-16,Health,PE,Recife,22.58,1,voucher
+ORD01702,C00184,2022-11-20,Electronics,ES,Vitória,406.69,1,voucher
+ORD01703,C00215,2022-11-21,Books,SC,Florianópolis,294.16,4,boleto
+ORD01704,C00127,2023-05-18,Beauty,BA,Salvador,353.9,1,boleto
+ORD01705,C00427,2022-10-28,Home & Garden,GO,Goiânia,76.68,1,credit_card
+ORD01706,C00043,2022-06-12,Electronics,BA,Salvador,254.17,1,voucher
+ORD01707,C00119,2023-05-26,Beauty,SC,Florianópolis,335.32,2,credit_card
+ORD01708,C00199,2023-03-09,Fashion,BA,Salvador,193.92,4,credit_card
+ORD01709,C00255,2022-01-12,Toys,BA,Salvador,24.79,1,boleto
+ORD01710,C00057,2022-03-18,Fashion,SP,São Paulo,255.15,3,voucher
+ORD01711,C00371,2023-06-06,Fashion,SP,São Paulo,98.72,4,boleto
+ORD01712,C00760,2023-03-04,Toys,PR,Curitiba,154.9,1,voucher
+ORD01713,C00069,2022-06-05,Automotive,ES,Vitória,295.83,2,boleto
+ORD01714,C00146,2022-06-29,Home & Garden,SP,São Paulo,184.73,1,boleto
+ORD01715,C00312,2022-10-31,Home & Garden,RS,Porto Alegre,148.19,3,voucher
+ORD01716,C00134,2022-09-11,Beauty,BA,Salvador,175.31,2,boleto
+ORD01717,C00047,2023-06-15,Home & Garden,RJ,Rio de Janeiro,134.34,2,boleto
+ORD01718,C00593,2023-06-01,Health,RS,Porto Alegre,209.33,1,boleto
+ORD01719,C00659,2022-12-07,Sports,GO,Goiânia,239.14,4,credit_card
+ORD01720,C00345,2023-04-19,Health,RS,Porto Alegre,206.03,3,debit_card
+ORD01721,C00647,2022-04-24,Books,RJ,Rio de Janeiro,94.48,4,voucher
+ORD01722,C00135,2023-05-17,Fashion,SP,São Paulo,112.12,3,boleto
+ORD01723,C00258,2023-04-09,Automotive,PR,Curitiba,74.07,2,boleto
+ORD01724,C00163,2022-01-27,Toys,GO,Goiânia,319.54,2,boleto
+ORD01725,C00487,2022-09-19,Electronics,SC,Florianópolis,162.72,2,boleto
+ORD01726,C00026,2023-01-13,Health,GO,Goiânia,87.13,4,credit_card
+ORD01727,C00527,2022-07-15,Toys,RJ,Rio de Janeiro,203.74,1,credit_card
+ORD01728,C00440,2022-01-08,Food & Drink,PR,Curitiba,362.81,3,debit_card
+ORD01729,C00621,2022-07-12,Beauty,SC,Florianópolis,78.59,4,debit_card
+ORD01730,C00177,2023-01-15,Home & Garden,ES,Vitória,300.52,3,voucher
+ORD01731,C00564,2022-06-12,Toys,SP,São Paulo,33.32,1,voucher
+ORD01732,C00435,2022-03-05,Fashion,BA,Salvador,121.09,1,debit_card
+ORD01733,C00176,2023-03-02,Fashion,MG,Belo Horizonte,201.18,1,voucher
+ORD01734,C00038,2022-07-21,Books,SC,Florianópolis,77.46,3,voucher
+ORD01735,C00237,2022-02-04,Books,PR,Curitiba,219.8,1,voucher
+ORD01736,C00100,2022-03-17,Health,PR,Curitiba,369.89,3,boleto
+ORD01737,C00371,2022-10-22,Fashion,SC,Florianópolis,230.69,2,voucher
+ORD01738,C00144,2023-05-22,Food & Drink,SC,Florianópolis,60.45,2,credit_card
+ORD01739,C00088,2022-02-13,Toys,MG,Belo Horizonte,190.3,1,debit_card
+ORD01740,C00380,2022-11-29,Toys,PR,Curitiba,178.62,2,debit_card
+ORD01741,C00305,2023-02-18,Sports,RJ,Rio de Janeiro,140.4,1,credit_card
+ORD01742,C00698,2023-05-20,Home & Garden,PE,Recife,193.01,4,boleto
+ORD01743,C00154,2022-06-24,Health,GO,Goiânia,387.38,2,debit_card
+ORD01744,C00128,2023-02-01,Beauty,PE,Recife,227.53,4,voucher
+ORD01745,C00537,2023-05-10,Beauty,RS,Porto Alegre,290.52,3,debit_card
+ORD01746,C00070,2022-05-22,Electronics,PE,Recife,290.49,2,boleto
+ORD01747,C00200,2022-06-27,Beauty,MG,Belo Horizonte,119.67,4,credit_card
+ORD01748,C00552,2023-01-30,Health,RJ,Rio de Janeiro,314.94,4,boleto
+ORD01749,C00135,2023-01-13,Food & Drink,ES,Vitória,236.48,4,voucher
+ORD01750,C00498,2022-03-16,Beauty,SC,Florianópolis,180.0,4,debit_card
+ORD01751,C00347,2023-04-30,Home & Garden,GO,Goiânia,178.7,4,voucher
+ORD01752,C00599,2022-08-05,Health,SC,Florianópolis,273.07,3,credit_card
+ORD01753,C00610,2022-07-18,Fashion,RS,Porto Alegre,146.48,2,voucher
+ORD01754,C00089,2023-03-27,Home & Garden,PE,Recife,45.67,1,voucher
+ORD01755,C00291,2022-01-09,Automotive,BA,Salvador,294.42,3,credit_card
+ORD01756,C00662,2023-02-03,Food & Drink,BA,Salvador,32.21,1,voucher
+ORD01757,C00191,2022-12-21,Electronics,RJ,Rio de Janeiro,115.66,3,voucher
+ORD01758,C00241,2022-05-27,Fashion,GO,Goiânia,113.86,4,credit_card
+ORD01759,C00339,2023-05-23,Electronics,PR,Curitiba,232.71,2,voucher
+ORD01760,C00021,2022-04-19,Fashion,RS,Porto Alegre,268.66,1,debit_card
+ORD01761,C00032,2022-09-30,Sports,RJ,Rio de Janeiro,29.68,1,boleto
+ORD01762,C00643,2022-06-15,Automotive,PR,Curitiba,174.67,4,credit_card
+ORD01763,C00081,2022-07-20,Sports,RJ,Rio de Janeiro,275.19,4,credit_card
+ORD01764,C00122,2022-07-21,Books,PE,Recife,243.59,2,debit_card
+ORD01765,C00046,2022-02-26,Fashion,GO,Goiânia,47.03,4,boleto
+ORD01766,C00437,2022-06-14,Automotive,MG,Belo Horizonte,208.16,2,voucher
+ORD01767,C00364,2022-03-20,Health,PR,Curitiba,276.23,4,debit_card
+ORD01768,C00776,2023-02-07,Home & Garden,RJ,Rio de Janeiro,236.32,1,voucher
+ORD01769,C00100,2022-02-25,Electronics,PR,Curitiba,557.58,1,voucher
+ORD01770,C00669,2022-09-26,Books,ES,Vitória,295.93,4,voucher
+ORD01771,C00545,2022-02-20,Sports,PE,Recife,288.44,4,voucher
+ORD01772,C00618,2023-01-08,Books,MG,Belo Horizonte,17.61,4,debit_card
+ORD01773,C00607,2022-03-12,Toys,PR,Curitiba,45.23,4,debit_card
+ORD01774,C00226,2023-05-20,Automotive,SC,Florianópolis,325.32,2,debit_card
+ORD01775,C00373,2023-05-04,Beauty,GO,Goiânia,28.28,1,voucher
+ORD01776,C00115,2022-04-17,Fashion,ES,Vitória,116.39,4,boleto
+ORD01777,C00199,2023-04-06,Health,SP,São Paulo,297.75,2,credit_card
+ORD01778,C00279,2022-04-14,Toys,PR,Curitiba,98.63,3,voucher
+ORD01779,C00670,2022-05-21,Sports,BA,Salvador,85.86,3,voucher
+ORD01780,C00081,2022-03-02,Food & Drink,RJ,Rio de Janeiro,323.67,2,voucher
+ORD01781,C00462,2022-03-18,Automotive,PE,Recife,334.91,1,credit_card
+ORD01782,C00166,2022-06-13,Home & Garden,PR,Curitiba,373.03,4,boleto
+ORD01783,C00357,2022-11-06,Sports,GO,Goiânia,22.06,4,boleto
+ORD01784,C00328,2023-04-01,Automotive,PE,Recife,376.31,2,voucher
+ORD01785,C00147,2022-09-30,Fashion,PR,Curitiba,22.88,1,credit_card
+ORD01786,C00239,2023-03-17,Home & Garden,RJ,Rio de Janeiro,399.81,1,voucher
+ORD01787,C00588,2023-02-24,Electronics,BA,Salvador,143.59,3,voucher
+ORD01788,C00044,2023-04-16,Automotive,BA,Salvador,332.23,2,credit_card
+ORD01789,C00394,2022-10-07,Food & Drink,RS,Porto Alegre,112.6,1,voucher
+ORD01790,C00214,2022-02-03,Fashion,ES,Vitória,212.28,2,debit_card
+ORD01791,C00142,2022-02-16,Health,GO,Goiânia,149.55,2,boleto
+ORD01792,C00562,2023-03-21,Automotive,RS,Porto Alegre,391.4,2,credit_card
+ORD01793,C00001,2022-03-07,Beauty,RJ,Rio de Janeiro,57.21,1,boleto
+ORD01794,C00282,2022-03-16,Fashion,BA,Salvador,303.79,3,voucher
+ORD01795,C00195,2022-12-20,Beauty,SC,Florianópolis,380.99,3,debit_card
+ORD01796,C00125,2023-02-27,Books,SP,São Paulo,350.1,4,debit_card
+ORD01797,C00192,2023-02-20,Books,ES,Vitória,239.62,1,boleto
+ORD01798,C00583,2023-01-02,Electronics,SP,São Paulo,100.46,1,boleto
+ORD01799,C00101,2023-04-30,Books,BA,Salvador,300.92,2,credit_card
+ORD01800,C00502,2022-01-14,Home & Garden,ES,Vitória,376.64,3,voucher
+ORD01801,C00475,2022-01-22,Food & Drink,RJ,Rio de Janeiro,208.74,3,voucher
+ORD01802,C00273,2022-09-03,Beauty,PR,Curitiba,386.93,2,boleto
+ORD01803,C00310,2022-01-08,Books,RJ,Rio de Janeiro,28.2,4,credit_card
+ORD01804,C00081,2022-08-07,Automotive,SP,São Paulo,390.59,2,credit_card
+ORD01805,C00084,2022-08-08,Beauty,SP,São Paulo,311.45,1,voucher
+ORD01806,C00792,2022-07-08,Electronics,MG,Belo Horizonte,182.48,3,voucher
+ORD01807,C00093,2022-10-29,Home & Garden,BA,Salvador,306.5,4,credit_card
+ORD01808,C00185,2022-03-18,Beauty,BA,Salvador,172.79,4,voucher
+ORD01809,C00137,2022-10-17,Toys,RJ,Rio de Janeiro,367.18,1,credit_card
+ORD01810,C00300,2022-07-02,Food & Drink,SC,Florianópolis,352.79,4,boleto
+ORD01811,C00724,2023-05-18,Beauty,PE,Recife,259.7,2,voucher
+ORD01812,C00228,2023-03-15,Fashion,BA,Salvador,36.88,1,boleto
+ORD01813,C00009,2022-08-22,Food & Drink,SC,Florianópolis,250.74,2,credit_card
+ORD01814,C00026,2022-10-01,Electronics,GO,Goiânia,189.43,4,voucher
+ORD01815,C00594,2022-10-10,Electronics,PE,Recife,164.1,1,credit_card
+ORD01816,C00068,2023-04-29,Sports,BA,Salvador,252.76,1,debit_card
+ORD01817,C00085,2022-11-09,Sports,SC,Florianópolis,146.32,3,credit_card
+ORD01818,C00446,2022-08-10,Automotive,RJ,Rio de Janeiro,81.1,2,voucher
+ORD01819,C00700,2023-03-30,Beauty,GO,Goiânia,19.05,2,credit_card
+ORD01820,C00669,2023-04-09,Food & Drink,GO,Goiânia,337.37,4,boleto
+ORD01821,C00419,2023-05-04,Books,RJ,Rio de Janeiro,104.45,1,debit_card
+ORD01822,C00016,2022-02-10,Sports,ES,Vitória,60.9,4,boleto
+ORD01823,C00027,2023-03-16,Books,PE,Recife,125.87,4,debit_card
+ORD01824,C00149,2022-06-21,Sports,RJ,Rio de Janeiro,214.92,1,voucher
+ORD01825,C00667,2022-10-04,Beauty,SC,Florianópolis,205.42,4,voucher
+ORD01826,C00167,2022-01-28,Toys,MG,Belo Horizonte,362.04,1,debit_card
+ORD01827,C00190,2023-04-11,Toys,GO,Goiânia,63.36,4,debit_card
+ORD01828,C00179,2023-01-20,Food & Drink,SC,Florianópolis,192.81,4,debit_card
+ORD01829,C00191,2023-04-02,Home & Garden,PR,Curitiba,223.72,3,boleto
+ORD01830,C00176,2022-04-14,Fashion,MG,Belo Horizonte,173.2,2,voucher
+ORD01831,C00670,2022-05-15,Books,RS,Porto Alegre,71.8,3,voucher
+ORD01832,C00170,2022-04-05,Fashion,PR,Curitiba,130.97,4,boleto
+ORD01833,C00035,2023-06-04,Beauty,RS,Porto Alegre,291.21,1,debit_card
+ORD01834,C00094,2023-06-19,Home & Garden,MG,Belo Horizonte,96.54,3,boleto
+ORD01835,C00064,2022-04-22,Automotive,GO,Goiânia,318.59,3,debit_card
+ORD01836,C00356,2022-09-10,Books,SP,São Paulo,142.52,4,debit_card
+ORD01837,C00688,2022-08-10,Books,SC,Florianópolis,208.39,4,credit_card
+ORD01838,C00037,2023-06-25,Books,PE,Recife,294.16,4,credit_card
+ORD01839,C00449,2022-01-02,Fashion,SP,São Paulo,115.77,4,credit_card
+ORD01840,C00307,2022-10-20,Home & Garden,SC,Florianópolis,387.95,4,debit_card
+ORD01841,C00007,2022-03-06,Books,PE,Recife,97.39,4,debit_card
+ORD01842,C00212,2022-09-19,Automotive,RS,Porto Alegre,303.77,3,credit_card
+ORD01843,C00008,2022-10-24,Fashion,PR,Curitiba,112.37,1,voucher
+ORD01844,C00707,2022-12-28,Automotive,RJ,Rio de Janeiro,105.72,2,boleto
+ORD01845,C00122,2022-12-22,Electronics,SP,São Paulo,520.23,4,debit_card
+ORD01846,C00189,2022-08-24,Automotive,PE,Recife,134.41,2,boleto
+ORD01847,C00334,2022-08-08,Home & Garden,PR,Curitiba,291.83,1,debit_card
+ORD01848,C00193,2022-01-28,Sports,SP,São Paulo,334.62,1,boleto
+ORD01849,C00302,2022-12-14,Health,BA,Salvador,371.33,4,credit_card
+ORD01850,C00790,2022-03-18,Food & Drink,PR,Curitiba,78.15,4,boleto
+ORD01851,C00024,2022-11-06,Toys,SC,Florianópolis,201.35,3,debit_card
+ORD01852,C00254,2022-02-05,Toys,SC,Florianópolis,340.57,4,debit_card
+ORD01853,C00052,2023-05-26,Toys,PE,Recife,114.55,2,credit_card
+ORD01854,C00019,2022-12-04,Health,RJ,Rio de Janeiro,123.29,1,voucher
+ORD01855,C00729,2023-03-16,Food & Drink,RJ,Rio de Janeiro,228.56,1,debit_card
+ORD01856,C00077,2022-02-02,Toys,PR,Curitiba,112.5,2,voucher
+ORD01857,C00080,2022-12-24,Books,PE,Recife,174.42,4,credit_card
+ORD01858,C00261,2023-04-08,Fashion,PE,Recife,151.21,2,boleto
+ORD01859,C00059,2022-04-21,Automotive,RJ,Rio de Janeiro,399.34,4,voucher
+ORD01860,C00631,2022-12-09,Toys,PE,Recife,232.77,2,credit_card
+ORD01861,C00687,2022-06-13,Fashion,GO,Goiânia,102.45,4,boleto
+ORD01862,C00196,2022-10-14,Sports,SP,São Paulo,280.35,3,boleto
+ORD01863,C00189,2022-06-17,Automotive,MG,Belo Horizonte,254.71,2,boleto
+ORD01864,C00361,2023-02-26,Food & Drink,MG,Belo Horizonte,383.7,4,credit_card
+ORD01865,C00153,2022-03-19,Automotive,RS,Porto Alegre,246.6,4,credit_card
+ORD01866,C00765,2022-04-02,Toys,ES,Vitória,85.43,4,debit_card
+ORD01867,C00072,2022-04-09,Sports,PE,Recife,321.25,2,credit_card
+ORD01868,C00102,2023-06-06,Automotive,PR,Curitiba,22.41,4,boleto
+ORD01869,C00642,2022-08-01,Books,PR,Curitiba,206.4,1,boleto
+ORD01870,C00255,2022-05-29,Sports,RJ,Rio de Janeiro,302.02,1,credit_card
+ORD01871,C00352,2022-06-01,Food & Drink,SP,São Paulo,388.16,1,voucher
+ORD01872,C00768,2022-08-29,Fashion,BA,Salvador,233.62,3,boleto
+ORD01873,C00062,2022-02-09,Books,RS,Porto Alegre,380.88,1,voucher
+ORD01874,C00078,2022-10-07,Fashion,PE,Recife,75.55,4,debit_card
+ORD01875,C00075,2023-01-25,Toys,MG,Belo Horizonte,246.39,2,credit_card
+ORD01876,C00139,2022-02-07,Books,RJ,Rio de Janeiro,159.91,4,voucher
+ORD01877,C00034,2022-05-03,Automotive,RJ,Rio de Janeiro,269.09,4,voucher
+ORD01878,C00201,2023-03-19,Sports,BA,Salvador,331.76,2,boleto
+ORD01879,C00624,2022-02-28,Fashion,GO,Goiânia,117.66,3,debit_card
+ORD01880,C00413,2023-04-18,Automotive,ES,Vitória,15.39,4,debit_card
+ORD01881,C00657,2022-04-19,Health,PE,Recife,191.78,1,boleto
+ORD01882,C00298,2023-02-17,Automotive,PR,Curitiba,217.22,1,voucher
+ORD01883,C00225,2022-06-16,Home & Garden,BA,Salvador,377.72,4,credit_card
+ORD01884,C00229,2023-06-15,Fashion,GO,Goiânia,277.82,2,debit_card
+ORD01885,C00175,2022-11-06,Electronics,SC,Florianópolis,47.96,3,voucher
+ORD01886,C00482,2023-05-15,Electronics,MG,Belo Horizonte,157.01,3,debit_card
+ORD01887,C00020,2022-03-10,Food & Drink,PE,Recife,336.83,4,boleto
+ORD01888,C00129,2022-01-13,Health,MG,Belo Horizonte,18.47,4,voucher
+ORD01889,C00454,2022-12-23,Health,RJ,Rio de Janeiro,242.19,4,debit_card
+ORD01890,C00548,2022-02-28,Sports,MG,Belo Horizonte,40.38,1,debit_card
+ORD01891,C00556,2023-01-02,Food & Drink,PR,Curitiba,189.4,3,credit_card
+ORD01892,C00110,2022-03-04,Books,ES,Vitória,229.08,3,credit_card
+ORD01893,C00537,2022-03-14,Electronics,SP,São Paulo,194.72,1,voucher
+ORD01894,C00242,2022-01-28,Toys,SC,Florianópolis,49.5,1,voucher
+ORD01895,C00518,2022-01-30,Home & Garden,PR,Curitiba,349.01,2,credit_card
+ORD01896,C00625,2022-10-21,Fashion,RS,Porto Alegre,131.42,2,voucher
+ORD01897,C00133,2022-01-21,Home & Garden,RJ,Rio de Janeiro,231.62,1,voucher
+ORD01898,C00591,2022-06-15,Sports,SP,São Paulo,310.4,1,boleto
+ORD01899,C00744,2022-09-12,Books,ES,Vitória,129.15,1,debit_card
+ORD01900,C00253,2023-05-26,Home & Garden,BA,Salvador,239.6,3,voucher
+ORD01901,C00152,2023-04-05,Fashion,SP,São Paulo,134.26,4,boleto
+ORD01902,C00004,2022-05-28,Health,SC,Florianópolis,215.64,1,credit_card
+ORD01903,C00253,2023-01-28,Toys,RJ,Rio de Janeiro,147.22,3,boleto
+ORD01904,C00090,2022-05-16,Food & Drink,GO,Goiânia,266.33,4,voucher
+ORD01905,C00589,2022-07-17,Electronics,BA,Salvador,503.07,2,credit_card
+ORD01906,C00236,2022-02-21,Health,SP,São Paulo,138.59,3,voucher
+ORD01907,C00533,2023-04-23,Home & Garden,PR,Curitiba,172.52,1,credit_card
+ORD01908,C00441,2022-01-13,Sports,RS,Porto Alegre,50.06,4,voucher
+ORD01909,C00084,2023-05-05,Electronics,RJ,Rio de Janeiro,238.62,2,debit_card
+ORD01910,C00646,2022-12-17,Books,MG,Belo Horizonte,68.92,1,credit_card
+ORD01911,C00214,2022-04-02,Food & Drink,RS,Porto Alegre,365.83,2,credit_card
+ORD01912,C00144,2023-02-23,Books,PE,Recife,251.69,4,voucher
+ORD01913,C00159,2022-09-28,Electronics,SC,Florianópolis,304.08,4,voucher
+ORD01914,C00267,2022-11-08,Beauty,PR,Curitiba,277.76,4,voucher
+ORD01915,C00178,2022-09-06,Automotive,RS,Porto Alegre,117.23,1,boleto
+ORD01916,C00195,2022-08-09,Automotive,PE,Recife,97.57,2,boleto
+ORD01917,C00593,2022-06-16,Automotive,BA,Salvador,206.24,3,voucher
+ORD01918,C00110,2022-08-22,Health,PE,Recife,290.2,1,credit_card
+ORD01919,C00056,2023-06-23,Health,GO,Goiânia,41.86,2,debit_card
+ORD01920,C00103,2022-08-28,Food & Drink,SP,São Paulo,84.88,3,voucher
+ORD01921,C00651,2022-04-02,Sports,BA,Salvador,381.02,2,credit_card
+ORD01922,C00142,2022-02-28,Food & Drink,SC,Florianópolis,370.98,4,boleto
+ORD01923,C00091,2022-03-03,Fashion,GO,Goiânia,108.67,2,voucher
+ORD01924,C00078,2022-12-13,Books,PR,Curitiba,326.65,4,voucher
+ORD01925,C00054,2023-02-16,Sports,PE,Recife,23.61,3,credit_card
+ORD01926,C00779,2022-01-17,Beauty,MG,Belo Horizonte,256.19,2,debit_card
+ORD01927,C00392,2023-05-03,Books,ES,Vitória,376.97,2,credit_card
+ORD01928,C00098,2023-02-14,Automotive,RS,Porto Alegre,237.72,3,voucher
+ORD01929,C00415,2022-03-23,Electronics,PE,Recife,295.35,2,boleto
+ORD01930,C00158,2022-08-04,Food & Drink,SP,São Paulo,83.16,4,debit_card
+ORD01931,C00623,2022-05-24,Books,RJ,Rio de Janeiro,155.22,3,credit_card
+ORD01932,C00079,2023-06-13,Sports,SP,São Paulo,103.16,4,voucher
+ORD01933,C00296,2022-04-14,Books,ES,Vitória,213.47,4,boleto
+ORD01934,C00328,2022-02-11,Health,RS,Porto Alegre,265.76,1,credit_card
+ORD01935,C00114,2023-03-13,Home & Garden,PR,Curitiba,32.35,2,voucher
+ORD01936,C00164,2022-08-01,Food & Drink,SP,São Paulo,321.19,3,credit_card
+ORD01937,C00738,2023-01-12,Fashion,ES,Vitória,205.86,1,credit_card
+ORD01938,C00667,2022-07-23,Toys,RS,Porto Alegre,320.75,2,boleto
+ORD01939,C00125,2022-04-05,Home & Garden,ES,Vitória,287.1,1,boleto
+ORD01940,C00088,2023-05-21,Sports,PR,Curitiba,347.17,1,debit_card
+ORD01941,C00136,2022-11-25,Beauty,GO,Goiânia,65.32,1,boleto
+ORD01942,C00164,2022-05-02,Books,PR,Curitiba,52.33,2,credit_card
+ORD01943,C00231,2022-03-11,Health,BA,Salvador,268.29,3,voucher
+ORD01944,C00149,2022-08-31,Toys,MG,Belo Horizonte,244.43,1,debit_card
+ORD01945,C00143,2023-05-21,Home & Garden,SC,Florianópolis,113.02,3,debit_card
+ORD01946,C00063,2023-04-28,Beauty,GO,Goiânia,292.98,2,boleto
+ORD01947,C00023,2023-05-31,Sports,RS,Porto Alegre,64.5,4,boleto
+ORD01948,C00011,2023-06-21,Automotive,SC,Florianópolis,216.84,2,debit_card
+ORD01949,C00024,2023-02-09,Beauty,PR,Curitiba,226.35,4,boleto
+ORD01950,C00290,2022-09-22,Toys,PR,Curitiba,312.21,4,boleto
+ORD01951,C00189,2022-12-26,Health,SP,São Paulo,127.26,2,boleto
+ORD01952,C00667,2022-05-15,Fashion,RJ,Rio de Janeiro,204.9,2,credit_card
+ORD01953,C00553,2023-04-04,Beauty,SP,São Paulo,308.95,4,debit_card
+ORD01954,C00328,2022-10-02,Fashion,GO,Goiânia,145.72,1,voucher
+ORD01955,C00173,2022-01-17,Automotive,RJ,Rio de Janeiro,29.89,1,voucher
+ORD01956,C00616,2022-03-19,Fashion,PE,Recife,294.88,3,credit_card
+ORD01957,C00113,2022-05-15,Health,PR,Curitiba,132.08,3,credit_card
+ORD01958,C00163,2022-02-13,Sports,MG,Belo Horizonte,182.8,3,voucher
+ORD01959,C00321,2022-10-21,Food & Drink,MG,Belo Horizonte,282.4,3,voucher
+ORD01960,C00478,2022-03-07,Health,RJ,Rio de Janeiro,336.26,2,voucher
+ORD01961,C00122,2022-02-02,Health,RJ,Rio de Janeiro,64.22,1,debit_card
+ORD01962,C00307,2022-03-20,Books,RS,Porto Alegre,267.65,2,voucher
+ORD01963,C00065,2022-01-05,Books,GO,Goiânia,372.83,1,debit_card
+ORD01964,C00003,2023-03-15,Food & Drink,ES,Vitória,357.69,2,debit_card
+ORD01965,C00043,2022-08-24,Books,RJ,Rio de Janeiro,262.56,3,voucher
+ORD01966,C00314,2023-05-29,Fashion,RS,Porto Alegre,97.68,3,debit_card
+ORD01967,C00567,2022-04-16,Home & Garden,MG,Belo Horizonte,113.55,4,debit_card
+ORD01968,C00084,2022-07-14,Books,RJ,Rio de Janeiro,363.2,4,voucher
+ORD01969,C00193,2022-04-16,Health,PR,Curitiba,269.74,3,debit_card
+ORD01970,C00695,2023-01-05,Fashion,MG,Belo Horizonte,332.92,3,debit_card
+ORD01971,C00090,2022-05-02,Automotive,RS,Porto Alegre,46.13,3,debit_card
+ORD01972,C00394,2022-08-16,Home & Garden,PR,Curitiba,201.87,3,debit_card
+ORD01973,C00067,2023-04-23,Health,RJ,Rio de Janeiro,237.11,3,voucher
+ORD01974,C00057,2022-11-26,Electronics,SC,Florianópolis,242.83,1,voucher
+ORD01975,C00489,2023-02-24,Food & Drink,PE,Recife,375.95,4,voucher
+ORD01976,C00284,2022-11-30,Toys,ES,Vitória,231.03,4,credit_card
+ORD01977,C00120,2022-09-07,Food & Drink,GO,Goiânia,29.55,3,boleto
+ORD01978,C00415,2023-02-13,Beauty,MG,Belo Horizonte,251.64,1,debit_card
+ORD01979,C00316,2023-04-29,Books,GO,Goiânia,371.78,3,credit_card
+ORD01980,C00669,2022-03-24,Home & Garden,ES,Vitória,68.09,2,debit_card
+ORD01981,C00021,2022-07-10,Health,BA,Salvador,352.61,3,boleto
+ORD01982,C00037,2022-06-02,Health,SC,Florianópolis,384.7,3,debit_card
+ORD01983,C00227,2022-09-04,Health,BA,Salvador,285.57,3,voucher
+ORD01984,C00029,2023-01-07,Home & Garden,PR,Curitiba,28.08,4,credit_card
+ORD01985,C00038,2022-02-26,Books,MG,Belo Horizonte,203.38,1,debit_card
+ORD01986,C00559,2022-01-12,Toys,RS,Porto Alegre,41.56,2,debit_card
+ORD01987,C00435,2022-06-19,Food & Drink,ES,Vitória,156.82,1,credit_card
+ORD01988,C00528,2022-11-17,Food & Drink,SP,São Paulo,23.89,1,voucher
+ORD01989,C00640,2023-06-29,Health,PE,Recife,188.0,1,debit_card
+ORD01990,C00149,2022-01-05,Electronics,BA,Salvador,68.96,2,credit_card
+ORD01991,C00014,2022-09-28,Fashion,RJ,Rio de Janeiro,33.91,1,debit_card
+ORD01992,C00239,2023-03-26,Beauty,RS,Porto Alegre,386.91,2,boleto
+ORD01993,C00238,2023-06-11,Sports,MG,Belo Horizonte,120.43,2,credit_card
+ORD01994,C00132,2023-02-23,Food & Drink,ES,Vitória,161.64,2,voucher
+ORD01995,C00686,2023-01-08,Fashion,MG,Belo Horizonte,188.4,4,credit_card
+ORD01996,C00189,2022-09-10,Home & Garden,MG,Belo Horizonte,383.82,2,voucher
+ORD01997,C00478,2022-03-10,Sports,RS,Porto Alegre,32.73,3,credit_card
+ORD01998,C00481,2022-01-31,Home & Garden,MG,Belo Horizonte,24.28,2,credit_card
+ORD01999,C00187,2022-12-02,Electronics,RS,Porto Alegre,534.71,4,credit_card
+ORD02000,C00652,2022-10-27,Automotive,PR,Curitiba,59.21,1,debit_card
